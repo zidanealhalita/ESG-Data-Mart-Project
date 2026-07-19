@@ -34,6 +34,22 @@ st.set_page_config(
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DB_PATH = PROJECT_ROOT / "data" / "esg_data_mart.db"
 
+import sys
+# Memastikan folder root terdeteksi agar bisa mengimpor folder etl
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.append(str(PROJECT_ROOT))
+
+from etl.etl_pipeline import main as run_etl_pipeline
+
+if not DB_PATH.exists():
+    with st.spinner("Database tidak ditemukan. Menjalankan ETL otomatis dari file CSV..."):
+        try:
+            run_etl_pipeline()
+            st.success("Database berhasil dibangun ulang otomatis!")
+        except Exception as e:
+            st.error(f"Gagal membangun database otomatis secara mandiri. Error: {e}")
+            st.stop()
+
 # Palet warna konsisten dengan reports/dashboard.html
 COLOR_ENV = "#4F9D6E"
 COLOR_SOC = "#4A85B8"
