@@ -323,7 +323,7 @@ streamlit run app/streamlit_app.py
 - **Tab "Kepatuhan & Biaya"**: gauge kepatuhan per pilar ESG, pola kepatuhan bulanan, perbandingan antar wilayah, biaya mitigasi per sektor & pilar
 - **Tab "Eksplorasi Perusahaan"**: pencarian nama perusahaan, tabel hasil dapat diurutkan, dan tombol unduh CSV
 
-Karena query dijalankan langsung terhadap database (bukan data yang di-*embed*), dashboard ini otomatis menampilkan data terbaru setiap kali `data/esg_data_mart.db` diperbarui oleh `etl/etl_pipeline.py` — tanpa perlu proses export/build tambahan seperti pada dashboard statis. Tema warna (hijau/biru/emas untuk pilar E/S/G) diatur lewat `.streamlit/config.toml` agar konsisten dengan dashboard HTML.
+Karena query dijalankan langsung terhadap database (bukan data yang di-*embed*), dashboard ini otomatis menampilkan data terbaru setiap kali `data/esg_data_mart.db` diperbarui oleh `etl/etl_pipeline.py` — tanpa perlu proses export/build tambahan seperti pada dashboard statis. Tema warna (hijau/biru/emas untuk pilar E/S/G) diatur lewat `.streamlit/config.toml` agar konsisten dengan dashboard HTML. Anda bisa langsung mengakses via cloud dengan mengklik link berikut https://esg-data-mart-project.streamlit.app/
 
 ---
 
