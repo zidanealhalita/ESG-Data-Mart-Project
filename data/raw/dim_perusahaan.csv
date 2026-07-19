@@ -1,0 +1,2501 @@
+company_id,nama_perusahaan,sektor,wilayah_operasional,tahun_listing
+COMP-0001,PT Utama Sentosa No. 1,Kesehatan,Sumatera Utara,2010
+COMP-0002,PT Surya Sejahtera No. 2,Konsumer Primer,DKI Jakarta,2017
+COMP-0003,PT Utama Persada No. 3,Teknologi & Informasi,Sulawesi Selatan,2017
+COMP-0004,PT Citra Abadi No. 4,Infrastruktur,Kalimantan Timur,2018
+COMP-0005,PT Surya Sejahtera No. 5,Keuangan,Jawa Timur,2015
+COMP-0006,PT Artha Jaya No. 6,Infrastruktur,Sulawesi Selatan,2021
+COMP-0007,PT Surya Karya No. 7,Infrastruktur,Kalimantan Timur,2010
+COMP-0008,PT Sumber Sejahtera No. 8,Teknologi & Informasi,Jawa Barat,2023
+COMP-0009,PT Bumi Jaya No. 9,Konsumer Primer,Sulawesi Selatan,2018
+COMP-0010,PT Sumber Makmur No. 10,Infrastruktur,Kalimantan Timur,2021
+COMP-0011,PT Mega Energi No. 11,Konsumer Primer,Jawa Barat,2022
+COMP-0012,PT Indo Lestari No. 12,Energi & Pertambangan,Jawa Barat,2024
+COMP-0013,PT Bina Energi No. 13,Kesehatan,Jawa Barat,2023
+COMP-0014,PT Indo Karya No. 14,Konsumer Primer,Jawa Barat,2012
+COMP-0015,PT Utama Sentosa No. 15,Keuangan,Jawa Barat,2020
+COMP-0016,PT Bina Karya No. 16,Kesehatan,Sumatera Utara,2015
+COMP-0017,PT Mega Karya No. 17,Keuangan,Sulawesi Selatan,2019
+COMP-0018,PT Utama Sejahtera No. 18,Infrastruktur,Kalimantan Timur,2022
+COMP-0019,PT Bina Abadi No. 19,Kesehatan,Sumatera Utara,2019
+COMP-0020,PT Bumi Sentosa No. 20,Konsumer Primer,Sumatera Utara,2024
+COMP-0021,PT Bina Makmur No. 21,Kesehatan,DKI Jakarta,2020
+COMP-0022,PT Indo Tbk No. 22,Infrastruktur,DKI Jakarta,2021
+COMP-0023,PT Indo Sejahtera No. 23,Teknologi & Informasi,DKI Jakarta,2023
+COMP-0024,PT Bumi Sentosa No. 24,Keuangan,Jawa Timur,2024
+COMP-0025,PT Utama Jaya No. 25,Infrastruktur,DKI Jakarta,2018
+COMP-0026,PT Citra Energi No. 26,Teknologi & Informasi,Kalimantan Timur,2020
+COMP-0027,PT Artha Makmur No. 27,Kesehatan,Sumatera Utara,2022
+COMP-0028,PT Surya Sentosa No. 28,Kesehatan,Kalimantan Timur,2012
+COMP-0029,PT Bumi Lestari No. 29,Infrastruktur,Sulawesi Selatan,2014
+COMP-0030,PT Sumber Persada No. 30,Konsumer Primer,DKI Jakarta,2022
+COMP-0031,PT Artha Lestari No. 31,Kesehatan,Jawa Timur,2023
+COMP-0032,PT Bumi Persada No. 32,Konsumer Primer,Sulawesi Selatan,2014
+COMP-0033,PT Bumi Persada No. 33,Konsumer Primer,Jawa Timur,2019
+COMP-0034,PT Artha Jaya No. 34,Konsumer Primer,Sulawesi Selatan,2016
+COMP-0035,PT Utama Tbk No. 35,Energi & Pertambangan,Sumatera Utara,2013
+COMP-0036,PT Surya Sejahtera No. 36,Teknologi & Informasi,Kalimantan Timur,2020
+COMP-0037,PT Bumi Sejahtera No. 37,Teknologi & Informasi,Jawa Barat,2013
+COMP-0038,PT Surya Persada No. 38,Kesehatan,Kalimantan Timur,2016
+COMP-0039,PT Bina Tbk No. 39,Kesehatan,DKI Jakarta,2018
+COMP-0040,PT Nusantara Tbk No. 40,Konsumer Primer,Jawa Barat,2024
+COMP-0041,PT Utama Tbk No. 41,Energi & Pertambangan,Jawa Timur,2020
+COMP-0042,PT Surya Energi No. 42,Konsumer Primer,Sumatera Utara,2013
+COMP-0043,PT Surya Jaya No. 43,Energi & Pertambangan,Sumatera Utara,2013
+COMP-0044,PT Citra Energi No. 44,Konsumer Primer,Jawa Timur,2015
+COMP-0045,PT Surya Karya No. 45,Keuangan,DKI Jakarta,2015
+COMP-0046,PT Citra Energi No. 46,Keuangan,Jawa Timur,2016
+COMP-0047,PT Mega Persada No. 47,Infrastruktur,Sulawesi Selatan,2024
+COMP-0048,PT Utama Persada No. 48,Konsumer Primer,DKI Jakarta,2010
+COMP-0049,PT Bina Abadi No. 49,Kesehatan,Jawa Barat,2022
+COMP-0050,PT Bina Jaya No. 50,Teknologi & Informasi,Jawa Timur,2020
+COMP-0051,PT Bumi Energi No. 51,Infrastruktur,DKI Jakarta,2023
+COMP-0052,PT Utama Abadi No. 52,Kesehatan,Jawa Barat,2012
+COMP-0053,PT Surya Sejahtera No. 53,Keuangan,Jawa Timur,2018
+COMP-0054,PT Citra Jaya No. 54,Konsumer Primer,Sumatera Utara,2015
+COMP-0055,PT Sumber Karya No. 55,Infrastruktur,Jawa Timur,2015
+COMP-0056,PT Nusantara Karya No. 56,Konsumer Primer,Kalimantan Timur,2014
+COMP-0057,PT Mega Karya No. 57,Keuangan,Jawa Timur,2020
+COMP-0058,PT Nusantara Sejahtera No. 58,Infrastruktur,Kalimantan Timur,2012
+COMP-0059,PT Indo Abadi No. 59,Keuangan,Jawa Barat,2020
+COMP-0060,PT Utama Tbk No. 60,Energi & Pertambangan,Jawa Timur,2014
+COMP-0061,PT Indo Persada No. 61,Keuangan,Jawa Barat,2023
+COMP-0062,PT Citra Abadi No. 62,Konsumer Primer,Jawa Barat,2010
+COMP-0063,PT Nusantara Sentosa No. 63,Teknologi & Informasi,DKI Jakarta,2012
+COMP-0064,PT Artha Sejahtera No. 64,Keuangan,Jawa Barat,2013
+COMP-0065,PT Utama Abadi No. 65,Kesehatan,Jawa Barat,2014
+COMP-0066,PT Artha Abadi No. 66,Teknologi & Informasi,Jawa Timur,2019
+COMP-0067,PT Citra Lestari No. 67,Energi & Pertambangan,Jawa Timur,2018
+COMP-0068,PT Bumi Persada No. 68,Infrastruktur,Sumatera Utara,2013
+COMP-0069,PT Bina Sejahtera No. 69,Infrastruktur,DKI Jakarta,2012
+COMP-0070,PT Sumber Sentosa No. 70,Teknologi & Informasi,Jawa Barat,2019
+COMP-0071,PT Indo Abadi No. 71,Infrastruktur,DKI Jakarta,2010
+COMP-0072,PT Bina Abadi No. 72,Keuangan,Kalimantan Timur,2022
+COMP-0073,PT Nusantara Energi No. 73,Teknologi & Informasi,Jawa Barat,2019
+COMP-0074,PT Bina Tbk No. 74,Konsumer Primer,DKI Jakarta,2015
+COMP-0075,PT Artha Tbk No. 75,Keuangan,Sumatera Utara,2016
+COMP-0076,PT Citra Abadi No. 76,Keuangan,Sumatera Utara,2019
+COMP-0077,PT Sumber Jaya No. 77,Keuangan,Jawa Barat,2024
+COMP-0078,PT Bina Sejahtera No. 78,Konsumer Primer,Kalimantan Timur,2017
+COMP-0079,PT Nusantara Karya No. 79,Energi & Pertambangan,Sumatera Utara,2021
+COMP-0080,PT Indo Jaya No. 80,Kesehatan,Sumatera Utara,2010
+COMP-0081,PT Sumber Jaya No. 81,Infrastruktur,Kalimantan Timur,2021
+COMP-0082,PT Bina Sentosa No. 82,Teknologi & Informasi,DKI Jakarta,2013
+COMP-0083,PT Nusantara Energi No. 83,Energi & Pertambangan,Sumatera Utara,2020
+COMP-0084,PT Indo Sentosa No. 84,Teknologi & Informasi,Jawa Timur,2014
+COMP-0085,PT Utama Makmur No. 85,Infrastruktur,Sulawesi Selatan,2011
+COMP-0086,PT Citra Energi No. 86,Konsumer Primer,Sulawesi Selatan,2010
+COMP-0087,PT Mega Energi No. 87,Keuangan,Sumatera Utara,2017
+COMP-0088,PT Surya Energi No. 88,Keuangan,DKI Jakarta,2015
+COMP-0089,PT Nusantara Makmur No. 89,Konsumer Primer,DKI Jakarta,2014
+COMP-0090,PT Bumi Lestari No. 90,Energi & Pertambangan,Jawa Barat,2022
+COMP-0091,PT Utama Sejahtera No. 91,Energi & Pertambangan,Jawa Timur,2018
+COMP-0092,PT Nusantara Energi No. 92,Teknologi & Informasi,DKI Jakarta,2022
+COMP-0093,PT Citra Makmur No. 93,Konsumer Primer,Kalimantan Timur,2020
+COMP-0094,PT Mega Persada No. 94,Energi & Pertambangan,Jawa Timur,2022
+COMP-0095,PT Sumber Abadi No. 95,Konsumer Primer,Sulawesi Selatan,2020
+COMP-0096,PT Artha Abadi No. 96,Infrastruktur,Jawa Timur,2011
+COMP-0097,PT Surya Energi No. 97,Keuangan,Kalimantan Timur,2019
+COMP-0098,PT Sumber Jaya No. 98,Keuangan,Sumatera Utara,2021
+COMP-0099,PT Mega Sentosa No. 99,Keuangan,Kalimantan Timur,2017
+COMP-0100,PT Bumi Lestari No. 100,Konsumer Primer,Kalimantan Timur,2020
+COMP-0101,PT Sumber Energi No. 101,Konsumer Primer,Sumatera Utara,2023
+COMP-0102,PT Bina Lestari No. 102,Teknologi & Informasi,Sumatera Utara,2019
+COMP-0103,PT Citra Sentosa No. 103,Keuangan,Sumatera Utara,2022
+COMP-0104,PT Artha Karya No. 104,Teknologi & Informasi,Sumatera Utara,2018
+COMP-0105,PT Indo Karya No. 105,Keuangan,Sumatera Utara,2010
+COMP-0106,PT Citra Sentosa No. 106,Teknologi & Informasi,Kalimantan Timur,2016
+COMP-0107,PT Utama Sentosa No. 107,Teknologi & Informasi,Jawa Barat,2017
+COMP-0108,PT Bina Energi No. 108,Infrastruktur,Jawa Barat,2012
+COMP-0109,PT Surya Abadi No. 109,Teknologi & Informasi,DKI Jakarta,2023
+COMP-0110,PT Bumi Jaya No. 110,Konsumer Primer,Jawa Barat,2013
+COMP-0111,PT Nusantara Tbk No. 111,Teknologi & Informasi,Sulawesi Selatan,2022
+COMP-0112,PT Bina Makmur No. 112,Keuangan,Jawa Barat,2012
+COMP-0113,PT Utama Persada No. 113,Teknologi & Informasi,Kalimantan Timur,2016
+COMP-0114,PT Citra Abadi No. 114,Energi & Pertambangan,Sumatera Utara,2018
+COMP-0115,PT Indo Tbk No. 115,Kesehatan,Sumatera Utara,2012
+COMP-0116,PT Artha Energi No. 116,Keuangan,Kalimantan Timur,2022
+COMP-0117,PT Bumi Energi No. 117,Energi & Pertambangan,Sulawesi Selatan,2015
+COMP-0118,PT Mega Sejahtera No. 118,Keuangan,Jawa Barat,2017
+COMP-0119,PT Utama Tbk No. 119,Konsumer Primer,Kalimantan Timur,2015
+COMP-0120,PT Bina Karya No. 120,Kesehatan,DKI Jakarta,2011
+COMP-0121,PT Citra Karya No. 121,Kesehatan,Sumatera Utara,2022
+COMP-0122,PT Artha Jaya No. 122,Konsumer Primer,Jawa Timur,2016
+COMP-0123,PT Sumber Jaya No. 123,Kesehatan,DKI Jakarta,2011
+COMP-0124,PT Nusantara Jaya No. 124,Konsumer Primer,Sulawesi Selatan,2011
+COMP-0125,PT Artha Energi No. 125,Energi & Pertambangan,DKI Jakarta,2011
+COMP-0126,PT Surya Sentosa No. 126,Infrastruktur,Kalimantan Timur,2020
+COMP-0127,PT Sumber Jaya No. 127,Keuangan,Jawa Barat,2024
+COMP-0128,PT Artha Karya No. 128,Konsumer Primer,Sumatera Utara,2010
+COMP-0129,PT Bina Karya No. 129,Keuangan,Sulawesi Selatan,2023
+COMP-0130,PT Bina Makmur No. 130,Energi & Pertambangan,Sulawesi Selatan,2020
+COMP-0131,PT Bumi Makmur No. 131,Infrastruktur,Jawa Timur,2010
+COMP-0132,PT Sumber Karya No. 132,Energi & Pertambangan,DKI Jakarta,2023
+COMP-0133,PT Bina Sentosa No. 133,Kesehatan,Jawa Timur,2016
+COMP-0134,PT Nusantara Sentosa No. 134,Keuangan,Jawa Barat,2024
+COMP-0135,PT Nusantara Sejahtera No. 135,Infrastruktur,Jawa Barat,2022
+COMP-0136,PT Artha Jaya No. 136,Kesehatan,Jawa Timur,2023
+COMP-0137,PT Surya Abadi No. 137,Infrastruktur,Sumatera Utara,2023
+COMP-0138,PT Citra Energi No. 138,Kesehatan,Jawa Barat,2024
+COMP-0139,PT Nusantara Karya No. 139,Energi & Pertambangan,Jawa Timur,2023
+COMP-0140,PT Sumber Abadi No. 140,Konsumer Primer,DKI Jakarta,2021
+COMP-0141,PT Sumber Lestari No. 141,Keuangan,Jawa Timur,2014
+COMP-0142,PT Sumber Karya No. 142,Teknologi & Informasi,Jawa Timur,2020
+COMP-0143,PT Sumber Jaya No. 143,Teknologi & Informasi,Kalimantan Timur,2012
+COMP-0144,PT Bumi Sejahtera No. 144,Energi & Pertambangan,Jawa Barat,2010
+COMP-0145,PT Nusantara Energi No. 145,Keuangan,Sumatera Utara,2020
+COMP-0146,PT Mega Karya No. 146,Keuangan,Sumatera Utara,2019
+COMP-0147,PT Artha Karya No. 147,Energi & Pertambangan,Kalimantan Timur,2015
+COMP-0148,PT Nusantara Energi No. 148,Keuangan,Sulawesi Selatan,2020
+COMP-0149,PT Mega Lestari No. 149,Konsumer Primer,Sumatera Utara,2010
+COMP-0150,PT Citra Tbk No. 150,Energi & Pertambangan,Jawa Timur,2018
+COMP-0151,PT Mega Jaya No. 151,Konsumer Primer,Kalimantan Timur,2011
+COMP-0152,PT Nusantara Sejahtera No. 152,Keuangan,DKI Jakarta,2010
+COMP-0153,PT Citra Energi No. 153,Energi & Pertambangan,Jawa Barat,2024
+COMP-0154,PT Artha Sejahtera No. 154,Keuangan,Jawa Barat,2021
+COMP-0155,PT Utama Energi No. 155,Energi & Pertambangan,Jawa Barat,2016
+COMP-0156,PT Citra Makmur No. 156,Keuangan,Jawa Timur,2015
+COMP-0157,PT Bina Persada No. 157,Konsumer Primer,DKI Jakarta,2015
+COMP-0158,PT Sumber Persada No. 158,Konsumer Primer,Kalimantan Timur,2023
+COMP-0159,PT Citra Jaya No. 159,Keuangan,Kalimantan Timur,2014
+COMP-0160,PT Surya Makmur No. 160,Energi & Pertambangan,Jawa Barat,2020
+COMP-0161,PT Sumber Abadi No. 161,Teknologi & Informasi,DKI Jakarta,2013
+COMP-0162,PT Bumi Persada No. 162,Konsumer Primer,DKI Jakarta,2020
+COMP-0163,PT Bumi Persada No. 163,Konsumer Primer,DKI Jakarta,2013
+COMP-0164,PT Nusantara Jaya No. 164,Kesehatan,Sumatera Utara,2012
+COMP-0165,PT Nusantara Tbk No. 165,Teknologi & Informasi,Sumatera Utara,2019
+COMP-0166,PT Sumber Abadi No. 166,Keuangan,Jawa Barat,2017
+COMP-0167,PT Indo Abadi No. 167,Energi & Pertambangan,DKI Jakarta,2016
+COMP-0168,PT Indo Karya No. 168,Kesehatan,Sulawesi Selatan,2018
+COMP-0169,PT Bumi Tbk No. 169,Keuangan,DKI Jakarta,2010
+COMP-0170,PT Surya Persada No. 170,Infrastruktur,Kalimantan Timur,2016
+COMP-0171,PT Utama Tbk No. 171,Konsumer Primer,Kalimantan Timur,2019
+COMP-0172,PT Artha Sentosa No. 172,Infrastruktur,Jawa Barat,2013
+COMP-0173,PT Nusantara Jaya No. 173,Konsumer Primer,Sulawesi Selatan,2016
+COMP-0174,PT Citra Abadi No. 174,Konsumer Primer,DKI Jakarta,2022
+COMP-0175,PT Bumi Makmur No. 175,Infrastruktur,Sulawesi Selatan,2021
+COMP-0176,PT Utama Lestari No. 176,Infrastruktur,Jawa Barat,2010
+COMP-0177,PT Citra Tbk No. 177,Keuangan,Kalimantan Timur,2014
+COMP-0178,PT Indo Lestari No. 178,Kesehatan,Kalimantan Timur,2012
+COMP-0179,PT Indo Persada No. 179,Kesehatan,Sumatera Utara,2014
+COMP-0180,PT Sumber Energi No. 180,Infrastruktur,Jawa Barat,2013
+COMP-0181,PT Artha Persada No. 181,Keuangan,Jawa Barat,2011
+COMP-0182,PT Sumber Lestari No. 182,Kesehatan,DKI Jakarta,2020
+COMP-0183,PT Mega Energi No. 183,Keuangan,DKI Jakarta,2013
+COMP-0184,PT Surya Sejahtera No. 184,Keuangan,Sumatera Utara,2012
+COMP-0185,PT Mega Abadi No. 185,Konsumer Primer,Jawa Timur,2022
+COMP-0186,PT Artha Lestari No. 186,Kesehatan,Sulawesi Selatan,2010
+COMP-0187,PT Artha Karya No. 187,Kesehatan,Jawa Timur,2021
+COMP-0188,PT Utama Jaya No. 188,Konsumer Primer,Jawa Timur,2019
+COMP-0189,PT Artha Makmur No. 189,Infrastruktur,Jawa Barat,2017
+COMP-0190,PT Indo Karya No. 190,Konsumer Primer,Sulawesi Selatan,2024
+COMP-0191,PT Nusantara Jaya No. 191,Kesehatan,Jawa Barat,2014
+COMP-0192,PT Citra Persada No. 192,Kesehatan,Sulawesi Selatan,2013
+COMP-0193,PT Utama Persada No. 193,Infrastruktur,Kalimantan Timur,2019
+COMP-0194,PT Mega Persada No. 194,Konsumer Primer,Jawa Barat,2021
+COMP-0195,PT Mega Abadi No. 195,Energi & Pertambangan,Jawa Barat,2014
+COMP-0196,PT Bina Sejahtera No. 196,Energi & Pertambangan,Jawa Barat,2013
+COMP-0197,PT Nusantara Persada No. 197,Infrastruktur,Sumatera Utara,2012
+COMP-0198,PT Indo Energi No. 198,Konsumer Primer,Jawa Barat,2014
+COMP-0199,PT Bumi Lestari No. 199,Konsumer Primer,DKI Jakarta,2013
+COMP-0200,PT Bina Jaya No. 200,Keuangan,DKI Jakarta,2024
+COMP-0201,PT Mega Energi No. 201,Kesehatan,Sulawesi Selatan,2010
+COMP-0202,PT Utama Sejahtera No. 202,Teknologi & Informasi,Kalimantan Timur,2021
+COMP-0203,PT Sumber Abadi No. 203,Infrastruktur,Sumatera Utara,2012
+COMP-0204,PT Citra Persada No. 204,Teknologi & Informasi,Sulawesi Selatan,2019
+COMP-0205,PT Citra Sejahtera No. 205,Teknologi & Informasi,DKI Jakarta,2024
+COMP-0206,PT Sumber Tbk No. 206,Infrastruktur,Sumatera Utara,2019
+COMP-0207,PT Mega Energi No. 207,Konsumer Primer,Sumatera Utara,2017
+COMP-0208,PT Artha Sejahtera No. 208,Infrastruktur,Kalimantan Timur,2016
+COMP-0209,PT Indo Persada No. 209,Teknologi & Informasi,Sumatera Utara,2011
+COMP-0210,PT Mega Abadi No. 210,Kesehatan,Jawa Barat,2010
+COMP-0211,PT Artha Energi No. 211,Kesehatan,Sumatera Utara,2012
+COMP-0212,PT Mega Abadi No. 212,Kesehatan,Kalimantan Timur,2014
+COMP-0213,PT Indo Persada No. 213,Konsumer Primer,Sulawesi Selatan,2019
+COMP-0214,PT Sumber Sejahtera No. 214,Energi & Pertambangan,Kalimantan Timur,2024
+COMP-0215,PT Artha Makmur No. 215,Infrastruktur,Kalimantan Timur,2020
+COMP-0216,PT Artha Persada No. 216,Kesehatan,DKI Jakarta,2021
+COMP-0217,PT Indo Karya No. 217,Infrastruktur,Jawa Barat,2010
+COMP-0218,PT Indo Energi No. 218,Kesehatan,DKI Jakarta,2012
+COMP-0219,PT Surya Sejahtera No. 219,Konsumer Primer,Sulawesi Selatan,2012
+COMP-0220,PT Artha Jaya No. 220,Energi & Pertambangan,Jawa Timur,2014
+COMP-0221,PT Utama Makmur No. 221,Energi & Pertambangan,Sulawesi Selatan,2012
+COMP-0222,PT Nusantara Sentosa No. 222,Kesehatan,Jawa Barat,2022
+COMP-0223,PT Surya Makmur No. 223,Konsumer Primer,Sumatera Utara,2018
+COMP-0224,PT Citra Energi No. 224,Keuangan,Kalimantan Timur,2010
+COMP-0225,PT Nusantara Karya No. 225,Infrastruktur,Jawa Timur,2013
+COMP-0226,PT Mega Karya No. 226,Infrastruktur,Jawa Barat,2022
+COMP-0227,PT Nusantara Energi No. 227,Teknologi & Informasi,DKI Jakarta,2022
+COMP-0228,PT Surya Persada No. 228,Konsumer Primer,Kalimantan Timur,2019
+COMP-0229,PT Bumi Karya No. 229,Teknologi & Informasi,Sulawesi Selatan,2019
+COMP-0230,PT Bumi Karya No. 230,Kesehatan,DKI Jakarta,2013
+COMP-0231,PT Utama Energi No. 231,Teknologi & Informasi,Jawa Barat,2010
+COMP-0232,PT Indo Jaya No. 232,Energi & Pertambangan,Jawa Barat,2023
+COMP-0233,PT Indo Persada No. 233,Infrastruktur,Sulawesi Selatan,2011
+COMP-0234,PT Indo Makmur No. 234,Teknologi & Informasi,Jawa Timur,2020
+COMP-0235,PT Citra Tbk No. 235,Energi & Pertambangan,Sulawesi Selatan,2010
+COMP-0236,PT Utama Sentosa No. 236,Konsumer Primer,Sumatera Utara,2015
+COMP-0237,PT Indo Sejahtera No. 237,Teknologi & Informasi,DKI Jakarta,2012
+COMP-0238,PT Bumi Jaya No. 238,Kesehatan,Jawa Timur,2016
+COMP-0239,PT Artha Tbk No. 239,Kesehatan,Kalimantan Timur,2014
+COMP-0240,PT Mega Tbk No. 240,Kesehatan,Sumatera Utara,2018
+COMP-0241,PT Artha Persada No. 241,Infrastruktur,Jawa Timur,2016
+COMP-0242,PT Mega Tbk No. 242,Teknologi & Informasi,DKI Jakarta,2013
+COMP-0243,PT Surya Karya No. 243,Konsumer Primer,Jawa Barat,2014
+COMP-0244,PT Nusantara Karya No. 244,Teknologi & Informasi,Kalimantan Timur,2014
+COMP-0245,PT Artha Makmur No. 245,Infrastruktur,Sulawesi Selatan,2020
+COMP-0246,PT Nusantara Abadi No. 246,Energi & Pertambangan,DKI Jakarta,2024
+COMP-0247,PT Surya Abadi No. 247,Infrastruktur,Sumatera Utara,2014
+COMP-0248,PT Mega Energi No. 248,Kesehatan,Sumatera Utara,2019
+COMP-0249,PT Utama Abadi No. 249,Energi & Pertambangan,Jawa Barat,2018
+COMP-0250,PT Bina Karya No. 250,Kesehatan,Jawa Barat,2019
+COMP-0251,PT Bina Energi No. 251,Keuangan,Kalimantan Timur,2012
+COMP-0252,PT Nusantara Sentosa No. 252,Infrastruktur,Sulawesi Selatan,2015
+COMP-0253,PT Bina Lestari No. 253,Infrastruktur,Kalimantan Timur,2017
+COMP-0254,PT Citra Energi No. 254,Konsumer Primer,Jawa Barat,2020
+COMP-0255,PT Artha Tbk No. 255,Teknologi & Informasi,Jawa Barat,2018
+COMP-0256,PT Citra Tbk No. 256,Energi & Pertambangan,Sumatera Utara,2022
+COMP-0257,PT Utama Sentosa No. 257,Energi & Pertambangan,Jawa Barat,2024
+COMP-0258,PT Citra Persada No. 258,Konsumer Primer,Jawa Timur,2016
+COMP-0259,PT Mega Sejahtera No. 259,Konsumer Primer,DKI Jakarta,2021
+COMP-0260,PT Citra Tbk No. 260,Teknologi & Informasi,Jawa Barat,2012
+COMP-0261,PT Artha Sejahtera No. 261,Kesehatan,Kalimantan Timur,2010
+COMP-0262,PT Artha Sejahtera No. 262,Teknologi & Informasi,Sulawesi Selatan,2013
+COMP-0263,PT Utama Tbk No. 263,Infrastruktur,Sulawesi Selatan,2022
+COMP-0264,PT Utama Sejahtera No. 264,Kesehatan,Sulawesi Selatan,2015
+COMP-0265,PT Indo Persada No. 265,Keuangan,Jawa Timur,2012
+COMP-0266,PT Utama Persada No. 266,Teknologi & Informasi,Kalimantan Timur,2023
+COMP-0267,PT Mega Karya No. 267,Konsumer Primer,Jawa Timur,2010
+COMP-0268,PT Utama Makmur No. 268,Kesehatan,Jawa Barat,2015
+COMP-0269,PT Bina Persada No. 269,Teknologi & Informasi,DKI Jakarta,2023
+COMP-0270,PT Indo Energi No. 270,Energi & Pertambangan,Sulawesi Selatan,2010
+COMP-0271,PT Sumber Abadi No. 271,Keuangan,Kalimantan Timur,2018
+COMP-0272,PT Surya Persada No. 272,Infrastruktur,Sulawesi Selatan,2020
+COMP-0273,PT Bina Makmur No. 273,Energi & Pertambangan,Jawa Timur,2023
+COMP-0274,PT Indo Makmur No. 274,Energi & Pertambangan,Sumatera Utara,2021
+COMP-0275,PT Mega Sejahtera No. 275,Keuangan,Jawa Barat,2010
+COMP-0276,PT Sumber Karya No. 276,Infrastruktur,DKI Jakarta,2022
+COMP-0277,PT Surya Energi No. 277,Konsumer Primer,Jawa Barat,2015
+COMP-0278,PT Sumber Sentosa No. 278,Kesehatan,Sumatera Utara,2010
+COMP-0279,PT Nusantara Abadi No. 279,Infrastruktur,DKI Jakarta,2021
+COMP-0280,PT Bina Sentosa No. 280,Teknologi & Informasi,Sumatera Utara,2016
+COMP-0281,PT Artha Lestari No. 281,Energi & Pertambangan,Jawa Barat,2012
+COMP-0282,PT Citra Lestari No. 282,Teknologi & Informasi,Jawa Timur,2015
+COMP-0283,PT Utama Persada No. 283,Konsumer Primer,Jawa Barat,2016
+COMP-0284,PT Indo Karya No. 284,Teknologi & Informasi,Jawa Barat,2010
+COMP-0285,PT Utama Karya No. 285,Infrastruktur,Jawa Barat,2010
+COMP-0286,PT Bumi Persada No. 286,Teknologi & Informasi,Kalimantan Timur,2022
+COMP-0287,PT Artha Jaya No. 287,Konsumer Primer,Sumatera Utara,2014
+COMP-0288,PT Bina Abadi No. 288,Konsumer Primer,Sumatera Utara,2015
+COMP-0289,PT Nusantara Karya No. 289,Konsumer Primer,Sulawesi Selatan,2024
+COMP-0290,PT Bina Energi No. 290,Infrastruktur,Sumatera Utara,2024
+COMP-0291,PT Bina Jaya No. 291,Konsumer Primer,Sulawesi Selatan,2018
+COMP-0292,PT Nusantara Lestari No. 292,Energi & Pertambangan,Kalimantan Timur,2023
+COMP-0293,PT Mega Lestari No. 293,Konsumer Primer,Jawa Timur,2010
+COMP-0294,PT Indo Sejahtera No. 294,Teknologi & Informasi,Sulawesi Selatan,2022
+COMP-0295,PT Sumber Sejahtera No. 295,Kesehatan,Jawa Barat,2013
+COMP-0296,PT Mega Sentosa No. 296,Teknologi & Informasi,Jawa Timur,2019
+COMP-0297,PT Citra Karya No. 297,Kesehatan,Kalimantan Timur,2017
+COMP-0298,PT Artha Tbk No. 298,Teknologi & Informasi,Sumatera Utara,2019
+COMP-0299,PT Bumi Tbk No. 299,Infrastruktur,Sulawesi Selatan,2018
+COMP-0300,PT Nusantara Energi No. 300,Teknologi & Informasi,Jawa Barat,2024
+COMP-0301,PT Mega Lestari No. 301,Infrastruktur,DKI Jakarta,2022
+COMP-0302,PT Sumber Karya No. 302,Infrastruktur,DKI Jakarta,2012
+COMP-0303,PT Utama Tbk No. 303,Konsumer Primer,Jawa Timur,2020
+COMP-0304,PT Indo Jaya No. 304,Energi & Pertambangan,Sumatera Utara,2011
+COMP-0305,PT Sumber Jaya No. 305,Kesehatan,DKI Jakarta,2013
+COMP-0306,PT Mega Jaya No. 306,Konsumer Primer,Jawa Timur,2011
+COMP-0307,PT Indo Sentosa No. 307,Konsumer Primer,Kalimantan Timur,2010
+COMP-0308,PT Indo Jaya No. 308,Infrastruktur,Jawa Timur,2021
+COMP-0309,PT Indo Makmur No. 309,Infrastruktur,Jawa Timur,2012
+COMP-0310,PT Mega Tbk No. 310,Kesehatan,Jawa Timur,2016
+COMP-0311,PT Artha Lestari No. 311,Teknologi & Informasi,Jawa Barat,2022
+COMP-0312,PT Nusantara Tbk No. 312,Teknologi & Informasi,Jawa Timur,2022
+COMP-0313,PT Nusantara Sejahtera No. 313,Konsumer Primer,Sulawesi Selatan,2010
+COMP-0314,PT Artha Karya No. 314,Keuangan,Jawa Timur,2011
+COMP-0315,PT Sumber Makmur No. 315,Keuangan,Jawa Barat,2010
+COMP-0316,PT Citra Sejahtera No. 316,Teknologi & Informasi,Jawa Barat,2017
+COMP-0317,PT Bina Makmur No. 317,Keuangan,Kalimantan Timur,2014
+COMP-0318,PT Indo Jaya No. 318,Teknologi & Informasi,Sumatera Utara,2017
+COMP-0319,PT Bumi Sejahtera No. 319,Infrastruktur,DKI Jakarta,2012
+COMP-0320,PT Utama Jaya No. 320,Konsumer Primer,DKI Jakarta,2022
+COMP-0321,PT Nusantara Lestari No. 321,Energi & Pertambangan,Jawa Timur,2021
+COMP-0322,PT Nusantara Makmur No. 322,Konsumer Primer,Kalimantan Timur,2016
+COMP-0323,PT Nusantara Sejahtera No. 323,Teknologi & Informasi,Jawa Timur,2017
+COMP-0324,PT Indo Tbk No. 324,Teknologi & Informasi,DKI Jakarta,2024
+COMP-0325,PT Sumber Energi No. 325,Konsumer Primer,Jawa Barat,2015
+COMP-0326,PT Nusantara Makmur No. 326,Kesehatan,Sumatera Utara,2022
+COMP-0327,PT Bina Karya No. 327,Teknologi & Informasi,Kalimantan Timur,2022
+COMP-0328,PT Nusantara Sejahtera No. 328,Keuangan,Jawa Barat,2016
+COMP-0329,PT Utama Lestari No. 329,Keuangan,Sumatera Utara,2023
+COMP-0330,PT Nusantara Sejahtera No. 330,Teknologi & Informasi,Kalimantan Timur,2021
+COMP-0331,PT Mega Lestari No. 331,Teknologi & Informasi,Kalimantan Timur,2011
+COMP-0332,PT Citra Sejahtera No. 332,Kesehatan,DKI Jakarta,2017
+COMP-0333,PT Utama Sejahtera No. 333,Keuangan,Jawa Barat,2014
+COMP-0334,PT Mega Sejahtera No. 334,Teknologi & Informasi,Kalimantan Timur,2016
+COMP-0335,PT Indo Persada No. 335,Teknologi & Informasi,Sulawesi Selatan,2010
+COMP-0336,PT Citra Energi No. 336,Kesehatan,Kalimantan Timur,2014
+COMP-0337,PT Mega Tbk No. 337,Kesehatan,Sumatera Utara,2010
+COMP-0338,PT Nusantara Karya No. 338,Konsumer Primer,DKI Jakarta,2021
+COMP-0339,PT Artha Energi No. 339,Kesehatan,Jawa Timur,2022
+COMP-0340,PT Nusantara Jaya No. 340,Energi & Pertambangan,DKI Jakarta,2017
+COMP-0341,PT Bumi Jaya No. 341,Keuangan,Jawa Timur,2024
+COMP-0342,PT Utama Persada No. 342,Konsumer Primer,Jawa Barat,2013
+COMP-0343,PT Indo Makmur No. 343,Energi & Pertambangan,Jawa Barat,2013
+COMP-0344,PT Sumber Lestari No. 344,Teknologi & Informasi,Kalimantan Timur,2011
+COMP-0345,PT Citra Makmur No. 345,Teknologi & Informasi,Sulawesi Selatan,2014
+COMP-0346,PT Nusantara Lestari No. 346,Konsumer Primer,Jawa Barat,2010
+COMP-0347,PT Mega Tbk No. 347,Kesehatan,Kalimantan Timur,2018
+COMP-0348,PT Nusantara Abadi No. 348,Teknologi & Informasi,DKI Jakarta,2014
+COMP-0349,PT Mega Sejahtera No. 349,Infrastruktur,Jawa Barat,2015
+COMP-0350,PT Bumi Karya No. 350,Konsumer Primer,DKI Jakarta,2011
+COMP-0351,PT Utama Lestari No. 351,Energi & Pertambangan,DKI Jakarta,2019
+COMP-0352,PT Bumi Lestari No. 352,Konsumer Primer,Sulawesi Selatan,2019
+COMP-0353,PT Bumi Makmur No. 353,Keuangan,Jawa Barat,2010
+COMP-0354,PT Bumi Karya No. 354,Kesehatan,DKI Jakarta,2013
+COMP-0355,PT Bumi Sentosa No. 355,Kesehatan,Sulawesi Selatan,2016
+COMP-0356,PT Bina Lestari No. 356,Konsumer Primer,Sulawesi Selatan,2015
+COMP-0357,PT Nusantara Jaya No. 357,Teknologi & Informasi,Jawa Barat,2019
+COMP-0358,PT Utama Persada No. 358,Teknologi & Informasi,Sulawesi Selatan,2010
+COMP-0359,PT Citra Energi No. 359,Infrastruktur,Jawa Barat,2010
+COMP-0360,PT Mega Sentosa No. 360,Infrastruktur,Jawa Barat,2017
+COMP-0361,PT Indo Jaya No. 361,Kesehatan,Jawa Timur,2013
+COMP-0362,PT Nusantara Persada No. 362,Infrastruktur,DKI Jakarta,2014
+COMP-0363,PT Nusantara Sentosa No. 363,Energi & Pertambangan,Sumatera Utara,2022
+COMP-0364,PT Surya Sejahtera No. 364,Infrastruktur,Jawa Barat,2016
+COMP-0365,PT Bumi Lestari No. 365,Energi & Pertambangan,DKI Jakarta,2017
+COMP-0366,PT Mega Makmur No. 366,Infrastruktur,Sulawesi Selatan,2024
+COMP-0367,PT Citra Tbk No. 367,Kesehatan,Kalimantan Timur,2019
+COMP-0368,PT Utama Abadi No. 368,Kesehatan,Jawa Barat,2016
+COMP-0369,PT Sumber Jaya No. 369,Energi & Pertambangan,Sulawesi Selatan,2011
+COMP-0370,PT Artha Jaya No. 370,Konsumer Primer,Sulawesi Selatan,2023
+COMP-0371,PT Artha Jaya No. 371,Kesehatan,Sulawesi Selatan,2024
+COMP-0372,PT Bina Karya No. 372,Konsumer Primer,Sulawesi Selatan,2013
+COMP-0373,PT Citra Makmur No. 373,Teknologi & Informasi,Sulawesi Selatan,2019
+COMP-0374,PT Indo Karya No. 374,Energi & Pertambangan,Jawa Barat,2021
+COMP-0375,PT Citra Sejahtera No. 375,Kesehatan,Sumatera Utara,2010
+COMP-0376,PT Mega Makmur No. 376,Keuangan,Jawa Timur,2019
+COMP-0377,PT Indo Lestari No. 377,Teknologi & Informasi,Sulawesi Selatan,2018
+COMP-0378,PT Mega Lestari No. 378,Konsumer Primer,Sulawesi Selatan,2012
+COMP-0379,PT Nusantara Sejahtera No. 379,Kesehatan,Jawa Timur,2021
+COMP-0380,PT Bina Persada No. 380,Energi & Pertambangan,Jawa Barat,2012
+COMP-0381,PT Bumi Energi No. 381,Infrastruktur,DKI Jakarta,2019
+COMP-0382,PT Indo Tbk No. 382,Keuangan,Kalimantan Timur,2018
+COMP-0383,PT Indo Tbk No. 383,Konsumer Primer,Kalimantan Timur,2019
+COMP-0384,PT Bina Lestari No. 384,Teknologi & Informasi,DKI Jakarta,2012
+COMP-0385,PT Surya Energi No. 385,Energi & Pertambangan,Jawa Barat,2017
+COMP-0386,PT Indo Sentosa No. 386,Keuangan,Kalimantan Timur,2011
+COMP-0387,PT Nusantara Jaya No. 387,Energi & Pertambangan,Jawa Timur,2023
+COMP-0388,PT Nusantara Karya No. 388,Kesehatan,DKI Jakarta,2022
+COMP-0389,PT Artha Jaya No. 389,Infrastruktur,Sumatera Utara,2012
+COMP-0390,PT Sumber Persada No. 390,Teknologi & Informasi,Jawa Barat,2011
+COMP-0391,PT Utama Jaya No. 391,Energi & Pertambangan,DKI Jakarta,2010
+COMP-0392,PT Bumi Persada No. 392,Konsumer Primer,Kalimantan Timur,2011
+COMP-0393,PT Surya Karya No. 393,Kesehatan,Jawa Barat,2017
+COMP-0394,PT Utama Karya No. 394,Kesehatan,Jawa Timur,2018
+COMP-0395,PT Utama Makmur No. 395,Teknologi & Informasi,Jawa Barat,2022
+COMP-0396,PT Indo Lestari No. 396,Kesehatan,Jawa Barat,2011
+COMP-0397,PT Citra Karya No. 397,Konsumer Primer,Jawa Timur,2016
+COMP-0398,PT Bina Abadi No. 398,Energi & Pertambangan,Sulawesi Selatan,2024
+COMP-0399,PT Mega Persada No. 399,Teknologi & Informasi,Jawa Timur,2014
+COMP-0400,PT Utama Tbk No. 400,Kesehatan,Jawa Barat,2012
+COMP-0401,PT Nusantara Abadi No. 401,Kesehatan,Jawa Timur,2018
+COMP-0402,PT Sumber Persada No. 402,Konsumer Primer,Sulawesi Selatan,2024
+COMP-0403,PT Bina Energi No. 403,Infrastruktur,DKI Jakarta,2015
+COMP-0404,PT Artha Tbk No. 404,Infrastruktur,Jawa Timur,2020
+COMP-0405,PT Artha Persada No. 405,Kesehatan,Jawa Timur,2010
+COMP-0406,PT Citra Tbk No. 406,Energi & Pertambangan,Jawa Barat,2014
+COMP-0407,PT Bumi Sentosa No. 407,Teknologi & Informasi,DKI Jakarta,2016
+COMP-0408,PT Sumber Makmur No. 408,Kesehatan,Sumatera Utara,2013
+COMP-0409,PT Surya Jaya No. 409,Keuangan,Sumatera Utara,2017
+COMP-0410,PT Nusantara Karya No. 410,Teknologi & Informasi,Kalimantan Timur,2019
+COMP-0411,PT Indo Tbk No. 411,Infrastruktur,Jawa Timur,2014
+COMP-0412,PT Mega Lestari No. 412,Kesehatan,Jawa Timur,2018
+COMP-0413,PT Artha Persada No. 413,Konsumer Primer,DKI Jakarta,2018
+COMP-0414,PT Bumi Jaya No. 414,Keuangan,Sulawesi Selatan,2018
+COMP-0415,PT Sumber Sejahtera No. 415,Kesehatan,Sumatera Utara,2010
+COMP-0416,PT Bina Energi No. 416,Energi & Pertambangan,Kalimantan Timur,2011
+COMP-0417,PT Mega Lestari No. 417,Keuangan,DKI Jakarta,2012
+COMP-0418,PT Mega Lestari No. 418,Kesehatan,Jawa Timur,2023
+COMP-0419,PT Sumber Abadi No. 419,Energi & Pertambangan,Sumatera Utara,2013
+COMP-0420,PT Artha Jaya No. 420,Keuangan,Kalimantan Timur,2019
+COMP-0421,PT Utama Tbk No. 421,Energi & Pertambangan,Jawa Barat,2018
+COMP-0422,PT Utama Karya No. 422,Energi & Pertambangan,Sumatera Utara,2019
+COMP-0423,PT Citra Jaya No. 423,Keuangan,Kalimantan Timur,2022
+COMP-0424,PT Mega Sentosa No. 424,Keuangan,DKI Jakarta,2015
+COMP-0425,PT Surya Lestari No. 425,Energi & Pertambangan,Jawa Barat,2010
+COMP-0426,PT Bumi Sentosa No. 426,Infrastruktur,Kalimantan Timur,2021
+COMP-0427,PT Artha Lestari No. 427,Keuangan,Kalimantan Timur,2018
+COMP-0428,PT Sumber Energi No. 428,Kesehatan,Jawa Timur,2015
+COMP-0429,PT Surya Lestari No. 429,Teknologi & Informasi,Sulawesi Selatan,2013
+COMP-0430,PT Citra Tbk No. 430,Konsumer Primer,Sumatera Utara,2023
+COMP-0431,PT Bumi Jaya No. 431,Energi & Pertambangan,Jawa Timur,2013
+COMP-0432,PT Indo Karya No. 432,Energi & Pertambangan,Jawa Barat,2012
+COMP-0433,PT Mega Lestari No. 433,Konsumer Primer,Sulawesi Selatan,2016
+COMP-0434,PT Indo Lestari No. 434,Infrastruktur,Kalimantan Timur,2012
+COMP-0435,PT Artha Karya No. 435,Konsumer Primer,Jawa Timur,2011
+COMP-0436,PT Artha Energi No. 436,Keuangan,Sulawesi Selatan,2019
+COMP-0437,PT Artha Energi No. 437,Konsumer Primer,Sumatera Utara,2017
+COMP-0438,PT Nusantara Persada No. 438,Energi & Pertambangan,Jawa Barat,2013
+COMP-0439,PT Sumber Sejahtera No. 439,Konsumer Primer,DKI Jakarta,2017
+COMP-0440,PT Artha Karya No. 440,Teknologi & Informasi,Jawa Timur,2010
+COMP-0441,PT Nusantara Lestari No. 441,Kesehatan,Jawa Barat,2024
+COMP-0442,PT Bumi Jaya No. 442,Keuangan,DKI Jakarta,2014
+COMP-0443,PT Indo Sejahtera No. 443,Konsumer Primer,Jawa Timur,2022
+COMP-0444,PT Utama Persada No. 444,Energi & Pertambangan,Jawa Barat,2018
+COMP-0445,PT Bumi Jaya No. 445,Kesehatan,Jawa Barat,2010
+COMP-0446,PT Bumi Sentosa No. 446,Keuangan,Sulawesi Selatan,2020
+COMP-0447,PT Nusantara Sejahtera No. 447,Energi & Pertambangan,Jawa Timur,2022
+COMP-0448,PT Bina Energi No. 448,Infrastruktur,Jawa Barat,2013
+COMP-0449,PT Bina Jaya No. 449,Teknologi & Informasi,Kalimantan Timur,2015
+COMP-0450,PT Sumber Abadi No. 450,Infrastruktur,Jawa Timur,2019
+COMP-0451,PT Citra Energi No. 451,Teknologi & Informasi,Jawa Barat,2017
+COMP-0452,PT Mega Makmur No. 452,Konsumer Primer,Sulawesi Selatan,2023
+COMP-0453,PT Mega Jaya No. 453,Keuangan,DKI Jakarta,2012
+COMP-0454,PT Bina Makmur No. 454,Konsumer Primer,DKI Jakarta,2014
+COMP-0455,PT Citra Karya No. 455,Teknologi & Informasi,Kalimantan Timur,2016
+COMP-0456,PT Nusantara Jaya No. 456,Teknologi & Informasi,Jawa Timur,2010
+COMP-0457,PT Sumber Jaya No. 457,Teknologi & Informasi,Sulawesi Selatan,2024
+COMP-0458,PT Bina Sejahtera No. 458,Kesehatan,Jawa Barat,2016
+COMP-0459,PT Citra Sejahtera No. 459,Energi & Pertambangan,Jawa Barat,2022
+COMP-0460,PT Mega Sejahtera No. 460,Keuangan,DKI Jakarta,2021
+COMP-0461,PT Citra Persada No. 461,Konsumer Primer,Sulawesi Selatan,2020
+COMP-0462,PT Artha Tbk No. 462,Konsumer Primer,Kalimantan Timur,2017
+COMP-0463,PT Indo Tbk No. 463,Infrastruktur,DKI Jakarta,2017
+COMP-0464,PT Bumi Jaya No. 464,Teknologi & Informasi,DKI Jakarta,2018
+COMP-0465,PT Surya Abadi No. 465,Teknologi & Informasi,Kalimantan Timur,2015
+COMP-0466,PT Surya Karya No. 466,Teknologi & Informasi,Jawa Timur,2021
+COMP-0467,PT Sumber Energi No. 467,Konsumer Primer,Jawa Barat,2015
+COMP-0468,PT Utama Energi No. 468,Infrastruktur,Jawa Timur,2011
+COMP-0469,PT Bina Energi No. 469,Energi & Pertambangan,Sulawesi Selatan,2012
+COMP-0470,PT Nusantara Abadi No. 470,Kesehatan,Sumatera Utara,2013
+COMP-0471,PT Bumi Sejahtera No. 471,Keuangan,Sumatera Utara,2013
+COMP-0472,PT Surya Jaya No. 472,Energi & Pertambangan,Sumatera Utara,2017
+COMP-0473,PT Citra Abadi No. 473,Konsumer Primer,Kalimantan Timur,2023
+COMP-0474,PT Citra Lestari No. 474,Kesehatan,DKI Jakarta,2010
+COMP-0475,PT Sumber Karya No. 475,Kesehatan,Jawa Timur,2019
+COMP-0476,PT Utama Karya No. 476,Kesehatan,Jawa Barat,2023
+COMP-0477,PT Surya Persada No. 477,Teknologi & Informasi,Sumatera Utara,2013
+COMP-0478,PT Artha Energi No. 478,Keuangan,Jawa Timur,2020
+COMP-0479,PT Artha Abadi No. 479,Konsumer Primer,Sumatera Utara,2021
+COMP-0480,PT Artha Lestari No. 480,Konsumer Primer,Sumatera Utara,2022
+COMP-0481,PT Bina Energi No. 481,Kesehatan,Jawa Barat,2020
+COMP-0482,PT Mega Abadi No. 482,Konsumer Primer,Sulawesi Selatan,2020
+COMP-0483,PT Nusantara Sentosa No. 483,Keuangan,Sulawesi Selatan,2013
+COMP-0484,PT Sumber Makmur No. 484,Keuangan,Sulawesi Selatan,2010
+COMP-0485,PT Indo Sejahtera No. 485,Infrastruktur,Kalimantan Timur,2012
+COMP-0486,PT Indo Energi No. 486,Infrastruktur,DKI Jakarta,2014
+COMP-0487,PT Sumber Lestari No. 487,Energi & Pertambangan,Kalimantan Timur,2015
+COMP-0488,PT Artha Jaya No. 488,Keuangan,Jawa Timur,2018
+COMP-0489,PT Artha Jaya No. 489,Keuangan,Kalimantan Timur,2018
+COMP-0490,PT Surya Sejahtera No. 490,Keuangan,Jawa Timur,2018
+COMP-0491,PT Artha Makmur No. 491,Infrastruktur,Jawa Timur,2020
+COMP-0492,PT Citra Karya No. 492,Kesehatan,DKI Jakarta,2010
+COMP-0493,PT Artha Sentosa No. 493,Kesehatan,Jawa Barat,2021
+COMP-0494,PT Indo Sejahtera No. 494,Konsumer Primer,DKI Jakarta,2018
+COMP-0495,PT Artha Persada No. 495,Kesehatan,Sulawesi Selatan,2022
+COMP-0496,PT Surya Lestari No. 496,Teknologi & Informasi,Sulawesi Selatan,2017
+COMP-0497,PT Sumber Jaya No. 497,Infrastruktur,Kalimantan Timur,2011
+COMP-0498,PT Utama Persada No. 498,Keuangan,Jawa Timur,2022
+COMP-0499,PT Indo Jaya No. 499,Kesehatan,Sumatera Utara,2020
+COMP-0500,PT Bumi Tbk No. 500,Infrastruktur,Sumatera Utara,2010
+COMP-0501,PT Nusantara Jaya No. 501,Kesehatan,Jawa Timur,2010
+COMP-0502,PT Artha Sentosa No. 502,Energi & Pertambangan,DKI Jakarta,2021
+COMP-0503,PT Mega Jaya No. 503,Keuangan,Jawa Barat,2015
+COMP-0504,PT Mega Jaya No. 504,Energi & Pertambangan,DKI Jakarta,2018
+COMP-0505,PT Indo Energi No. 505,Keuangan,Jawa Timur,2016
+COMP-0506,PT Indo Tbk No. 506,Infrastruktur,Jawa Timur,2014
+COMP-0507,PT Sumber Karya No. 507,Konsumer Primer,Jawa Barat,2020
+COMP-0508,PT Surya Tbk No. 508,Kesehatan,Kalimantan Timur,2011
+COMP-0509,PT Sumber Abadi No. 509,Kesehatan,Kalimantan Timur,2010
+COMP-0510,PT Nusantara Sejahtera No. 510,Teknologi & Informasi,Jawa Barat,2011
+COMP-0511,PT Mega Persada No. 511,Energi & Pertambangan,Kalimantan Timur,2010
+COMP-0512,PT Artha Lestari No. 512,Kesehatan,Sumatera Utara,2012
+COMP-0513,PT Utama Tbk No. 513,Infrastruktur,Kalimantan Timur,2015
+COMP-0514,PT Nusantara Lestari No. 514,Konsumer Primer,Kalimantan Timur,2022
+COMP-0515,PT Utama Karya No. 515,Infrastruktur,Kalimantan Timur,2017
+COMP-0516,PT Surya Sejahtera No. 516,Energi & Pertambangan,Sumatera Utara,2012
+COMP-0517,PT Bina Sejahtera No. 517,Teknologi & Informasi,Kalimantan Timur,2019
+COMP-0518,PT Bina Persada No. 518,Kesehatan,Sulawesi Selatan,2018
+COMP-0519,PT Artha Tbk No. 519,Infrastruktur,Sumatera Utara,2019
+COMP-0520,PT Mega Persada No. 520,Keuangan,Jawa Barat,2014
+COMP-0521,PT Bina Karya No. 521,Konsumer Primer,DKI Jakarta,2016
+COMP-0522,PT Artha Tbk No. 522,Infrastruktur,Jawa Barat,2017
+COMP-0523,PT Indo Lestari No. 523,Konsumer Primer,DKI Jakarta,2012
+COMP-0524,PT Bumi Abadi No. 524,Kesehatan,Jawa Barat,2011
+COMP-0525,PT Bumi Makmur No. 525,Keuangan,Sulawesi Selatan,2011
+COMP-0526,PT Nusantara Karya No. 526,Teknologi & Informasi,DKI Jakarta,2014
+COMP-0527,PT Sumber Jaya No. 527,Teknologi & Informasi,DKI Jakarta,2024
+COMP-0528,PT Bina Abadi No. 528,Keuangan,Jawa Timur,2010
+COMP-0529,PT Artha Lestari No. 529,Konsumer Primer,DKI Jakarta,2024
+COMP-0530,PT Mega Jaya No. 530,Kesehatan,DKI Jakarta,2011
+COMP-0531,PT Nusantara Energi No. 531,Infrastruktur,Jawa Timur,2022
+COMP-0532,PT Sumber Persada No. 532,Keuangan,Kalimantan Timur,2018
+COMP-0533,PT Bumi Sejahtera No. 533,Energi & Pertambangan,Kalimantan Timur,2016
+COMP-0534,PT Nusantara Abadi No. 534,Konsumer Primer,Jawa Timur,2024
+COMP-0535,PT Nusantara Sentosa No. 535,Teknologi & Informasi,Sumatera Utara,2024
+COMP-0536,PT Bina Energi No. 536,Keuangan,DKI Jakarta,2015
+COMP-0537,PT Artha Lestari No. 537,Teknologi & Informasi,DKI Jakarta,2018
+COMP-0538,PT Sumber Jaya No. 538,Konsumer Primer,Jawa Timur,2016
+COMP-0539,PT Nusantara Abadi No. 539,Teknologi & Informasi,Jawa Timur,2023
+COMP-0540,PT Nusantara Abadi No. 540,Keuangan,Sumatera Utara,2020
+COMP-0541,PT Citra Jaya No. 541,Konsumer Primer,Sulawesi Selatan,2014
+COMP-0542,PT Citra Energi No. 542,Energi & Pertambangan,Kalimantan Timur,2024
+COMP-0543,PT Surya Karya No. 543,Keuangan,Jawa Barat,2018
+COMP-0544,PT Bumi Energi No. 544,Infrastruktur,Sulawesi Selatan,2015
+COMP-0545,PT Citra Makmur No. 545,Kesehatan,Kalimantan Timur,2015
+COMP-0546,PT Bumi Lestari No. 546,Keuangan,DKI Jakarta,2020
+COMP-0547,PT Nusantara Makmur No. 547,Konsumer Primer,Sulawesi Selatan,2013
+COMP-0548,PT Sumber Karya No. 548,Kesehatan,Jawa Timur,2022
+COMP-0549,PT Artha Energi No. 549,Keuangan,Sumatera Utara,2021
+COMP-0550,PT Surya Abadi No. 550,Energi & Pertambangan,Kalimantan Timur,2010
+COMP-0551,PT Utama Karya No. 551,Energi & Pertambangan,Sumatera Utara,2014
+COMP-0552,PT Indo Persada No. 552,Infrastruktur,Kalimantan Timur,2020
+COMP-0553,PT Citra Makmur No. 553,Teknologi & Informasi,Sulawesi Selatan,2018
+COMP-0554,PT Nusantara Abadi No. 554,Kesehatan,DKI Jakarta,2022
+COMP-0555,PT Utama Makmur No. 555,Konsumer Primer,Jawa Barat,2017
+COMP-0556,PT Utama Jaya No. 556,Konsumer Primer,Sumatera Utara,2017
+COMP-0557,PT Nusantara Tbk No. 557,Teknologi & Informasi,Sumatera Utara,2014
+COMP-0558,PT Utama Karya No. 558,Energi & Pertambangan,Jawa Barat,2021
+COMP-0559,PT Surya Abadi No. 559,Energi & Pertambangan,Sumatera Utara,2018
+COMP-0560,PT Surya Lestari No. 560,Keuangan,Sumatera Utara,2012
+COMP-0561,PT Bina Sejahtera No. 561,Infrastruktur,Kalimantan Timur,2012
+COMP-0562,PT Citra Karya No. 562,Kesehatan,Kalimantan Timur,2010
+COMP-0563,PT Nusantara Jaya No. 563,Infrastruktur,Jawa Barat,2018
+COMP-0564,PT Bumi Karya No. 564,Infrastruktur,DKI Jakarta,2015
+COMP-0565,PT Surya Jaya No. 565,Keuangan,Sulawesi Selatan,2011
+COMP-0566,PT Artha Sentosa No. 566,Infrastruktur,Sulawesi Selatan,2017
+COMP-0567,PT Mega Lestari No. 567,Teknologi & Informasi,Sumatera Utara,2021
+COMP-0568,PT Mega Abadi No. 568,Keuangan,DKI Jakarta,2018
+COMP-0569,PT Bumi Abadi No. 569,Teknologi & Informasi,Jawa Barat,2018
+COMP-0570,PT Indo Abadi No. 570,Keuangan,Jawa Barat,2011
+COMP-0571,PT Nusantara Abadi No. 571,Infrastruktur,Kalimantan Timur,2011
+COMP-0572,PT Mega Karya No. 572,Teknologi & Informasi,Sumatera Utara,2022
+COMP-0573,PT Citra Sentosa No. 573,Teknologi & Informasi,Jawa Timur,2016
+COMP-0574,PT Bumi Makmur No. 574,Teknologi & Informasi,Jawa Barat,2020
+COMP-0575,PT Nusantara Sejahtera No. 575,Keuangan,Sumatera Utara,2013
+COMP-0576,PT Artha Persada No. 576,Konsumer Primer,DKI Jakarta,2022
+COMP-0577,PT Bumi Karya No. 577,Infrastruktur,Kalimantan Timur,2010
+COMP-0578,PT Utama Abadi No. 578,Teknologi & Informasi,Sulawesi Selatan,2017
+COMP-0579,PT Artha Sejahtera No. 579,Kesehatan,DKI Jakarta,2011
+COMP-0580,PT Mega Lestari No. 580,Konsumer Primer,Jawa Barat,2023
+COMP-0581,PT Bina Makmur No. 581,Kesehatan,Jawa Barat,2012
+COMP-0582,PT Mega Karya No. 582,Infrastruktur,DKI Jakarta,2014
+COMP-0583,PT Artha Persada No. 583,Infrastruktur,Jawa Barat,2023
+COMP-0584,PT Sumber Jaya No. 584,Teknologi & Informasi,Sumatera Utara,2012
+COMP-0585,PT Nusantara Persada No. 585,Teknologi & Informasi,Jawa Barat,2016
+COMP-0586,PT Surya Abadi No. 586,Keuangan,Kalimantan Timur,2016
+COMP-0587,PT Nusantara Makmur No. 587,Konsumer Primer,Sumatera Utara,2023
+COMP-0588,PT Citra Energi No. 588,Konsumer Primer,Jawa Timur,2011
+COMP-0589,PT Bina Jaya No. 589,Teknologi & Informasi,Jawa Barat,2022
+COMP-0590,PT Bumi Tbk No. 590,Infrastruktur,Jawa Barat,2022
+COMP-0591,PT Utama Tbk No. 591,Teknologi & Informasi,Kalimantan Timur,2016
+COMP-0592,PT Sumber Lestari No. 592,Infrastruktur,Kalimantan Timur,2020
+COMP-0593,PT Artha Persada No. 593,Infrastruktur,Sulawesi Selatan,2015
+COMP-0594,PT Indo Makmur No. 594,Teknologi & Informasi,DKI Jakarta,2019
+COMP-0595,PT Utama Sejahtera No. 595,Energi & Pertambangan,DKI Jakarta,2018
+COMP-0596,PT Sumber Makmur No. 596,Konsumer Primer,DKI Jakarta,2022
+COMP-0597,PT Mega Persada No. 597,Kesehatan,Kalimantan Timur,2018
+COMP-0598,PT Artha Tbk No. 598,Infrastruktur,DKI Jakarta,2011
+COMP-0599,PT Sumber Makmur No. 599,Infrastruktur,DKI Jakarta,2016
+COMP-0600,PT Nusantara Sejahtera No. 600,Energi & Pertambangan,Jawa Timur,2014
+COMP-0601,PT Bina Lestari No. 601,Kesehatan,DKI Jakarta,2022
+COMP-0602,PT Indo Abadi No. 602,Keuangan,Jawa Barat,2015
+COMP-0603,PT Mega Persada No. 603,Energi & Pertambangan,Sulawesi Selatan,2010
+COMP-0604,PT Sumber Sejahtera No. 604,Kesehatan,Kalimantan Timur,2016
+COMP-0605,PT Bina Lestari No. 605,Energi & Pertambangan,Sumatera Utara,2015
+COMP-0606,PT Surya Makmur No. 606,Infrastruktur,Sulawesi Selatan,2013
+COMP-0607,PT Bina Sejahtera No. 607,Konsumer Primer,Jawa Timur,2010
+COMP-0608,PT Utama Persada No. 608,Energi & Pertambangan,Kalimantan Timur,2018
+COMP-0609,PT Nusantara Persada No. 609,Keuangan,Kalimantan Timur,2013
+COMP-0610,PT Mega Persada No. 610,Teknologi & Informasi,Jawa Barat,2011
+COMP-0611,PT Bumi Lestari No. 611,Kesehatan,Sulawesi Selatan,2017
+COMP-0612,PT Nusantara Karya No. 612,Energi & Pertambangan,Sulawesi Selatan,2011
+COMP-0613,PT Mega Sentosa No. 613,Energi & Pertambangan,DKI Jakarta,2014
+COMP-0614,PT Citra Persada No. 614,Keuangan,Jawa Barat,2020
+COMP-0615,PT Mega Jaya No. 615,Konsumer Primer,DKI Jakarta,2015
+COMP-0616,PT Artha Energi No. 616,Energi & Pertambangan,DKI Jakarta,2020
+COMP-0617,PT Utama Jaya No. 617,Energi & Pertambangan,Kalimantan Timur,2022
+COMP-0618,PT Citra Lestari No. 618,Konsumer Primer,Sulawesi Selatan,2017
+COMP-0619,PT Bumi Abadi No. 619,Keuangan,DKI Jakarta,2020
+COMP-0620,PT Surya Lestari No. 620,Kesehatan,Jawa Timur,2010
+COMP-0621,PT Sumber Sejahtera No. 621,Kesehatan,Jawa Timur,2010
+COMP-0622,PT Surya Energi No. 622,Energi & Pertambangan,Sulawesi Selatan,2021
+COMP-0623,PT Indo Sentosa No. 623,Konsumer Primer,Jawa Timur,2013
+COMP-0624,PT Artha Karya No. 624,Energi & Pertambangan,Kalimantan Timur,2014
+COMP-0625,PT Citra Sentosa No. 625,Teknologi & Informasi,Jawa Barat,2022
+COMP-0626,PT Nusantara Makmur No. 626,Kesehatan,Sumatera Utara,2024
+COMP-0627,PT Bina Persada No. 627,Infrastruktur,DKI Jakarta,2022
+COMP-0628,PT Bumi Sejahtera No. 628,Teknologi & Informasi,Sumatera Utara,2018
+COMP-0629,PT Bina Tbk No. 629,Energi & Pertambangan,Jawa Barat,2020
+COMP-0630,PT Surya Energi No. 630,Keuangan,Jawa Barat,2023
+COMP-0631,PT Nusantara Tbk No. 631,Kesehatan,Kalimantan Timur,2016
+COMP-0632,PT Surya Persada No. 632,Infrastruktur,Jawa Timur,2016
+COMP-0633,PT Bina Abadi No. 633,Teknologi & Informasi,Jawa Timur,2017
+COMP-0634,PT Citra Karya No. 634,Kesehatan,Jawa Barat,2024
+COMP-0635,PT Bumi Sejahtera No. 635,Konsumer Primer,Kalimantan Timur,2014
+COMP-0636,PT Citra Lestari No. 636,Keuangan,Kalimantan Timur,2014
+COMP-0637,PT Bumi Karya No. 637,Teknologi & Informasi,Sulawesi Selatan,2010
+COMP-0638,PT Mega Energi No. 638,Konsumer Primer,DKI Jakarta,2023
+COMP-0639,PT Nusantara Persada No. 639,Energi & Pertambangan,Jawa Timur,2018
+COMP-0640,PT Bina Abadi No. 640,Konsumer Primer,Jawa Barat,2015
+COMP-0641,PT Nusantara Jaya No. 641,Teknologi & Informasi,Sulawesi Selatan,2018
+COMP-0642,PT Citra Jaya No. 642,Teknologi & Informasi,Sumatera Utara,2012
+COMP-0643,PT Mega Energi No. 643,Energi & Pertambangan,Jawa Timur,2014
+COMP-0644,PT Utama Sejahtera No. 644,Konsumer Primer,DKI Jakarta,2011
+COMP-0645,PT Sumber Lestari No. 645,Konsumer Primer,Kalimantan Timur,2019
+COMP-0646,PT Surya Tbk No. 646,Energi & Pertambangan,Jawa Barat,2014
+COMP-0647,PT Bumi Tbk No. 647,Konsumer Primer,Jawa Timur,2024
+COMP-0648,PT Indo Tbk No. 648,Kesehatan,Sumatera Utara,2022
+COMP-0649,PT Indo Persada No. 649,Energi & Pertambangan,DKI Jakarta,2022
+COMP-0650,PT Utama Energi No. 650,Keuangan,DKI Jakarta,2022
+COMP-0651,PT Utama Persada No. 651,Teknologi & Informasi,Sulawesi Selatan,2024
+COMP-0652,PT Mega Lestari No. 652,Keuangan,Jawa Timur,2023
+COMP-0653,PT Indo Abadi No. 653,Kesehatan,Sumatera Utara,2017
+COMP-0654,PT Mega Abadi No. 654,Kesehatan,DKI Jakarta,2020
+COMP-0655,PT Bina Karya No. 655,Infrastruktur,Jawa Barat,2011
+COMP-0656,PT Surya Makmur No. 656,Infrastruktur,DKI Jakarta,2017
+COMP-0657,PT Utama Makmur No. 657,Infrastruktur,Sumatera Utara,2013
+COMP-0658,PT Artha Abadi No. 658,Energi & Pertambangan,Kalimantan Timur,2019
+COMP-0659,PT Citra Makmur No. 659,Konsumer Primer,Kalimantan Timur,2019
+COMP-0660,PT Indo Abadi No. 660,Kesehatan,Sulawesi Selatan,2024
+COMP-0661,PT Nusantara Jaya No. 661,Keuangan,Jawa Timur,2010
+COMP-0662,PT Citra Makmur No. 662,Keuangan,Sumatera Utara,2022
+COMP-0663,PT Citra Sejahtera No. 663,Keuangan,Sulawesi Selatan,2014
+COMP-0664,PT Surya Persada No. 664,Keuangan,DKI Jakarta,2022
+COMP-0665,PT Utama Abadi No. 665,Infrastruktur,DKI Jakarta,2010
+COMP-0666,PT Utama Jaya No. 666,Keuangan,Kalimantan Timur,2016
+COMP-0667,PT Nusantara Sentosa No. 667,Konsumer Primer,Sulawesi Selatan,2017
+COMP-0668,PT Sumber Tbk No. 668,Infrastruktur,Kalimantan Timur,2012
+COMP-0669,PT Bumi Energi No. 669,Keuangan,Jawa Barat,2012
+COMP-0670,PT Indo Makmur No. 670,Energi & Pertambangan,Kalimantan Timur,2016
+COMP-0671,PT Utama Karya No. 671,Teknologi & Informasi,Jawa Barat,2013
+COMP-0672,PT Indo Makmur No. 672,Teknologi & Informasi,DKI Jakarta,2012
+COMP-0673,PT Utama Makmur No. 673,Teknologi & Informasi,Sulawesi Selatan,2024
+COMP-0674,PT Citra Abadi No. 674,Infrastruktur,Jawa Barat,2017
+COMP-0675,PT Artha Energi No. 675,Keuangan,Sulawesi Selatan,2012
+COMP-0676,PT Mega Tbk No. 676,Kesehatan,Sulawesi Selatan,2022
+COMP-0677,PT Surya Tbk No. 677,Kesehatan,Jawa Barat,2023
+COMP-0678,PT Indo Tbk No. 678,Kesehatan,Jawa Timur,2016
+COMP-0679,PT Utama Sentosa No. 679,Infrastruktur,Kalimantan Timur,2011
+COMP-0680,PT Mega Energi No. 680,Konsumer Primer,Jawa Barat,2020
+COMP-0681,PT Nusantara Karya No. 681,Energi & Pertambangan,DKI Jakarta,2020
+COMP-0682,PT Surya Makmur No. 682,Energi & Pertambangan,Sulawesi Selatan,2010
+COMP-0683,PT Artha Makmur No. 683,Teknologi & Informasi,Sumatera Utara,2021
+COMP-0684,PT Mega Tbk No. 684,Teknologi & Informasi,Jawa Barat,2015
+COMP-0685,PT Nusantara Sejahtera No. 685,Kesehatan,Kalimantan Timur,2017
+COMP-0686,PT Bina Energi No. 686,Kesehatan,Sulawesi Selatan,2010
+COMP-0687,PT Bina Jaya No. 687,Teknologi & Informasi,Jawa Timur,2022
+COMP-0688,PT Artha Persada No. 688,Keuangan,DKI Jakarta,2019
+COMP-0689,PT Mega Sejahtera No. 689,Konsumer Primer,Jawa Timur,2021
+COMP-0690,PT Sumber Abadi No. 690,Konsumer Primer,Sumatera Utara,2018
+COMP-0691,PT Surya Jaya No. 691,Konsumer Primer,Jawa Barat,2024
+COMP-0692,PT Bumi Tbk No. 692,Konsumer Primer,Sulawesi Selatan,2012
+COMP-0693,PT Utama Sentosa No. 693,Teknologi & Informasi,Jawa Barat,2012
+COMP-0694,PT Artha Jaya No. 694,Energi & Pertambangan,Kalimantan Timur,2013
+COMP-0695,PT Artha Lestari No. 695,Teknologi & Informasi,Jawa Barat,2020
+COMP-0696,PT Mega Karya No. 696,Konsumer Primer,DKI Jakarta,2024
+COMP-0697,PT Indo Makmur No. 697,Teknologi & Informasi,Sumatera Utara,2010
+COMP-0698,PT Bina Persada No. 698,Konsumer Primer,Jawa Timur,2018
+COMP-0699,PT Bina Energi No. 699,Infrastruktur,Sumatera Utara,2020
+COMP-0700,PT Indo Karya No. 700,Kesehatan,Sulawesi Selatan,2012
+COMP-0701,PT Surya Lestari No. 701,Energi & Pertambangan,Jawa Barat,2022
+COMP-0702,PT Mega Sejahtera No. 702,Infrastruktur,Sulawesi Selatan,2019
+COMP-0703,PT Sumber Abadi No. 703,Keuangan,Jawa Timur,2013
+COMP-0704,PT Nusantara Tbk No. 704,Teknologi & Informasi,Sulawesi Selatan,2010
+COMP-0705,PT Citra Sentosa No. 705,Keuangan,Kalimantan Timur,2013
+COMP-0706,PT Indo Energi No. 706,Teknologi & Informasi,Sumatera Utara,2022
+COMP-0707,PT Indo Karya No. 707,Kesehatan,Jawa Timur,2010
+COMP-0708,PT Bumi Makmur No. 708,Infrastruktur,Jawa Timur,2014
+COMP-0709,PT Nusantara Jaya No. 709,Kesehatan,Jawa Timur,2014
+COMP-0710,PT Citra Karya No. 710,Konsumer Primer,DKI Jakarta,2023
+COMP-0711,PT Sumber Jaya No. 711,Kesehatan,Sumatera Utara,2020
+COMP-0712,PT Bina Tbk No. 712,Kesehatan,Sulawesi Selatan,2016
+COMP-0713,PT Artha Sejahtera No. 713,Konsumer Primer,Jawa Timur,2023
+COMP-0714,PT Bumi Tbk No. 714,Teknologi & Informasi,Sumatera Utara,2017
+COMP-0715,PT Surya Karya No. 715,Konsumer Primer,Jawa Timur,2013
+COMP-0716,PT Bina Karya No. 716,Infrastruktur,Kalimantan Timur,2016
+COMP-0717,PT Bina Makmur No. 717,Kesehatan,Kalimantan Timur,2013
+COMP-0718,PT Indo Tbk No. 718,Konsumer Primer,Kalimantan Timur,2012
+COMP-0719,PT Surya Tbk No. 719,Kesehatan,Jawa Barat,2024
+COMP-0720,PT Mega Makmur No. 720,Infrastruktur,Jawa Timur,2015
+COMP-0721,PT Surya Lestari No. 721,Keuangan,Jawa Barat,2013
+COMP-0722,PT Surya Sejahtera No. 722,Infrastruktur,Sumatera Utara,2023
+COMP-0723,PT Indo Makmur No. 723,Energi & Pertambangan,Jawa Barat,2012
+COMP-0724,PT Sumber Sejahtera No. 724,Energi & Pertambangan,Sumatera Utara,2024
+COMP-0725,PT Mega Energi No. 725,Energi & Pertambangan,Sumatera Utara,2024
+COMP-0726,PT Bumi Jaya No. 726,Kesehatan,Sumatera Utara,2018
+COMP-0727,PT Citra Persada No. 727,Teknologi & Informasi,Sulawesi Selatan,2014
+COMP-0728,PT Citra Jaya No. 728,Teknologi & Informasi,Jawa Barat,2022
+COMP-0729,PT Surya Makmur No. 729,Teknologi & Informasi,Sulawesi Selatan,2023
+COMP-0730,PT Surya Energi No. 730,Kesehatan,Jawa Timur,2016
+COMP-0731,PT Sumber Jaya No. 731,Infrastruktur,Jawa Barat,2021
+COMP-0732,PT Citra Jaya No. 732,Teknologi & Informasi,Jawa Timur,2023
+COMP-0733,PT Nusantara Tbk No. 733,Keuangan,Jawa Timur,2015
+COMP-0734,PT Bina Sejahtera No. 734,Energi & Pertambangan,Sumatera Utara,2019
+COMP-0735,PT Indo Sentosa No. 735,Infrastruktur,Jawa Barat,2024
+COMP-0736,PT Sumber Abadi No. 736,Energi & Pertambangan,Jawa Timur,2014
+COMP-0737,PT Mega Persada No. 737,Teknologi & Informasi,Kalimantan Timur,2016
+COMP-0738,PT Bina Karya No. 738,Infrastruktur,Jawa Timur,2020
+COMP-0739,PT Utama Persada No. 739,Konsumer Primer,Kalimantan Timur,2015
+COMP-0740,PT Indo Sejahtera No. 740,Keuangan,Jawa Barat,2019
+COMP-0741,PT Utama Makmur No. 741,Teknologi & Informasi,Sulawesi Selatan,2011
+COMP-0742,PT Artha Makmur No. 742,Teknologi & Informasi,Jawa Barat,2022
+COMP-0743,PT Utama Makmur No. 743,Keuangan,Sulawesi Selatan,2022
+COMP-0744,PT Nusantara Tbk No. 744,Keuangan,Sulawesi Selatan,2022
+COMP-0745,PT Nusantara Jaya No. 745,Konsumer Primer,Jawa Barat,2012
+COMP-0746,PT Bumi Jaya No. 746,Teknologi & Informasi,Jawa Timur,2011
+COMP-0747,PT Citra Lestari No. 747,Kesehatan,DKI Jakarta,2021
+COMP-0748,PT Citra Abadi No. 748,Teknologi & Informasi,Jawa Timur,2012
+COMP-0749,PT Indo Tbk No. 749,Energi & Pertambangan,Jawa Timur,2010
+COMP-0750,PT Bumi Sejahtera No. 750,Infrastruktur,Sumatera Utara,2017
+COMP-0751,PT Sumber Sentosa No. 751,Infrastruktur,Sumatera Utara,2015
+COMP-0752,PT Artha Sentosa No. 752,Energi & Pertambangan,Jawa Timur,2022
+COMP-0753,PT Bumi Sentosa No. 753,Infrastruktur,Kalimantan Timur,2011
+COMP-0754,PT Nusantara Lestari No. 754,Keuangan,Sulawesi Selatan,2017
+COMP-0755,PT Nusantara Persada No. 755,Infrastruktur,Sumatera Utara,2015
+COMP-0756,PT Sumber Energi No. 756,Infrastruktur,Jawa Timur,2016
+COMP-0757,PT Sumber Persada No. 757,Energi & Pertambangan,DKI Jakarta,2020
+COMP-0758,PT Surya Makmur No. 758,Konsumer Primer,Kalimantan Timur,2010
+COMP-0759,PT Bumi Sentosa No. 759,Infrastruktur,Jawa Barat,2016
+COMP-0760,PT Citra Sentosa No. 760,Kesehatan,Jawa Timur,2012
+COMP-0761,PT Utama Energi No. 761,Infrastruktur,Jawa Timur,2020
+COMP-0762,PT Sumber Karya No. 762,Konsumer Primer,Sulawesi Selatan,2021
+COMP-0763,PT Indo Abadi No. 763,Energi & Pertambangan,Kalimantan Timur,2017
+COMP-0764,PT Indo Makmur No. 764,Konsumer Primer,Sumatera Utara,2015
+COMP-0765,PT Bumi Sentosa No. 765,Energi & Pertambangan,Sumatera Utara,2013
+COMP-0766,PT Nusantara Karya No. 766,Keuangan,Sumatera Utara,2020
+COMP-0767,PT Bina Abadi No. 767,Energi & Pertambangan,Jawa Barat,2017
+COMP-0768,PT Utama Sentosa No. 768,Keuangan,Kalimantan Timur,2018
+COMP-0769,PT Bumi Sentosa No. 769,Keuangan,Kalimantan Timur,2019
+COMP-0770,PT Sumber Karya No. 770,Energi & Pertambangan,Sumatera Utara,2011
+COMP-0771,PT Nusantara Jaya No. 771,Kesehatan,Sumatera Utara,2024
+COMP-0772,PT Mega Sejahtera No. 772,Teknologi & Informasi,Sulawesi Selatan,2015
+COMP-0773,PT Artha Lestari No. 773,Energi & Pertambangan,DKI Jakarta,2014
+COMP-0774,PT Citra Tbk No. 774,Infrastruktur,DKI Jakarta,2014
+COMP-0775,PT Mega Karya No. 775,Kesehatan,Jawa Timur,2019
+COMP-0776,PT Nusantara Persada No. 776,Kesehatan,Jawa Timur,2020
+COMP-0777,PT Sumber Makmur No. 777,Infrastruktur,Kalimantan Timur,2012
+COMP-0778,PT Citra Energi No. 778,Teknologi & Informasi,Kalimantan Timur,2021
+COMP-0779,PT Bina Jaya No. 779,Kesehatan,Jawa Barat,2017
+COMP-0780,PT Bumi Jaya No. 780,Keuangan,Jawa Barat,2023
+COMP-0781,PT Bina Energi No. 781,Teknologi & Informasi,DKI Jakarta,2017
+COMP-0782,PT Mega Jaya No. 782,Infrastruktur,Jawa Timur,2021
+COMP-0783,PT Bumi Sentosa No. 783,Teknologi & Informasi,DKI Jakarta,2014
+COMP-0784,PT Utama Karya No. 784,Energi & Pertambangan,DKI Jakarta,2017
+COMP-0785,PT Mega Jaya No. 785,Teknologi & Informasi,Jawa Timur,2019
+COMP-0786,PT Indo Karya No. 786,Keuangan,Jawa Barat,2024
+COMP-0787,PT Artha Tbk No. 787,Energi & Pertambangan,Sulawesi Selatan,2017
+COMP-0788,PT Utama Energi No. 788,Konsumer Primer,Sulawesi Selatan,2012
+COMP-0789,PT Artha Sentosa No. 789,Infrastruktur,Sulawesi Selatan,2011
+COMP-0790,PT Bina Lestari No. 790,Infrastruktur,Jawa Timur,2018
+COMP-0791,PT Bina Lestari No. 791,Teknologi & Informasi,Sumatera Utara,2011
+COMP-0792,PT Sumber Sejahtera No. 792,Kesehatan,Sumatera Utara,2018
+COMP-0793,PT Mega Makmur No. 793,Energi & Pertambangan,Sumatera Utara,2013
+COMP-0794,PT Surya Jaya No. 794,Konsumer Primer,Kalimantan Timur,2021
+COMP-0795,PT Nusantara Jaya No. 795,Energi & Pertambangan,Jawa Barat,2022
+COMP-0796,PT Mega Makmur No. 796,Infrastruktur,Jawa Barat,2011
+COMP-0797,PT Bumi Lestari No. 797,Energi & Pertambangan,Kalimantan Timur,2019
+COMP-0798,PT Bina Energi No. 798,Konsumer Primer,DKI Jakarta,2010
+COMP-0799,PT Sumber Tbk No. 799,Kesehatan,Sulawesi Selatan,2013
+COMP-0800,PT Surya Lestari No. 800,Teknologi & Informasi,Sumatera Utara,2018
+COMP-0801,PT Citra Jaya No. 801,Keuangan,Sulawesi Selatan,2021
+COMP-0802,PT Bina Energi No. 802,Energi & Pertambangan,Sumatera Utara,2018
+COMP-0803,PT Bina Lestari No. 803,Keuangan,Sulawesi Selatan,2013
+COMP-0804,PT Sumber Sentosa No. 804,Infrastruktur,DKI Jakarta,2018
+COMP-0805,PT Nusantara Persada No. 805,Teknologi & Informasi,Sulawesi Selatan,2024
+COMP-0806,PT Surya Makmur No. 806,Teknologi & Informasi,Sulawesi Selatan,2021
+COMP-0807,PT Nusantara Makmur No. 807,Energi & Pertambangan,Jawa Timur,2015
+COMP-0808,PT Nusantara Energi No. 808,Kesehatan,Sulawesi Selatan,2010
+COMP-0809,PT Bina Energi No. 809,Teknologi & Informasi,Jawa Timur,2019
+COMP-0810,PT Artha Persada No. 810,Energi & Pertambangan,Jawa Barat,2022
+COMP-0811,PT Sumber Abadi No. 811,Energi & Pertambangan,Kalimantan Timur,2023
+COMP-0812,PT Bumi Lestari No. 812,Keuangan,Sulawesi Selatan,2015
+COMP-0813,PT Utama Persada No. 813,Teknologi & Informasi,Jawa Barat,2018
+COMP-0814,PT Indo Makmur No. 814,Energi & Pertambangan,Jawa Timur,2022
+COMP-0815,PT Bumi Persada No. 815,Keuangan,Sulawesi Selatan,2011
+COMP-0816,PT Utama Energi No. 816,Konsumer Primer,Sulawesi Selatan,2015
+COMP-0817,PT Surya Karya No. 817,Keuangan,DKI Jakarta,2011
+COMP-0818,PT Sumber Tbk No. 818,Keuangan,Jawa Barat,2013
+COMP-0819,PT Sumber Tbk No. 819,Energi & Pertambangan,Sumatera Utara,2024
+COMP-0820,PT Utama Tbk No. 820,Infrastruktur,Sumatera Utara,2017
+COMP-0821,PT Bumi Jaya No. 821,Infrastruktur,DKI Jakarta,2022
+COMP-0822,PT Surya Makmur No. 822,Kesehatan,Jawa Timur,2016
+COMP-0823,PT Artha Abadi No. 823,Infrastruktur,Sumatera Utara,2020
+COMP-0824,PT Artha Sentosa No. 824,Keuangan,Sumatera Utara,2021
+COMP-0825,PT Sumber Persada No. 825,Kesehatan,Kalimantan Timur,2022
+COMP-0826,PT Sumber Persada No. 826,Energi & Pertambangan,Jawa Barat,2018
+COMP-0827,PT Citra Tbk No. 827,Teknologi & Informasi,Jawa Timur,2016
+COMP-0828,PT Indo Makmur No. 828,Keuangan,Sulawesi Selatan,2010
+COMP-0829,PT Sumber Abadi No. 829,Keuangan,Jawa Barat,2011
+COMP-0830,PT Bina Karya No. 830,Kesehatan,Jawa Timur,2015
+COMP-0831,PT Indo Karya No. 831,Energi & Pertambangan,Sumatera Utara,2016
+COMP-0832,PT Utama Sentosa No. 832,Konsumer Primer,Kalimantan Timur,2012
+COMP-0833,PT Surya Abadi No. 833,Keuangan,Jawa Barat,2018
+COMP-0834,PT Mega Abadi No. 834,Konsumer Primer,Sumatera Utara,2022
+COMP-0835,PT Citra Makmur No. 835,Konsumer Primer,Jawa Timur,2024
+COMP-0836,PT Sumber Makmur No. 836,Infrastruktur,Jawa Barat,2016
+COMP-0837,PT Citra Lestari No. 837,Energi & Pertambangan,Sulawesi Selatan,2023
+COMP-0838,PT Mega Jaya No. 838,Konsumer Primer,Jawa Barat,2015
+COMP-0839,PT Bina Karya No. 839,Energi & Pertambangan,Sumatera Utara,2022
+COMP-0840,PT Indo Karya No. 840,Infrastruktur,Jawa Barat,2015
+COMP-0841,PT Citra Lestari No. 841,Energi & Pertambangan,Sulawesi Selatan,2010
+COMP-0842,PT Nusantara Abadi No. 842,Keuangan,Kalimantan Timur,2022
+COMP-0843,PT Nusantara Sejahtera No. 843,Konsumer Primer,Kalimantan Timur,2014
+COMP-0844,PT Indo Jaya No. 844,Energi & Pertambangan,Sumatera Utara,2019
+COMP-0845,PT Artha Sejahtera No. 845,Teknologi & Informasi,Jawa Timur,2012
+COMP-0846,PT Artha Sentosa No. 846,Energi & Pertambangan,Sumatera Utara,2016
+COMP-0847,PT Surya Makmur No. 847,Konsumer Primer,Kalimantan Timur,2019
+COMP-0848,PT Nusantara Karya No. 848,Infrastruktur,DKI Jakarta,2012
+COMP-0849,PT Bina Sentosa No. 849,Infrastruktur,DKI Jakarta,2014
+COMP-0850,PT Indo Sejahtera No. 850,Konsumer Primer,Jawa Barat,2016
+COMP-0851,PT Bumi Sentosa No. 851,Keuangan,Sulawesi Selatan,2023
+COMP-0852,PT Bumi Makmur No. 852,Keuangan,Jawa Barat,2012
+COMP-0853,PT Artha Lestari No. 853,Infrastruktur,DKI Jakarta,2022
+COMP-0854,PT Utama Persada No. 854,Infrastruktur,Kalimantan Timur,2022
+COMP-0855,PT Citra Karya No. 855,Konsumer Primer,Jawa Barat,2019
+COMP-0856,PT Indo Lestari No. 856,Keuangan,Sumatera Utara,2011
+COMP-0857,PT Citra Makmur No. 857,Infrastruktur,Sulawesi Selatan,2015
+COMP-0858,PT Surya Sejahtera No. 858,Keuangan,Sumatera Utara,2017
+COMP-0859,PT Nusantara Karya No. 859,Infrastruktur,Sulawesi Selatan,2013
+COMP-0860,PT Indo Jaya No. 860,Energi & Pertambangan,Kalimantan Timur,2018
+COMP-0861,PT Artha Abadi No. 861,Teknologi & Informasi,Jawa Barat,2021
+COMP-0862,PT Indo Makmur No. 862,Kesehatan,Sulawesi Selatan,2021
+COMP-0863,PT Utama Sejahtera No. 863,Energi & Pertambangan,Sumatera Utara,2024
+COMP-0864,PT Mega Lestari No. 864,Kesehatan,Jawa Barat,2017
+COMP-0865,PT Bina Lestari No. 865,Infrastruktur,Jawa Barat,2016
+COMP-0866,PT Surya Abadi No. 866,Teknologi & Informasi,Sumatera Utara,2023
+COMP-0867,PT Bina Sentosa No. 867,Teknologi & Informasi,DKI Jakarta,2016
+COMP-0868,PT Bumi Abadi No. 868,Infrastruktur,Sulawesi Selatan,2012
+COMP-0869,PT Sumber Energi No. 869,Infrastruktur,Sumatera Utara,2023
+COMP-0870,PT Bina Tbk No. 870,Keuangan,Kalimantan Timur,2015
+COMP-0871,PT Bumi Karya No. 871,Infrastruktur,Jawa Timur,2022
+COMP-0872,PT Mega Sejahtera No. 872,Konsumer Primer,Sumatera Utara,2022
+COMP-0873,PT Nusantara Jaya No. 873,Infrastruktur,Jawa Barat,2014
+COMP-0874,PT Surya Sentosa No. 874,Konsumer Primer,Jawa Barat,2010
+COMP-0875,PT Utama Persada No. 875,Infrastruktur,Sumatera Utara,2020
+COMP-0876,PT Citra Lestari No. 876,Keuangan,Jawa Timur,2012
+COMP-0877,PT Indo Persada No. 877,Konsumer Primer,Sumatera Utara,2022
+COMP-0878,PT Bina Energi No. 878,Energi & Pertambangan,Jawa Timur,2021
+COMP-0879,PT Mega Sentosa No. 879,Konsumer Primer,Jawa Timur,2010
+COMP-0880,PT Surya Energi No. 880,Keuangan,Kalimantan Timur,2013
+COMP-0881,PT Bina Lestari No. 881,Kesehatan,Sulawesi Selatan,2019
+COMP-0882,PT Artha Tbk No. 882,Konsumer Primer,Jawa Barat,2012
+COMP-0883,PT Mega Sejahtera No. 883,Infrastruktur,Jawa Barat,2020
+COMP-0884,PT Mega Energi No. 884,Infrastruktur,Jawa Timur,2013
+COMP-0885,PT Nusantara Jaya No. 885,Kesehatan,Jawa Barat,2018
+COMP-0886,PT Surya Lestari No. 886,Keuangan,DKI Jakarta,2012
+COMP-0887,PT Artha Makmur No. 887,Teknologi & Informasi,Jawa Timur,2021
+COMP-0888,PT Bumi Tbk No. 888,Infrastruktur,Jawa Barat,2015
+COMP-0889,PT Mega Sentosa No. 889,Energi & Pertambangan,DKI Jakarta,2015
+COMP-0890,PT Indo Energi No. 890,Keuangan,Kalimantan Timur,2016
+COMP-0891,PT Utama Karya No. 891,Konsumer Primer,Jawa Barat,2018
+COMP-0892,PT Sumber Sejahtera No. 892,Konsumer Primer,DKI Jakarta,2021
+COMP-0893,PT Mega Sejahtera No. 893,Energi & Pertambangan,Sumatera Utara,2016
+COMP-0894,PT Nusantara Energi No. 894,Infrastruktur,Sulawesi Selatan,2023
+COMP-0895,PT Citra Persada No. 895,Keuangan,Sumatera Utara,2010
+COMP-0896,PT Artha Sejahtera No. 896,Energi & Pertambangan,DKI Jakarta,2024
+COMP-0897,PT Bumi Jaya No. 897,Infrastruktur,Jawa Timur,2017
+COMP-0898,PT Bumi Tbk No. 898,Keuangan,Jawa Timur,2014
+COMP-0899,PT Bumi Tbk No. 899,Konsumer Primer,Jawa Barat,2018
+COMP-0900,PT Utama Jaya No. 900,Keuangan,Sumatera Utara,2019
+COMP-0901,PT Bumi Abadi No. 901,Kesehatan,Jawa Timur,2022
+COMP-0902,PT Sumber Sentosa No. 902,Teknologi & Informasi,Jawa Timur,2024
+COMP-0903,PT Utama Sentosa No. 903,Keuangan,Sumatera Utara,2021
+COMP-0904,PT Bumi Persada No. 904,Teknologi & Informasi,Kalimantan Timur,2014
+COMP-0905,PT Utama Jaya No. 905,Keuangan,Jawa Timur,2014
+COMP-0906,PT Bumi Sejahtera No. 906,Teknologi & Informasi,Sulawesi Selatan,2024
+COMP-0907,PT Nusantara Abadi No. 907,Kesehatan,DKI Jakarta,2021
+COMP-0908,PT Surya Lestari No. 908,Konsumer Primer,Jawa Barat,2021
+COMP-0909,PT Mega Lestari No. 909,Infrastruktur,Jawa Timur,2023
+COMP-0910,PT Bumi Energi No. 910,Teknologi & Informasi,Sulawesi Selatan,2011
+COMP-0911,PT Utama Abadi No. 911,Kesehatan,Sulawesi Selatan,2021
+COMP-0912,PT Indo Persada No. 912,Teknologi & Informasi,Jawa Timur,2020
+COMP-0913,PT Bumi Makmur No. 913,Konsumer Primer,Kalimantan Timur,2012
+COMP-0914,PT Nusantara Persada No. 914,Teknologi & Informasi,DKI Jakarta,2019
+COMP-0915,PT Surya Jaya No. 915,Kesehatan,Jawa Barat,2018
+COMP-0916,PT Nusantara Jaya No. 916,Kesehatan,Jawa Timur,2016
+COMP-0917,PT Bina Sentosa No. 917,Energi & Pertambangan,Jawa Barat,2010
+COMP-0918,PT Nusantara Energi No. 918,Konsumer Primer,Sumatera Utara,2012
+COMP-0919,PT Citra Sejahtera No. 919,Energi & Pertambangan,Sulawesi Selatan,2021
+COMP-0920,PT Mega Tbk No. 920,Konsumer Primer,Sulawesi Selatan,2011
+COMP-0921,PT Indo Makmur No. 921,Teknologi & Informasi,Jawa Timur,2010
+COMP-0922,PT Bumi Lestari No. 922,Kesehatan,Jawa Timur,2018
+COMP-0923,PT Bina Energi No. 923,Energi & Pertambangan,Sumatera Utara,2017
+COMP-0924,PT Bina Tbk No. 924,Teknologi & Informasi,Kalimantan Timur,2024
+COMP-0925,PT Bina Sejahtera No. 925,Kesehatan,Jawa Timur,2014
+COMP-0926,PT Bina Sentosa No. 926,Konsumer Primer,Sulawesi Selatan,2020
+COMP-0927,PT Bumi Lestari No. 927,Kesehatan,Jawa Barat,2021
+COMP-0928,PT Artha Lestari No. 928,Teknologi & Informasi,DKI Jakarta,2011
+COMP-0929,PT Citra Lestari No. 929,Energi & Pertambangan,Jawa Barat,2010
+COMP-0930,PT Bumi Makmur No. 930,Energi & Pertambangan,Kalimantan Timur,2016
+COMP-0931,PT Bina Abadi No. 931,Kesehatan,DKI Jakarta,2022
+COMP-0932,PT Citra Energi No. 932,Teknologi & Informasi,Jawa Barat,2020
+COMP-0933,PT Surya Lestari No. 933,Keuangan,Jawa Barat,2020
+COMP-0934,PT Utama Tbk No. 934,Konsumer Primer,Sumatera Utara,2024
+COMP-0935,PT Mega Energi No. 935,Konsumer Primer,Kalimantan Timur,2011
+COMP-0936,PT Indo Abadi No. 936,Teknologi & Informasi,Sulawesi Selatan,2010
+COMP-0937,PT Mega Karya No. 937,Keuangan,Sumatera Utara,2011
+COMP-0938,PT Bina Energi No. 938,Energi & Pertambangan,DKI Jakarta,2016
+COMP-0939,PT Nusantara Energi No. 939,Infrastruktur,Sulawesi Selatan,2016
+COMP-0940,PT Citra Lestari No. 940,Infrastruktur,Sumatera Utara,2019
+COMP-0941,PT Indo Karya No. 941,Teknologi & Informasi,Kalimantan Timur,2015
+COMP-0942,PT Surya Persada No. 942,Keuangan,Jawa Timur,2014
+COMP-0943,PT Bumi Tbk No. 943,Keuangan,Jawa Timur,2012
+COMP-0944,PT Citra Sejahtera No. 944,Konsumer Primer,DKI Jakarta,2023
+COMP-0945,PT Indo Jaya No. 945,Energi & Pertambangan,Jawa Timur,2021
+COMP-0946,PT Bumi Lestari No. 946,Kesehatan,Sumatera Utara,2012
+COMP-0947,PT Mega Persada No. 947,Keuangan,DKI Jakarta,2020
+COMP-0948,PT Bina Sejahtera No. 948,Kesehatan,Sulawesi Selatan,2022
+COMP-0949,PT Bumi Sejahtera No. 949,Infrastruktur,Kalimantan Timur,2021
+COMP-0950,PT Artha Abadi No. 950,Kesehatan,DKI Jakarta,2018
+COMP-0951,PT Sumber Makmur No. 951,Energi & Pertambangan,Sulawesi Selatan,2013
+COMP-0952,PT Mega Abadi No. 952,Energi & Pertambangan,DKI Jakarta,2018
+COMP-0953,PT Utama Sejahtera No. 953,Kesehatan,Jawa Barat,2013
+COMP-0954,PT Bina Sentosa No. 954,Teknologi & Informasi,Jawa Barat,2011
+COMP-0955,PT Citra Sentosa No. 955,Keuangan,DKI Jakarta,2024
+COMP-0956,PT Mega Lestari No. 956,Teknologi & Informasi,Jawa Timur,2013
+COMP-0957,PT Citra Makmur No. 957,Kesehatan,Jawa Barat,2015
+COMP-0958,PT Artha Sejahtera No. 958,Keuangan,Kalimantan Timur,2015
+COMP-0959,PT Artha Karya No. 959,Konsumer Primer,Sulawesi Selatan,2014
+COMP-0960,PT Surya Persada No. 960,Teknologi & Informasi,Sumatera Utara,2024
+COMP-0961,PT Artha Makmur No. 961,Teknologi & Informasi,Jawa Barat,2024
+COMP-0962,PT Bumi Energi No. 962,Kesehatan,DKI Jakarta,2010
+COMP-0963,PT Artha Persada No. 963,Infrastruktur,Jawa Timur,2012
+COMP-0964,PT Bina Abadi No. 964,Kesehatan,Sumatera Utara,2014
+COMP-0965,PT Indo Abadi No. 965,Teknologi & Informasi,Sulawesi Selatan,2015
+COMP-0966,PT Utama Jaya No. 966,Keuangan,Sulawesi Selatan,2023
+COMP-0967,PT Nusantara Persada No. 967,Infrastruktur,Jawa Barat,2010
+COMP-0968,PT Indo Jaya No. 968,Kesehatan,Sulawesi Selatan,2023
+COMP-0969,PT Artha Sentosa No. 969,Kesehatan,Sulawesi Selatan,2023
+COMP-0970,PT Artha Lestari No. 970,Teknologi & Informasi,Jawa Timur,2018
+COMP-0971,PT Utama Lestari No. 971,Teknologi & Informasi,Jawa Timur,2023
+COMP-0972,PT Nusantara Jaya No. 972,Konsumer Primer,Jawa Timur,2012
+COMP-0973,PT Indo Abadi No. 973,Kesehatan,DKI Jakarta,2019
+COMP-0974,PT Sumber Lestari No. 974,Teknologi & Informasi,Sulawesi Selatan,2022
+COMP-0975,PT Mega Lestari No. 975,Energi & Pertambangan,Sulawesi Selatan,2012
+COMP-0976,PT Bina Persada No. 976,Infrastruktur,Sulawesi Selatan,2020
+COMP-0977,PT Bina Persada No. 977,Energi & Pertambangan,Kalimantan Timur,2011
+COMP-0978,PT Surya Persada No. 978,Infrastruktur,Jawa Timur,2017
+COMP-0979,PT Bina Persada No. 979,Kesehatan,Sumatera Utara,2024
+COMP-0980,PT Surya Jaya No. 980,Konsumer Primer,Jawa Barat,2022
+COMP-0981,PT Nusantara Persada No. 981,Teknologi & Informasi,Sumatera Utara,2012
+COMP-0982,PT Mega Sentosa No. 982,Teknologi & Informasi,DKI Jakarta,2015
+COMP-0983,PT Bumi Jaya No. 983,Teknologi & Informasi,DKI Jakarta,2011
+COMP-0984,PT Citra Sentosa No. 984,Kesehatan,Sulawesi Selatan,2016
+COMP-0985,PT Utama Persada No. 985,Infrastruktur,Sumatera Utara,2022
+COMP-0986,PT Bina Makmur No. 986,Teknologi & Informasi,Sulawesi Selatan,2013
+COMP-0987,PT Citra Sentosa No. 987,Energi & Pertambangan,Kalimantan Timur,2018
+COMP-0988,PT Indo Energi No. 988,Teknologi & Informasi,DKI Jakarta,2023
+COMP-0989,PT Utama Makmur No. 989,Kesehatan,DKI Jakarta,2019
+COMP-0990,PT Mega Energi No. 990,Konsumer Primer,Sumatera Utara,2018
+COMP-0991,PT Citra Makmur No. 991,Energi & Pertambangan,DKI Jakarta,2016
+COMP-0992,PT Nusantara Abadi No. 992,Teknologi & Informasi,Kalimantan Timur,2024
+COMP-0993,PT Mega Energi No. 993,Teknologi & Informasi,Kalimantan Timur,2021
+COMP-0994,PT Sumber Sejahtera No. 994,Keuangan,Kalimantan Timur,2017
+COMP-0995,PT Citra Abadi No. 995,Infrastruktur,Jawa Barat,2012
+COMP-0996,PT Indo Tbk No. 996,Energi & Pertambangan,Kalimantan Timur,2020
+COMP-0997,PT Bina Tbk No. 997,Keuangan,Kalimantan Timur,2014
+COMP-0998,PT Bumi Karya No. 998,Konsumer Primer,Jawa Barat,2011
+COMP-0999,PT Utama Sejahtera No. 999,Infrastruktur,Sulawesi Selatan,2019
+COMP-1000,PT Bumi Karya No. 1000,Energi & Pertambangan,Jawa Timur,2016
+COMP-1001,PT Indo Lestari No. 1001,Teknologi & Informasi,DKI Jakarta,2022
+COMP-1002,PT Utama Tbk No. 1002,Energi & Pertambangan,Kalimantan Timur,2017
+COMP-1003,PT Nusantara Abadi No. 1003,Teknologi & Informasi,DKI Jakarta,2018
+COMP-1004,PT Surya Karya No. 1004,Infrastruktur,Sumatera Utara,2020
+COMP-1005,PT Artha Persada No. 1005,Teknologi & Informasi,DKI Jakarta,2020
+COMP-1006,PT Sumber Persada No. 1006,Konsumer Primer,Sulawesi Selatan,2016
+COMP-1007,PT Utama Sentosa No. 1007,Kesehatan,Jawa Barat,2019
+COMP-1008,PT Surya Sejahtera No. 1008,Teknologi & Informasi,DKI Jakarta,2024
+COMP-1009,PT Nusantara Sentosa No. 1009,Konsumer Primer,DKI Jakarta,2019
+COMP-1010,PT Citra Tbk No. 1010,Kesehatan,DKI Jakarta,2022
+COMP-1011,PT Surya Energi No. 1011,Infrastruktur,Jawa Timur,2017
+COMP-1012,PT Sumber Tbk No. 1012,Infrastruktur,Jawa Timur,2021
+COMP-1013,PT Utama Sentosa No. 1013,Energi & Pertambangan,Sumatera Utara,2018
+COMP-1014,PT Nusantara Makmur No. 1014,Konsumer Primer,Jawa Barat,2015
+COMP-1015,PT Mega Sejahtera No. 1015,Konsumer Primer,DKI Jakarta,2021
+COMP-1016,PT Surya Lestari No. 1016,Keuangan,DKI Jakarta,2021
+COMP-1017,PT Surya Makmur No. 1017,Keuangan,DKI Jakarta,2019
+COMP-1018,PT Citra Lestari No. 1018,Kesehatan,DKI Jakarta,2011
+COMP-1019,PT Indo Karya No. 1019,Kesehatan,Jawa Timur,2011
+COMP-1020,PT Sumber Lestari No. 1020,Keuangan,Sulawesi Selatan,2013
+COMP-1021,PT Bumi Abadi No. 1021,Kesehatan,Sulawesi Selatan,2024
+COMP-1022,PT Bumi Lestari No. 1022,Teknologi & Informasi,Sumatera Utara,2018
+COMP-1023,PT Nusantara Karya No. 1023,Keuangan,Kalimantan Timur,2016
+COMP-1024,PT Bumi Abadi No. 1024,Konsumer Primer,Jawa Barat,2011
+COMP-1025,PT Artha Jaya No. 1025,Teknologi & Informasi,Sulawesi Selatan,2017
+COMP-1026,PT Sumber Persada No. 1026,Kesehatan,DKI Jakarta,2020
+COMP-1027,PT Artha Sejahtera No. 1027,Infrastruktur,Sulawesi Selatan,2016
+COMP-1028,PT Bina Abadi No. 1028,Energi & Pertambangan,Sumatera Utara,2018
+COMP-1029,PT Indo Tbk No. 1029,Keuangan,Kalimantan Timur,2017
+COMP-1030,PT Utama Energi No. 1030,Infrastruktur,Sulawesi Selatan,2012
+COMP-1031,PT Surya Sentosa No. 1031,Kesehatan,Sumatera Utara,2010
+COMP-1032,PT Citra Abadi No. 1032,Konsumer Primer,Jawa Timur,2011
+COMP-1033,PT Citra Jaya No. 1033,Energi & Pertambangan,Kalimantan Timur,2024
+COMP-1034,PT Sumber Sejahtera No. 1034,Infrastruktur,Sumatera Utara,2023
+COMP-1035,PT Artha Jaya No. 1035,Energi & Pertambangan,Sulawesi Selatan,2022
+COMP-1036,PT Surya Energi No. 1036,Keuangan,Jawa Timur,2011
+COMP-1037,PT Bina Sejahtera No. 1037,Kesehatan,Sumatera Utara,2013
+COMP-1038,PT Artha Lestari No. 1038,Konsumer Primer,Sumatera Utara,2015
+COMP-1039,PT Sumber Makmur No. 1039,Kesehatan,Sulawesi Selatan,2013
+COMP-1040,PT Surya Abadi No. 1040,Energi & Pertambangan,Kalimantan Timur,2018
+COMP-1041,PT Nusantara Sejahtera No. 1041,Infrastruktur,Jawa Timur,2013
+COMP-1042,PT Sumber Sentosa No. 1042,Keuangan,DKI Jakarta,2015
+COMP-1043,PT Bumi Sentosa No. 1043,Keuangan,Jawa Barat,2015
+COMP-1044,PT Nusantara Abadi No. 1044,Kesehatan,Kalimantan Timur,2019
+COMP-1045,PT Bumi Makmur No. 1045,Infrastruktur,Jawa Timur,2020
+COMP-1046,PT Bina Sejahtera No. 1046,Infrastruktur,Sumatera Utara,2019
+COMP-1047,PT Bumi Tbk No. 1047,Energi & Pertambangan,Jawa Timur,2010
+COMP-1048,PT Bina Energi No. 1048,Kesehatan,Jawa Barat,2017
+COMP-1049,PT Citra Sentosa No. 1049,Kesehatan,Sulawesi Selatan,2021
+COMP-1050,PT Utama Persada No. 1050,Teknologi & Informasi,Jawa Barat,2012
+COMP-1051,PT Artha Makmur No. 1051,Kesehatan,DKI Jakarta,2024
+COMP-1052,PT Utama Lestari No. 1052,Keuangan,DKI Jakarta,2022
+COMP-1053,PT Citra Lestari No. 1053,Energi & Pertambangan,Jawa Barat,2015
+COMP-1054,PT Sumber Sejahtera No. 1054,Infrastruktur,Kalimantan Timur,2012
+COMP-1055,PT Artha Persada No. 1055,Kesehatan,Kalimantan Timur,2024
+COMP-1056,PT Nusantara Persada No. 1056,Energi & Pertambangan,Sumatera Utara,2020
+COMP-1057,PT Sumber Makmur No. 1057,Kesehatan,DKI Jakarta,2011
+COMP-1058,PT Citra Jaya No. 1058,Infrastruktur,Sumatera Utara,2024
+COMP-1059,PT Indo Lestari No. 1059,Konsumer Primer,DKI Jakarta,2014
+COMP-1060,PT Citra Abadi No. 1060,Infrastruktur,Jawa Barat,2023
+COMP-1061,PT Artha Tbk No. 1061,Infrastruktur,Kalimantan Timur,2010
+COMP-1062,PT Mega Karya No. 1062,Infrastruktur,Kalimantan Timur,2018
+COMP-1063,PT Bumi Makmur No. 1063,Kesehatan,Jawa Barat,2020
+COMP-1064,PT Citra Makmur No. 1064,Teknologi & Informasi,Sumatera Utara,2016
+COMP-1065,PT Artha Makmur No. 1065,Infrastruktur,Sumatera Utara,2012
+COMP-1066,PT Indo Tbk No. 1066,Keuangan,Jawa Timur,2013
+COMP-1067,PT Bumi Tbk No. 1067,Keuangan,DKI Jakarta,2022
+COMP-1068,PT Sumber Energi No. 1068,Energi & Pertambangan,Sumatera Utara,2015
+COMP-1069,PT Artha Energi No. 1069,Teknologi & Informasi,Jawa Barat,2012
+COMP-1070,PT Sumber Sentosa No. 1070,Energi & Pertambangan,Sumatera Utara,2021
+COMP-1071,PT Citra Karya No. 1071,Keuangan,Kalimantan Timur,2016
+COMP-1072,PT Bina Lestari No. 1072,Keuangan,DKI Jakarta,2022
+COMP-1073,PT Bina Sejahtera No. 1073,Konsumer Primer,Sulawesi Selatan,2015
+COMP-1074,PT Bumi Jaya No. 1074,Infrastruktur,Jawa Timur,2018
+COMP-1075,PT Mega Makmur No. 1075,Keuangan,DKI Jakarta,2021
+COMP-1076,PT Artha Tbk No. 1076,Kesehatan,Kalimantan Timur,2024
+COMP-1077,PT Artha Sentosa No. 1077,Kesehatan,Kalimantan Timur,2014
+COMP-1078,PT Bumi Lestari No. 1078,Energi & Pertambangan,Kalimantan Timur,2013
+COMP-1079,PT Bumi Abadi No. 1079,Energi & Pertambangan,Kalimantan Timur,2012
+COMP-1080,PT Citra Karya No. 1080,Infrastruktur,Jawa Barat,2019
+COMP-1081,PT Mega Karya No. 1081,Infrastruktur,Jawa Timur,2010
+COMP-1082,PT Bumi Persada No. 1082,Konsumer Primer,Sulawesi Selatan,2012
+COMP-1083,PT Bina Makmur No. 1083,Teknologi & Informasi,Kalimantan Timur,2012
+COMP-1084,PT Bumi Jaya No. 1084,Energi & Pertambangan,Kalimantan Timur,2016
+COMP-1085,PT Bina Abadi No. 1085,Infrastruktur,Sumatera Utara,2016
+COMP-1086,PT Citra Tbk No. 1086,Energi & Pertambangan,Jawa Timur,2022
+COMP-1087,PT Citra Sejahtera No. 1087,Infrastruktur,DKI Jakarta,2024
+COMP-1088,PT Bina Karya No. 1088,Keuangan,Jawa Timur,2021
+COMP-1089,PT Utama Energi No. 1089,Energi & Pertambangan,Jawa Timur,2010
+COMP-1090,PT Artha Sentosa No. 1090,Keuangan,Sulawesi Selatan,2012
+COMP-1091,PT Utama Jaya No. 1091,Energi & Pertambangan,Jawa Timur,2022
+COMP-1092,PT Nusantara Sejahtera No. 1092,Teknologi & Informasi,Sulawesi Selatan,2017
+COMP-1093,PT Utama Sentosa No. 1093,Konsumer Primer,Kalimantan Timur,2018
+COMP-1094,PT Artha Sentosa No. 1094,Kesehatan,Kalimantan Timur,2016
+COMP-1095,PT Sumber Abadi No. 1095,Kesehatan,Jawa Barat,2016
+COMP-1096,PT Bumi Sejahtera No. 1096,Kesehatan,Sulawesi Selatan,2021
+COMP-1097,PT Artha Karya No. 1097,Keuangan,Sulawesi Selatan,2024
+COMP-1098,PT Utama Lestari No. 1098,Infrastruktur,DKI Jakarta,2020
+COMP-1099,PT Utama Sejahtera No. 1099,Kesehatan,Sumatera Utara,2017
+COMP-1100,PT Sumber Sejahtera No. 1100,Teknologi & Informasi,Jawa Timur,2015
+COMP-1101,PT Utama Makmur No. 1101,Kesehatan,DKI Jakarta,2020
+COMP-1102,PT Mega Lestari No. 1102,Energi & Pertambangan,Sulawesi Selatan,2012
+COMP-1103,PT Sumber Sejahtera No. 1103,Keuangan,DKI Jakarta,2024
+COMP-1104,PT Indo Abadi No. 1104,Energi & Pertambangan,Jawa Barat,2010
+COMP-1105,PT Indo Jaya No. 1105,Energi & Pertambangan,Sumatera Utara,2016
+COMP-1106,PT Utama Sejahtera No. 1106,Energi & Pertambangan,Sulawesi Selatan,2010
+COMP-1107,PT Nusantara Sejahtera No. 1107,Konsumer Primer,Sulawesi Selatan,2010
+COMP-1108,PT Indo Makmur No. 1108,Konsumer Primer,Jawa Timur,2018
+COMP-1109,PT Mega Sejahtera No. 1109,Infrastruktur,Sumatera Utara,2022
+COMP-1110,PT Bumi Sejahtera No. 1110,Keuangan,Jawa Barat,2019
+COMP-1111,PT Artha Energi No. 1111,Teknologi & Informasi,Kalimantan Timur,2016
+COMP-1112,PT Citra Energi No. 1112,Teknologi & Informasi,DKI Jakarta,2022
+COMP-1113,PT Mega Sentosa No. 1113,Teknologi & Informasi,Jawa Timur,2020
+COMP-1114,PT Utama Sejahtera No. 1114,Energi & Pertambangan,Sulawesi Selatan,2022
+COMP-1115,PT Indo Sentosa No. 1115,Konsumer Primer,Kalimantan Timur,2013
+COMP-1116,PT Bumi Sentosa No. 1116,Keuangan,Jawa Barat,2015
+COMP-1117,PT Bumi Jaya No. 1117,Energi & Pertambangan,Sumatera Utara,2010
+COMP-1118,PT Citra Tbk No. 1118,Konsumer Primer,DKI Jakarta,2016
+COMP-1119,PT Artha Lestari No. 1119,Konsumer Primer,Jawa Timur,2021
+COMP-1120,PT Indo Sejahtera No. 1120,Kesehatan,Sulawesi Selatan,2024
+COMP-1121,PT Indo Energi No. 1121,Kesehatan,Sulawesi Selatan,2015
+COMP-1122,PT Bina Energi No. 1122,Keuangan,Kalimantan Timur,2013
+COMP-1123,PT Surya Tbk No. 1123,Keuangan,Kalimantan Timur,2016
+COMP-1124,PT Bina Energi No. 1124,Keuangan,DKI Jakarta,2012
+COMP-1125,PT Bumi Energi No. 1125,Energi & Pertambangan,Sumatera Utara,2010
+COMP-1126,PT Indo Makmur No. 1126,Infrastruktur,Jawa Barat,2013
+COMP-1127,PT Indo Jaya No. 1127,Keuangan,Sumatera Utara,2012
+COMP-1128,PT Mega Abadi No. 1128,Kesehatan,Sumatera Utara,2010
+COMP-1129,PT Bumi Jaya No. 1129,Infrastruktur,Sumatera Utara,2011
+COMP-1130,PT Sumber Jaya No. 1130,Energi & Pertambangan,DKI Jakarta,2020
+COMP-1131,PT Nusantara Energi No. 1131,Infrastruktur,DKI Jakarta,2014
+COMP-1132,PT Utama Jaya No. 1132,Teknologi & Informasi,Jawa Barat,2024
+COMP-1133,PT Citra Sejahtera No. 1133,Infrastruktur,Sumatera Utara,2017
+COMP-1134,PT Nusantara Abadi No. 1134,Keuangan,DKI Jakarta,2010
+COMP-1135,PT Mega Jaya No. 1135,Energi & Pertambangan,Jawa Barat,2013
+COMP-1136,PT Surya Tbk No. 1136,Keuangan,Sulawesi Selatan,2023
+COMP-1137,PT Utama Energi No. 1137,Kesehatan,Jawa Barat,2013
+COMP-1138,PT Citra Jaya No. 1138,Teknologi & Informasi,Sumatera Utara,2014
+COMP-1139,PT Citra Jaya No. 1139,Kesehatan,Jawa Timur,2016
+COMP-1140,PT Nusantara Sejahtera No. 1140,Keuangan,Sumatera Utara,2022
+COMP-1141,PT Artha Sejahtera No. 1141,Keuangan,Jawa Timur,2021
+COMP-1142,PT Surya Persada No. 1142,Keuangan,Jawa Barat,2017
+COMP-1143,PT Artha Sentosa No. 1143,Konsumer Primer,Sulawesi Selatan,2024
+COMP-1144,PT Citra Abadi No. 1144,Teknologi & Informasi,Sulawesi Selatan,2015
+COMP-1145,PT Citra Karya No. 1145,Keuangan,DKI Jakarta,2010
+COMP-1146,PT Indo Sejahtera No. 1146,Keuangan,Sulawesi Selatan,2016
+COMP-1147,PT Mega Lestari No. 1147,Kesehatan,Kalimantan Timur,2012
+COMP-1148,PT Surya Persada No. 1148,Kesehatan,Jawa Barat,2024
+COMP-1149,PT Sumber Energi No. 1149,Keuangan,DKI Jakarta,2022
+COMP-1150,PT Surya Jaya No. 1150,Energi & Pertambangan,Sulawesi Selatan,2022
+COMP-1151,PT Bina Tbk No. 1151,Konsumer Primer,Jawa Barat,2022
+COMP-1152,PT Bumi Makmur No. 1152,Kesehatan,Sumatera Utara,2015
+COMP-1153,PT Citra Energi No. 1153,Energi & Pertambangan,Sulawesi Selatan,2024
+COMP-1154,PT Artha Sentosa No. 1154,Konsumer Primer,Jawa Timur,2017
+COMP-1155,PT Bina Tbk No. 1155,Keuangan,Jawa Barat,2016
+COMP-1156,PT Bina Persada No. 1156,Teknologi & Informasi,DKI Jakarta,2019
+COMP-1157,PT Utama Makmur No. 1157,Infrastruktur,Sumatera Utara,2015
+COMP-1158,PT Indo Sejahtera No. 1158,Infrastruktur,Kalimantan Timur,2018
+COMP-1159,PT Artha Jaya No. 1159,Keuangan,Sumatera Utara,2018
+COMP-1160,PT Bumi Lestari No. 1160,Kesehatan,Sulawesi Selatan,2010
+COMP-1161,PT Mega Makmur No. 1161,Energi & Pertambangan,Jawa Timur,2010
+COMP-1162,PT Indo Energi No. 1162,Teknologi & Informasi,Sumatera Utara,2010
+COMP-1163,PT Surya Makmur No. 1163,Konsumer Primer,Kalimantan Timur,2017
+COMP-1164,PT Utama Tbk No. 1164,Keuangan,DKI Jakarta,2021
+COMP-1165,PT Bina Jaya No. 1165,Teknologi & Informasi,Jawa Barat,2022
+COMP-1166,PT Indo Tbk No. 1166,Teknologi & Informasi,Jawa Timur,2023
+COMP-1167,PT Bumi Lestari No. 1167,Kesehatan,Kalimantan Timur,2021
+COMP-1168,PT Artha Sentosa No. 1168,Konsumer Primer,Sulawesi Selatan,2023
+COMP-1169,PT Mega Karya No. 1169,Teknologi & Informasi,Sulawesi Selatan,2019
+COMP-1170,PT Nusantara Jaya No. 1170,Kesehatan,Sulawesi Selatan,2016
+COMP-1171,PT Mega Karya No. 1171,Energi & Pertambangan,Jawa Timur,2012
+COMP-1172,PT Indo Abadi No. 1172,Kesehatan,Sumatera Utara,2022
+COMP-1173,PT Utama Energi No. 1173,Energi & Pertambangan,Jawa Timur,2011
+COMP-1174,PT Bina Makmur No. 1174,Energi & Pertambangan,Sulawesi Selatan,2013
+COMP-1175,PT Mega Sejahtera No. 1175,Teknologi & Informasi,Kalimantan Timur,2012
+COMP-1176,PT Surya Jaya No. 1176,Kesehatan,Jawa Barat,2016
+COMP-1177,PT Utama Abadi No. 1177,Energi & Pertambangan,Jawa Barat,2019
+COMP-1178,PT Sumber Lestari No. 1178,Konsumer Primer,Jawa Timur,2024
+COMP-1179,PT Bina Lestari No. 1179,Teknologi & Informasi,Sulawesi Selatan,2024
+COMP-1180,PT Bumi Makmur No. 1180,Kesehatan,DKI Jakarta,2017
+COMP-1181,PT Mega Sentosa No. 1181,Kesehatan,Jawa Timur,2015
+COMP-1182,PT Bumi Karya No. 1182,Infrastruktur,Sulawesi Selatan,2012
+COMP-1183,PT Utama Jaya No. 1183,Kesehatan,Sumatera Utara,2015
+COMP-1184,PT Sumber Sejahtera No. 1184,Teknologi & Informasi,Jawa Barat,2024
+COMP-1185,PT Nusantara Jaya No. 1185,Konsumer Primer,Jawa Barat,2011
+COMP-1186,PT Citra Lestari No. 1186,Kesehatan,Jawa Barat,2024
+COMP-1187,PT Citra Abadi No. 1187,Infrastruktur,DKI Jakarta,2021
+COMP-1188,PT Utama Tbk No. 1188,Teknologi & Informasi,Sulawesi Selatan,2016
+COMP-1189,PT Mega Jaya No. 1189,Energi & Pertambangan,Sulawesi Selatan,2023
+COMP-1190,PT Indo Persada No. 1190,Keuangan,Sulawesi Selatan,2020
+COMP-1191,PT Surya Energi No. 1191,Keuangan,Sulawesi Selatan,2019
+COMP-1192,PT Mega Karya No. 1192,Energi & Pertambangan,DKI Jakarta,2023
+COMP-1193,PT Nusantara Sentosa No. 1193,Kesehatan,Kalimantan Timur,2016
+COMP-1194,PT Surya Karya No. 1194,Keuangan,Jawa Timur,2013
+COMP-1195,PT Indo Makmur No. 1195,Keuangan,Jawa Timur,2022
+COMP-1196,PT Bina Persada No. 1196,Energi & Pertambangan,Sulawesi Selatan,2017
+COMP-1197,PT Mega Abadi No. 1197,Kesehatan,Sumatera Utara,2013
+COMP-1198,PT Bumi Tbk No. 1198,Kesehatan,Jawa Barat,2016
+COMP-1199,PT Bina Sentosa No. 1199,Energi & Pertambangan,DKI Jakarta,2013
+COMP-1200,PT Artha Lestari No. 1200,Kesehatan,Sumatera Utara,2022
+COMP-1201,PT Indo Persada No. 1201,Kesehatan,Sumatera Utara,2021
+COMP-1202,PT Indo Lestari No. 1202,Teknologi & Informasi,Sulawesi Selatan,2014
+COMP-1203,PT Nusantara Tbk No. 1203,Teknologi & Informasi,DKI Jakarta,2016
+COMP-1204,PT Bumi Sejahtera No. 1204,Energi & Pertambangan,Jawa Timur,2022
+COMP-1205,PT Bina Sentosa No. 1205,Konsumer Primer,Jawa Barat,2023
+COMP-1206,PT Citra Abadi No. 1206,Keuangan,Jawa Timur,2023
+COMP-1207,PT Sumber Jaya No. 1207,Teknologi & Informasi,Sumatera Utara,2022
+COMP-1208,PT Citra Sejahtera No. 1208,Keuangan,Jawa Barat,2019
+COMP-1209,PT Indo Sentosa No. 1209,Infrastruktur,Kalimantan Timur,2012
+COMP-1210,PT Artha Sentosa No. 1210,Energi & Pertambangan,Sumatera Utara,2019
+COMP-1211,PT Indo Jaya No. 1211,Konsumer Primer,Jawa Timur,2014
+COMP-1212,PT Sumber Karya No. 1212,Infrastruktur,Jawa Timur,2020
+COMP-1213,PT Indo Sejahtera No. 1213,Infrastruktur,Sulawesi Selatan,2023
+COMP-1214,PT Sumber Sejahtera No. 1214,Kesehatan,Jawa Timur,2012
+COMP-1215,PT Sumber Jaya No. 1215,Infrastruktur,DKI Jakarta,2014
+COMP-1216,PT Utama Sejahtera No. 1216,Energi & Pertambangan,Sumatera Utara,2023
+COMP-1217,PT Indo Lestari No. 1217,Teknologi & Informasi,Jawa Barat,2012
+COMP-1218,PT Artha Tbk No. 1218,Energi & Pertambangan,Jawa Timur,2020
+COMP-1219,PT Artha Energi No. 1219,Teknologi & Informasi,Sulawesi Selatan,2019
+COMP-1220,PT Utama Abadi No. 1220,Infrastruktur,Sulawesi Selatan,2020
+COMP-1221,PT Artha Karya No. 1221,Infrastruktur,Jawa Timur,2016
+COMP-1222,PT Surya Sejahtera No. 1222,Konsumer Primer,DKI Jakarta,2022
+COMP-1223,PT Indo Abadi No. 1223,Teknologi & Informasi,Sulawesi Selatan,2010
+COMP-1224,PT Artha Sentosa No. 1224,Infrastruktur,Jawa Barat,2018
+COMP-1225,PT Surya Jaya No. 1225,Kesehatan,Sumatera Utara,2018
+COMP-1226,PT Bumi Makmur No. 1226,Keuangan,Kalimantan Timur,2014
+COMP-1227,PT Citra Karya No. 1227,Konsumer Primer,DKI Jakarta,2018
+COMP-1228,PT Nusantara Karya No. 1228,Energi & Pertambangan,Sulawesi Selatan,2019
+COMP-1229,PT Sumber Jaya No. 1229,Konsumer Primer,Sumatera Utara,2022
+COMP-1230,PT Indo Lestari No. 1230,Keuangan,Kalimantan Timur,2024
+COMP-1231,PT Mega Sentosa No. 1231,Teknologi & Informasi,Jawa Timur,2015
+COMP-1232,PT Citra Sentosa No. 1232,Energi & Pertambangan,Jawa Timur,2024
+COMP-1233,PT Utama Energi No. 1233,Energi & Pertambangan,Jawa Barat,2014
+COMP-1234,PT Utama Energi No. 1234,Teknologi & Informasi,Kalimantan Timur,2022
+COMP-1235,PT Bumi Sentosa No. 1235,Konsumer Primer,Jawa Timur,2012
+COMP-1236,PT Nusantara Tbk No. 1236,Infrastruktur,Jawa Timur,2020
+COMP-1237,PT Sumber Energi No. 1237,Konsumer Primer,Sulawesi Selatan,2020
+COMP-1238,PT Nusantara Lestari No. 1238,Keuangan,Jawa Barat,2017
+COMP-1239,PT Artha Sentosa No. 1239,Kesehatan,Sumatera Utara,2013
+COMP-1240,PT Sumber Abadi No. 1240,Infrastruktur,Jawa Timur,2019
+COMP-1241,PT Bina Persada No. 1241,Konsumer Primer,DKI Jakarta,2022
+COMP-1242,PT Mega Tbk No. 1242,Kesehatan,DKI Jakarta,2024
+COMP-1243,PT Artha Persada No. 1243,Kesehatan,Sumatera Utara,2022
+COMP-1244,PT Bumi Karya No. 1244,Teknologi & Informasi,Kalimantan Timur,2012
+COMP-1245,PT Nusantara Lestari No. 1245,Keuangan,Jawa Barat,2022
+COMP-1246,PT Sumber Energi No. 1246,Keuangan,Sulawesi Selatan,2015
+COMP-1247,PT Citra Sejahtera No. 1247,Keuangan,DKI Jakarta,2017
+COMP-1248,PT Citra Persada No. 1248,Infrastruktur,DKI Jakarta,2022
+COMP-1249,PT Citra Persada No. 1249,Energi & Pertambangan,Sumatera Utara,2024
+COMP-1250,PT Citra Sejahtera No. 1250,Infrastruktur,Kalimantan Timur,2018
+COMP-1251,PT Mega Sentosa No. 1251,Konsumer Primer,Kalimantan Timur,2023
+COMP-1252,PT Nusantara Sejahtera No. 1252,Kesehatan,Sumatera Utara,2015
+COMP-1253,PT Indo Sejahtera No. 1253,Kesehatan,DKI Jakarta,2014
+COMP-1254,PT Artha Lestari No. 1254,Energi & Pertambangan,Jawa Barat,2021
+COMP-1255,PT Indo Sentosa No. 1255,Konsumer Primer,DKI Jakarta,2020
+COMP-1256,PT Utama Abadi No. 1256,Energi & Pertambangan,Kalimantan Timur,2011
+COMP-1257,PT Bumi Karya No. 1257,Kesehatan,Sulawesi Selatan,2011
+COMP-1258,PT Nusantara Jaya No. 1258,Infrastruktur,DKI Jakarta,2018
+COMP-1259,PT Bina Sentosa No. 1259,Keuangan,Jawa Barat,2011
+COMP-1260,PT Sumber Tbk No. 1260,Kesehatan,Jawa Timur,2011
+COMP-1261,PT Sumber Tbk No. 1261,Teknologi & Informasi,DKI Jakarta,2012
+COMP-1262,PT Artha Jaya No. 1262,Keuangan,Sumatera Utara,2012
+COMP-1263,PT Bina Sentosa No. 1263,Kesehatan,Jawa Timur,2013
+COMP-1264,PT Mega Jaya No. 1264,Infrastruktur,Sumatera Utara,2016
+COMP-1265,PT Indo Lestari No. 1265,Energi & Pertambangan,Sumatera Utara,2018
+COMP-1266,PT Utama Karya No. 1266,Keuangan,Sumatera Utara,2011
+COMP-1267,PT Utama Jaya No. 1267,Infrastruktur,DKI Jakarta,2013
+COMP-1268,PT Indo Lestari No. 1268,Konsumer Primer,Kalimantan Timur,2018
+COMP-1269,PT Indo Tbk No. 1269,Teknologi & Informasi,Jawa Timur,2023
+COMP-1270,PT Sumber Tbk No. 1270,Keuangan,Jawa Barat,2011
+COMP-1271,PT Artha Jaya No. 1271,Energi & Pertambangan,Kalimantan Timur,2019
+COMP-1272,PT Artha Makmur No. 1272,Konsumer Primer,DKI Jakarta,2020
+COMP-1273,PT Indo Tbk No. 1273,Infrastruktur,Sumatera Utara,2022
+COMP-1274,PT Mega Sentosa No. 1274,Teknologi & Informasi,Jawa Barat,2010
+COMP-1275,PT Bumi Energi No. 1275,Energi & Pertambangan,Jawa Timur,2019
+COMP-1276,PT Utama Lestari No. 1276,Infrastruktur,Kalimantan Timur,2017
+COMP-1277,PT Bumi Jaya No. 1277,Infrastruktur,Sulawesi Selatan,2018
+COMP-1278,PT Artha Jaya No. 1278,Keuangan,Kalimantan Timur,2016
+COMP-1279,PT Utama Sejahtera No. 1279,Keuangan,Jawa Barat,2017
+COMP-1280,PT Indo Persada No. 1280,Energi & Pertambangan,DKI Jakarta,2013
+COMP-1281,PT Surya Tbk No. 1281,Kesehatan,Jawa Timur,2013
+COMP-1282,PT Mega Persada No. 1282,Kesehatan,Jawa Barat,2022
+COMP-1283,PT Mega Makmur No. 1283,Infrastruktur,Sumatera Utara,2011
+COMP-1284,PT Mega Karya No. 1284,Keuangan,Jawa Timur,2017
+COMP-1285,PT Utama Persada No. 1285,Teknologi & Informasi,Kalimantan Timur,2024
+COMP-1286,PT Mega Jaya No. 1286,Teknologi & Informasi,Jawa Barat,2020
+COMP-1287,PT Nusantara Karya No. 1287,Infrastruktur,Kalimantan Timur,2011
+COMP-1288,PT Citra Tbk No. 1288,Keuangan,Kalimantan Timur,2018
+COMP-1289,PT Mega Tbk No. 1289,Energi & Pertambangan,Kalimantan Timur,2023
+COMP-1290,PT Bina Energi No. 1290,Energi & Pertambangan,DKI Jakarta,2013
+COMP-1291,PT Bumi Sejahtera No. 1291,Energi & Pertambangan,Kalimantan Timur,2010
+COMP-1292,PT Artha Persada No. 1292,Teknologi & Informasi,Sumatera Utara,2022
+COMP-1293,PT Bina Abadi No. 1293,Keuangan,Sumatera Utara,2013
+COMP-1294,PT Sumber Abadi No. 1294,Keuangan,Jawa Timur,2012
+COMP-1295,PT Nusantara Energi No. 1295,Teknologi & Informasi,Sulawesi Selatan,2021
+COMP-1296,PT Surya Makmur No. 1296,Energi & Pertambangan,Kalimantan Timur,2015
+COMP-1297,PT Indo Tbk No. 1297,Energi & Pertambangan,Kalimantan Timur,2016
+COMP-1298,PT Utama Lestari No. 1298,Infrastruktur,Jawa Barat,2017
+COMP-1299,PT Nusantara Energi No. 1299,Kesehatan,DKI Jakarta,2011
+COMP-1300,PT Bumi Lestari No. 1300,Konsumer Primer,Sulawesi Selatan,2015
+COMP-1301,PT Sumber Makmur No. 1301,Kesehatan,Jawa Timur,2024
+COMP-1302,PT Nusantara Persada No. 1302,Keuangan,Sulawesi Selatan,2015
+COMP-1303,PT Mega Sejahtera No. 1303,Keuangan,Kalimantan Timur,2019
+COMP-1304,PT Bumi Lestari No. 1304,Keuangan,Jawa Barat,2021
+COMP-1305,PT Bina Makmur No. 1305,Kesehatan,DKI Jakarta,2014
+COMP-1306,PT Indo Makmur No. 1306,Konsumer Primer,Jawa Timur,2019
+COMP-1307,PT Citra Abadi No. 1307,Infrastruktur,Sulawesi Selatan,2019
+COMP-1308,PT Sumber Jaya No. 1308,Kesehatan,Jawa Timur,2016
+COMP-1309,PT Surya Lestari No. 1309,Konsumer Primer,Kalimantan Timur,2012
+COMP-1310,PT Indo Karya No. 1310,Energi & Pertambangan,Jawa Timur,2013
+COMP-1311,PT Citra Energi No. 1311,Energi & Pertambangan,Jawa Barat,2019
+COMP-1312,PT Utama Sejahtera No. 1312,Keuangan,Jawa Timur,2022
+COMP-1313,PT Artha Persada No. 1313,Teknologi & Informasi,Sumatera Utara,2018
+COMP-1314,PT Artha Sentosa No. 1314,Keuangan,Jawa Barat,2013
+COMP-1315,PT Sumber Jaya No. 1315,Teknologi & Informasi,Sulawesi Selatan,2012
+COMP-1316,PT Surya Sejahtera No. 1316,Konsumer Primer,DKI Jakarta,2023
+COMP-1317,PT Sumber Sentosa No. 1317,Energi & Pertambangan,DKI Jakarta,2011
+COMP-1318,PT Bina Jaya No. 1318,Kesehatan,Kalimantan Timur,2014
+COMP-1319,PT Indo Persada No. 1319,Teknologi & Informasi,Kalimantan Timur,2013
+COMP-1320,PT Nusantara Makmur No. 1320,Konsumer Primer,Sumatera Utara,2022
+COMP-1321,PT Bina Jaya No. 1321,Energi & Pertambangan,Sulawesi Selatan,2022
+COMP-1322,PT Citra Jaya No. 1322,Kesehatan,DKI Jakarta,2017
+COMP-1323,PT Nusantara Persada No. 1323,Teknologi & Informasi,DKI Jakarta,2016
+COMP-1324,PT Artha Karya No. 1324,Keuangan,DKI Jakarta,2015
+COMP-1325,PT Sumber Abadi No. 1325,Keuangan,DKI Jakarta,2020
+COMP-1326,PT Artha Abadi No. 1326,Keuangan,Jawa Timur,2021
+COMP-1327,PT Bina Makmur No. 1327,Konsumer Primer,Sulawesi Selatan,2011
+COMP-1328,PT Citra Sejahtera No. 1328,Keuangan,Jawa Barat,2012
+COMP-1329,PT Citra Jaya No. 1329,Infrastruktur,Jawa Barat,2019
+COMP-1330,PT Indo Jaya No. 1330,Energi & Pertambangan,Sumatera Utara,2018
+COMP-1331,PT Surya Tbk No. 1331,Konsumer Primer,Jawa Timur,2022
+COMP-1332,PT Artha Sejahtera No. 1332,Kesehatan,DKI Jakarta,2018
+COMP-1333,PT Mega Jaya No. 1333,Keuangan,DKI Jakarta,2024
+COMP-1334,PT Utama Tbk No. 1334,Energi & Pertambangan,Kalimantan Timur,2014
+COMP-1335,PT Surya Makmur No. 1335,Teknologi & Informasi,Kalimantan Timur,2023
+COMP-1336,PT Indo Sentosa No. 1336,Keuangan,Sumatera Utara,2012
+COMP-1337,PT Sumber Makmur No. 1337,Energi & Pertambangan,DKI Jakarta,2011
+COMP-1338,PT Utama Karya No. 1338,Infrastruktur,Sumatera Utara,2017
+COMP-1339,PT Citra Makmur No. 1339,Teknologi & Informasi,Jawa Timur,2024
+COMP-1340,PT Surya Lestari No. 1340,Infrastruktur,Jawa Barat,2015
+COMP-1341,PT Nusantara Energi No. 1341,Kesehatan,DKI Jakarta,2019
+COMP-1342,PT Utama Jaya No. 1342,Energi & Pertambangan,Sulawesi Selatan,2020
+COMP-1343,PT Mega Sejahtera No. 1343,Infrastruktur,Jawa Timur,2021
+COMP-1344,PT Artha Lestari No. 1344,Kesehatan,DKI Jakarta,2016
+COMP-1345,PT Sumber Karya No. 1345,Energi & Pertambangan,Sulawesi Selatan,2010
+COMP-1346,PT Bina Abadi No. 1346,Energi & Pertambangan,Kalimantan Timur,2010
+COMP-1347,PT Nusantara Abadi No. 1347,Infrastruktur,Sumatera Utara,2019
+COMP-1348,PT Mega Sejahtera No. 1348,Energi & Pertambangan,Kalimantan Timur,2011
+COMP-1349,PT Bumi Sentosa No. 1349,Keuangan,Jawa Barat,2019
+COMP-1350,PT Sumber Persada No. 1350,Energi & Pertambangan,Kalimantan Timur,2024
+COMP-1351,PT Utama Sejahtera No. 1351,Konsumer Primer,DKI Jakarta,2012
+COMP-1352,PT Bina Karya No. 1352,Kesehatan,Sulawesi Selatan,2021
+COMP-1353,PT Nusantara Sentosa No. 1353,Energi & Pertambangan,Kalimantan Timur,2010
+COMP-1354,PT Bina Sentosa No. 1354,Konsumer Primer,DKI Jakarta,2023
+COMP-1355,PT Bumi Persada No. 1355,Energi & Pertambangan,Jawa Barat,2014
+COMP-1356,PT Mega Karya No. 1356,Energi & Pertambangan,Sulawesi Selatan,2024
+COMP-1357,PT Bina Sentosa No. 1357,Infrastruktur,Kalimantan Timur,2024
+COMP-1358,PT Sumber Makmur No. 1358,Keuangan,Sumatera Utara,2012
+COMP-1359,PT Sumber Karya No. 1359,Kesehatan,Sumatera Utara,2010
+COMP-1360,PT Bina Makmur No. 1360,Keuangan,Sulawesi Selatan,2017
+COMP-1361,PT Bina Sejahtera No. 1361,Teknologi & Informasi,Sumatera Utara,2021
+COMP-1362,PT Surya Makmur No. 1362,Infrastruktur,Kalimantan Timur,2020
+COMP-1363,PT Sumber Karya No. 1363,Infrastruktur,Kalimantan Timur,2015
+COMP-1364,PT Indo Sejahtera No. 1364,Keuangan,Sulawesi Selatan,2018
+COMP-1365,PT Surya Persada No. 1365,Infrastruktur,Kalimantan Timur,2012
+COMP-1366,PT Nusantara Sejahtera No. 1366,Keuangan,DKI Jakarta,2018
+COMP-1367,PT Citra Sentosa No. 1367,Infrastruktur,Jawa Barat,2018
+COMP-1368,PT Bumi Tbk No. 1368,Energi & Pertambangan,Sumatera Utara,2024
+COMP-1369,PT Citra Makmur No. 1369,Keuangan,DKI Jakarta,2021
+COMP-1370,PT Indo Tbk No. 1370,Keuangan,Sulawesi Selatan,2024
+COMP-1371,PT Utama Lestari No. 1371,Konsumer Primer,Sumatera Utara,2022
+COMP-1372,PT Nusantara Sejahtera No. 1372,Infrastruktur,DKI Jakarta,2021
+COMP-1373,PT Citra Energi No. 1373,Infrastruktur,Kalimantan Timur,2010
+COMP-1374,PT Artha Makmur No. 1374,Keuangan,Sulawesi Selatan,2012
+COMP-1375,PT Bumi Karya No. 1375,Energi & Pertambangan,Sulawesi Selatan,2015
+COMP-1376,PT Surya Jaya No. 1376,Energi & Pertambangan,Sumatera Utara,2017
+COMP-1377,PT Utama Lestari No. 1377,Kesehatan,Kalimantan Timur,2013
+COMP-1378,PT Bina Sentosa No. 1378,Energi & Pertambangan,Sumatera Utara,2014
+COMP-1379,PT Nusantara Jaya No. 1379,Infrastruktur,Jawa Timur,2018
+COMP-1380,PT Utama Abadi No. 1380,Konsumer Primer,DKI Jakarta,2015
+COMP-1381,PT Citra Sentosa No. 1381,Keuangan,Jawa Timur,2021
+COMP-1382,PT Indo Tbk No. 1382,Teknologi & Informasi,DKI Jakarta,2016
+COMP-1383,PT Sumber Sejahtera No. 1383,Konsumer Primer,Jawa Barat,2016
+COMP-1384,PT Citra Tbk No. 1384,Teknologi & Informasi,Sulawesi Selatan,2013
+COMP-1385,PT Mega Sejahtera No. 1385,Konsumer Primer,Sumatera Utara,2013
+COMP-1386,PT Artha Sentosa No. 1386,Energi & Pertambangan,Jawa Barat,2013
+COMP-1387,PT Nusantara Abadi No. 1387,Infrastruktur,Jawa Barat,2023
+COMP-1388,PT Bina Karya No. 1388,Teknologi & Informasi,Sulawesi Selatan,2024
+COMP-1389,PT Bumi Karya No. 1389,Konsumer Primer,Sulawesi Selatan,2020
+COMP-1390,PT Nusantara Lestari No. 1390,Infrastruktur,DKI Jakarta,2014
+COMP-1391,PT Utama Makmur No. 1391,Teknologi & Informasi,Jawa Timur,2014
+COMP-1392,PT Surya Lestari No. 1392,Keuangan,Kalimantan Timur,2017
+COMP-1393,PT Artha Sejahtera No. 1393,Konsumer Primer,DKI Jakarta,2018
+COMP-1394,PT Surya Karya No. 1394,Keuangan,Kalimantan Timur,2011
+COMP-1395,PT Citra Sentosa No. 1395,Energi & Pertambangan,Jawa Barat,2020
+COMP-1396,PT Nusantara Tbk No. 1396,Keuangan,Kalimantan Timur,2016
+COMP-1397,PT Surya Jaya No. 1397,Keuangan,Jawa Timur,2010
+COMP-1398,PT Indo Lestari No. 1398,Kesehatan,DKI Jakarta,2010
+COMP-1399,PT Utama Lestari No. 1399,Konsumer Primer,Sulawesi Selatan,2013
+COMP-1400,PT Bina Karya No. 1400,Energi & Pertambangan,Jawa Timur,2019
+COMP-1401,PT Citra Karya No. 1401,Keuangan,Jawa Timur,2016
+COMP-1402,PT Indo Karya No. 1402,Infrastruktur,DKI Jakarta,2011
+COMP-1403,PT Bina Sentosa No. 1403,Teknologi & Informasi,Sulawesi Selatan,2020
+COMP-1404,PT Utama Tbk No. 1404,Keuangan,Jawa Timur,2011
+COMP-1405,PT Utama Tbk No. 1405,Energi & Pertambangan,Sulawesi Selatan,2010
+COMP-1406,PT Citra Sentosa No. 1406,Keuangan,Sumatera Utara,2019
+COMP-1407,PT Surya Lestari No. 1407,Teknologi & Informasi,Sumatera Utara,2011
+COMP-1408,PT Mega Sentosa No. 1408,Energi & Pertambangan,Sumatera Utara,2022
+COMP-1409,PT Surya Energi No. 1409,Konsumer Primer,Kalimantan Timur,2024
+COMP-1410,PT Bina Energi No. 1410,Energi & Pertambangan,Jawa Timur,2016
+COMP-1411,PT Surya Sentosa No. 1411,Konsumer Primer,DKI Jakarta,2018
+COMP-1412,PT Bina Sejahtera No. 1412,Energi & Pertambangan,DKI Jakarta,2015
+COMP-1413,PT Citra Tbk No. 1413,Teknologi & Informasi,Kalimantan Timur,2019
+COMP-1414,PT Bina Sentosa No. 1414,Teknologi & Informasi,DKI Jakarta,2011
+COMP-1415,PT Artha Jaya No. 1415,Energi & Pertambangan,Sumatera Utara,2021
+COMP-1416,PT Bumi Tbk No. 1416,Keuangan,Jawa Timur,2024
+COMP-1417,PT Sumber Tbk No. 1417,Teknologi & Informasi,DKI Jakarta,2019
+COMP-1418,PT Surya Abadi No. 1418,Konsumer Primer,DKI Jakarta,2024
+COMP-1419,PT Nusantara Karya No. 1419,Konsumer Primer,Jawa Barat,2019
+COMP-1420,PT Bumi Sejahtera No. 1420,Infrastruktur,Jawa Barat,2022
+COMP-1421,PT Mega Sejahtera No. 1421,Kesehatan,Jawa Barat,2018
+COMP-1422,PT Artha Sejahtera No. 1422,Kesehatan,Jawa Timur,2016
+COMP-1423,PT Citra Energi No. 1423,Kesehatan,Sumatera Utara,2020
+COMP-1424,PT Mega Tbk No. 1424,Konsumer Primer,Sulawesi Selatan,2010
+COMP-1425,PT Bina Sentosa No. 1425,Infrastruktur,Sumatera Utara,2021
+COMP-1426,PT Citra Energi No. 1426,Kesehatan,Sumatera Utara,2018
+COMP-1427,PT Bumi Jaya No. 1427,Kesehatan,Jawa Timur,2011
+COMP-1428,PT Nusantara Jaya No. 1428,Energi & Pertambangan,Jawa Timur,2013
+COMP-1429,PT Utama Jaya No. 1429,Energi & Pertambangan,Jawa Barat,2018
+COMP-1430,PT Sumber Tbk No. 1430,Energi & Pertambangan,DKI Jakarta,2013
+COMP-1431,PT Citra Persada No. 1431,Keuangan,Kalimantan Timur,2012
+COMP-1432,PT Artha Lestari No. 1432,Kesehatan,Kalimantan Timur,2010
+COMP-1433,PT Surya Sejahtera No. 1433,Keuangan,Sulawesi Selatan,2016
+COMP-1434,PT Citra Lestari No. 1434,Infrastruktur,DKI Jakarta,2024
+COMP-1435,PT Artha Tbk No. 1435,Konsumer Primer,Sulawesi Selatan,2015
+COMP-1436,PT Citra Sentosa No. 1436,Kesehatan,Jawa Barat,2019
+COMP-1437,PT Utama Abadi No. 1437,Konsumer Primer,Sulawesi Selatan,2013
+COMP-1438,PT Artha Lestari No. 1438,Energi & Pertambangan,DKI Jakarta,2015
+COMP-1439,PT Citra Lestari No. 1439,Kesehatan,DKI Jakarta,2015
+COMP-1440,PT Bumi Jaya No. 1440,Teknologi & Informasi,Kalimantan Timur,2022
+COMP-1441,PT Bumi Abadi No. 1441,Keuangan,Jawa Barat,2013
+COMP-1442,PT Bina Energi No. 1442,Keuangan,Jawa Timur,2023
+COMP-1443,PT Surya Abadi No. 1443,Kesehatan,Sulawesi Selatan,2022
+COMP-1444,PT Sumber Lestari No. 1444,Energi & Pertambangan,Kalimantan Timur,2015
+COMP-1445,PT Sumber Tbk No. 1445,Keuangan,Sulawesi Selatan,2019
+COMP-1446,PT Bumi Energi No. 1446,Energi & Pertambangan,Sulawesi Selatan,2020
+COMP-1447,PT Sumber Persada No. 1447,Infrastruktur,Jawa Timur,2017
+COMP-1448,PT Surya Karya No. 1448,Konsumer Primer,Jawa Barat,2022
+COMP-1449,PT Indo Energi No. 1449,Teknologi & Informasi,DKI Jakarta,2012
+COMP-1450,PT Bina Energi No. 1450,Konsumer Primer,Sumatera Utara,2013
+COMP-1451,PT Citra Jaya No. 1451,Konsumer Primer,Sulawesi Selatan,2019
+COMP-1452,PT Citra Sentosa No. 1452,Infrastruktur,Sumatera Utara,2022
+COMP-1453,PT Surya Energi No. 1453,Keuangan,Jawa Barat,2021
+COMP-1454,PT Sumber Energi No. 1454,Teknologi & Informasi,Sumatera Utara,2023
+COMP-1455,PT Nusantara Jaya No. 1455,Keuangan,Sulawesi Selatan,2024
+COMP-1456,PT Artha Energi No. 1456,Kesehatan,Jawa Timur,2010
+COMP-1457,PT Indo Abadi No. 1457,Konsumer Primer,Sumatera Utara,2013
+COMP-1458,PT Mega Sejahtera No. 1458,Kesehatan,Jawa Barat,2020
+COMP-1459,PT Nusantara Persada No. 1459,Energi & Pertambangan,Jawa Barat,2019
+COMP-1460,PT Sumber Tbk No. 1460,Konsumer Primer,Jawa Timur,2019
+COMP-1461,PT Bina Jaya No. 1461,Keuangan,Sumatera Utara,2021
+COMP-1462,PT Mega Energi No. 1462,Konsumer Primer,Sumatera Utara,2023
+COMP-1463,PT Bina Energi No. 1463,Energi & Pertambangan,DKI Jakarta,2018
+COMP-1464,PT Surya Sejahtera No. 1464,Infrastruktur,Kalimantan Timur,2017
+COMP-1465,PT Citra Abadi No. 1465,Kesehatan,Jawa Barat,2020
+COMP-1466,PT Utama Tbk No. 1466,Kesehatan,DKI Jakarta,2013
+COMP-1467,PT Utama Karya No. 1467,Keuangan,Jawa Barat,2021
+COMP-1468,PT Nusantara Jaya No. 1468,Konsumer Primer,DKI Jakarta,2016
+COMP-1469,PT Citra Jaya No. 1469,Keuangan,Kalimantan Timur,2019
+COMP-1470,PT Surya Sejahtera No. 1470,Infrastruktur,DKI Jakarta,2012
+COMP-1471,PT Nusantara Persada No. 1471,Konsumer Primer,Jawa Barat,2018
+COMP-1472,PT Utama Persada No. 1472,Konsumer Primer,Sumatera Utara,2019
+COMP-1473,PT Mega Jaya No. 1473,Keuangan,Jawa Barat,2013
+COMP-1474,PT Bina Abadi No. 1474,Keuangan,Sulawesi Selatan,2011
+COMP-1475,PT Utama Energi No. 1475,Energi & Pertambangan,Jawa Timur,2019
+COMP-1476,PT Artha Makmur No. 1476,Infrastruktur,Jawa Timur,2014
+COMP-1477,PT Bumi Makmur No. 1477,Energi & Pertambangan,Sulawesi Selatan,2011
+COMP-1478,PT Artha Energi No. 1478,Kesehatan,Jawa Timur,2023
+COMP-1479,PT Artha Makmur No. 1479,Konsumer Primer,Jawa Timur,2019
+COMP-1480,PT Mega Karya No. 1480,Keuangan,Kalimantan Timur,2015
+COMP-1481,PT Surya Sentosa No. 1481,Konsumer Primer,Sumatera Utara,2020
+COMP-1482,PT Nusantara Energi No. 1482,Konsumer Primer,Sumatera Utara,2019
+COMP-1483,PT Indo Karya No. 1483,Teknologi & Informasi,Jawa Barat,2010
+COMP-1484,PT Bina Abadi No. 1484,Kesehatan,Sulawesi Selatan,2023
+COMP-1485,PT Bumi Tbk No. 1485,Teknologi & Informasi,DKI Jakarta,2015
+COMP-1486,PT Indo Makmur No. 1486,Konsumer Primer,Jawa Barat,2013
+COMP-1487,PT Citra Persada No. 1487,Keuangan,Jawa Barat,2012
+COMP-1488,PT Bumi Karya No. 1488,Konsumer Primer,Jawa Barat,2011
+COMP-1489,PT Sumber Tbk No. 1489,Kesehatan,Jawa Barat,2016
+COMP-1490,PT Bina Abadi No. 1490,Teknologi & Informasi,Sumatera Utara,2018
+COMP-1491,PT Citra Sentosa No. 1491,Keuangan,DKI Jakarta,2021
+COMP-1492,PT Sumber Sejahtera No. 1492,Konsumer Primer,Jawa Barat,2012
+COMP-1493,PT Bumi Lestari No. 1493,Infrastruktur,Sumatera Utara,2015
+COMP-1494,PT Citra Jaya No. 1494,Kesehatan,Jawa Barat,2018
+COMP-1495,PT Bumi Energi No. 1495,Kesehatan,Jawa Timur,2011
+COMP-1496,PT Bina Karya No. 1496,Infrastruktur,Jawa Barat,2016
+COMP-1497,PT Nusantara Abadi No. 1497,Konsumer Primer,Sulawesi Selatan,2014
+COMP-1498,PT Indo Sejahtera No. 1498,Kesehatan,Sulawesi Selatan,2014
+COMP-1499,PT Mega Energi No. 1499,Keuangan,Jawa Barat,2020
+COMP-1500,PT Bina Abadi No. 1500,Konsumer Primer,Kalimantan Timur,2016
+COMP-1501,PT Surya Tbk No. 1501,Konsumer Primer,Jawa Timur,2018
+COMP-1502,PT Sumber Sejahtera No. 1502,Teknologi & Informasi,DKI Jakarta,2013
+COMP-1503,PT Sumber Makmur No. 1503,Kesehatan,Jawa Barat,2018
+COMP-1504,PT Artha Karya No. 1504,Kesehatan,DKI Jakarta,2024
+COMP-1505,PT Utama Tbk No. 1505,Infrastruktur,Jawa Timur,2023
+COMP-1506,PT Mega Lestari No. 1506,Teknologi & Informasi,Jawa Barat,2022
+COMP-1507,PT Indo Makmur No. 1507,Teknologi & Informasi,Kalimantan Timur,2020
+COMP-1508,PT Citra Karya No. 1508,Kesehatan,Sumatera Utara,2019
+COMP-1509,PT Bina Abadi No. 1509,Konsumer Primer,Kalimantan Timur,2018
+COMP-1510,PT Surya Persada No. 1510,Teknologi & Informasi,Kalimantan Timur,2022
+COMP-1511,PT Bina Lestari No. 1511,Infrastruktur,Sumatera Utara,2013
+COMP-1512,PT Artha Energi No. 1512,Teknologi & Informasi,Sumatera Utara,2012
+COMP-1513,PT Surya Abadi No. 1513,Infrastruktur,Sulawesi Selatan,2011
+COMP-1514,PT Bumi Jaya No. 1514,Teknologi & Informasi,Sumatera Utara,2018
+COMP-1515,PT Mega Abadi No. 1515,Infrastruktur,Jawa Barat,2021
+COMP-1516,PT Artha Sejahtera No. 1516,Teknologi & Informasi,DKI Jakarta,2011
+COMP-1517,PT Surya Energi No. 1517,Teknologi & Informasi,Sulawesi Selatan,2015
+COMP-1518,PT Nusantara Sentosa No. 1518,Keuangan,Sulawesi Selatan,2014
+COMP-1519,PT Citra Persada No. 1519,Infrastruktur,DKI Jakarta,2023
+COMP-1520,PT Bumi Karya No. 1520,Infrastruktur,Sulawesi Selatan,2014
+COMP-1521,PT Nusantara Energi No. 1521,Infrastruktur,Sumatera Utara,2013
+COMP-1522,PT Sumber Sejahtera No. 1522,Energi & Pertambangan,Kalimantan Timur,2015
+COMP-1523,PT Surya Makmur No. 1523,Teknologi & Informasi,Jawa Timur,2014
+COMP-1524,PT Artha Jaya No. 1524,Infrastruktur,Sumatera Utara,2020
+COMP-1525,PT Sumber Energi No. 1525,Kesehatan,Kalimantan Timur,2013
+COMP-1526,PT Artha Energi No. 1526,Energi & Pertambangan,Kalimantan Timur,2022
+COMP-1527,PT Bumi Sejahtera No. 1527,Keuangan,Sulawesi Selatan,2018
+COMP-1528,PT Surya Jaya No. 1528,Infrastruktur,Jawa Barat,2022
+COMP-1529,PT Citra Sentosa No. 1529,Infrastruktur,Jawa Barat,2015
+COMP-1530,PT Indo Lestari No. 1530,Energi & Pertambangan,Sulawesi Selatan,2020
+COMP-1531,PT Indo Karya No. 1531,Teknologi & Informasi,Sulawesi Selatan,2019
+COMP-1532,PT Bumi Lestari No. 1532,Kesehatan,DKI Jakarta,2019
+COMP-1533,PT Mega Persada No. 1533,Keuangan,DKI Jakarta,2022
+COMP-1534,PT Mega Persada No. 1534,Infrastruktur,Jawa Timur,2019
+COMP-1535,PT Mega Persada No. 1535,Teknologi & Informasi,Jawa Timur,2022
+COMP-1536,PT Mega Karya No. 1536,Kesehatan,Jawa Timur,2012
+COMP-1537,PT Utama Lestari No. 1537,Kesehatan,Jawa Timur,2019
+COMP-1538,PT Artha Makmur No. 1538,Keuangan,Kalimantan Timur,2015
+COMP-1539,PT Bina Energi No. 1539,Konsumer Primer,Kalimantan Timur,2023
+COMP-1540,PT Artha Energi No. 1540,Kesehatan,DKI Jakarta,2010
+COMP-1541,PT Sumber Sentosa No. 1541,Konsumer Primer,Jawa Barat,2014
+COMP-1542,PT Mega Sejahtera No. 1542,Kesehatan,Sulawesi Selatan,2019
+COMP-1543,PT Bina Energi No. 1543,Keuangan,Jawa Barat,2015
+COMP-1544,PT Bumi Lestari No. 1544,Energi & Pertambangan,Sumatera Utara,2024
+COMP-1545,PT Mega Abadi No. 1545,Keuangan,Kalimantan Timur,2020
+COMP-1546,PT Citra Karya No. 1546,Keuangan,Jawa Timur,2017
+COMP-1547,PT Indo Makmur No. 1547,Energi & Pertambangan,Jawa Timur,2020
+COMP-1548,PT Citra Persada No. 1548,Energi & Pertambangan,Sumatera Utara,2024
+COMP-1549,PT Nusantara Sejahtera No. 1549,Teknologi & Informasi,Jawa Barat,2024
+COMP-1550,PT Mega Abadi No. 1550,Kesehatan,Jawa Timur,2018
+COMP-1551,PT Artha Karya No. 1551,Teknologi & Informasi,Jawa Barat,2020
+COMP-1552,PT Nusantara Jaya No. 1552,Energi & Pertambangan,Sulawesi Selatan,2012
+COMP-1553,PT Citra Makmur No. 1553,Konsumer Primer,Sumatera Utara,2011
+COMP-1554,PT Artha Karya No. 1554,Konsumer Primer,Jawa Barat,2022
+COMP-1555,PT Nusantara Karya No. 1555,Keuangan,Sulawesi Selatan,2013
+COMP-1556,PT Bumi Jaya No. 1556,Infrastruktur,Jawa Barat,2017
+COMP-1557,PT Sumber Tbk No. 1557,Keuangan,Jawa Barat,2020
+COMP-1558,PT Surya Persada No. 1558,Keuangan,Jawa Timur,2017
+COMP-1559,PT Citra Sejahtera No. 1559,Infrastruktur,DKI Jakarta,2012
+COMP-1560,PT Utama Sejahtera No. 1560,Kesehatan,Kalimantan Timur,2013
+COMP-1561,PT Surya Sejahtera No. 1561,Energi & Pertambangan,Jawa Barat,2012
+COMP-1562,PT Nusantara Sejahtera No. 1562,Konsumer Primer,Jawa Barat,2019
+COMP-1563,PT Artha Lestari No. 1563,Keuangan,Jawa Barat,2011
+COMP-1564,PT Citra Sejahtera No. 1564,Infrastruktur,DKI Jakarta,2013
+COMP-1565,PT Bumi Lestari No. 1565,Teknologi & Informasi,Sulawesi Selatan,2015
+COMP-1566,PT Sumber Sejahtera No. 1566,Keuangan,Sumatera Utara,2020
+COMP-1567,PT Sumber Abadi No. 1567,Konsumer Primer,Jawa Timur,2023
+COMP-1568,PT Mega Energi No. 1568,Energi & Pertambangan,DKI Jakarta,2020
+COMP-1569,PT Surya Sentosa No. 1569,Keuangan,Sulawesi Selatan,2014
+COMP-1570,PT Bina Persada No. 1570,Keuangan,Jawa Barat,2012
+COMP-1571,PT Sumber Energi No. 1571,Kesehatan,Sulawesi Selatan,2011
+COMP-1572,PT Citra Karya No. 1572,Infrastruktur,DKI Jakarta,2018
+COMP-1573,PT Indo Sentosa No. 1573,Teknologi & Informasi,DKI Jakarta,2024
+COMP-1574,PT Sumber Abadi No. 1574,Teknologi & Informasi,DKI Jakarta,2010
+COMP-1575,PT Indo Sentosa No. 1575,Energi & Pertambangan,Sumatera Utara,2018
+COMP-1576,PT Sumber Energi No. 1576,Konsumer Primer,Kalimantan Timur,2010
+COMP-1577,PT Surya Abadi No. 1577,Energi & Pertambangan,Jawa Timur,2024
+COMP-1578,PT Bina Karya No. 1578,Keuangan,Sumatera Utara,2023
+COMP-1579,PT Bumi Energi No. 1579,Keuangan,Sumatera Utara,2016
+COMP-1580,PT Citra Sejahtera No. 1580,Teknologi & Informasi,Kalimantan Timur,2015
+COMP-1581,PT Bumi Karya No. 1581,Konsumer Primer,Sumatera Utara,2016
+COMP-1582,PT Artha Abadi No. 1582,Infrastruktur,DKI Jakarta,2024
+COMP-1583,PT Citra Tbk No. 1583,Konsumer Primer,DKI Jakarta,2012
+COMP-1584,PT Surya Sentosa No. 1584,Keuangan,Sulawesi Selatan,2023
+COMP-1585,PT Nusantara Energi No. 1585,Infrastruktur,Jawa Barat,2012
+COMP-1586,PT Nusantara Energi No. 1586,Konsumer Primer,Sumatera Utara,2022
+COMP-1587,PT Surya Karya No. 1587,Konsumer Primer,Jawa Barat,2020
+COMP-1588,PT Sumber Karya No. 1588,Infrastruktur,Jawa Timur,2010
+COMP-1589,PT Mega Abadi No. 1589,Keuangan,DKI Jakarta,2013
+COMP-1590,PT Bumi Lestari No. 1590,Konsumer Primer,Sulawesi Selatan,2021
+COMP-1591,PT Sumber Karya No. 1591,Infrastruktur,Jawa Timur,2011
+COMP-1592,PT Sumber Persada No. 1592,Kesehatan,Sulawesi Selatan,2019
+COMP-1593,PT Indo Sejahtera No. 1593,Kesehatan,Kalimantan Timur,2017
+COMP-1594,PT Bumi Tbk No. 1594,Keuangan,DKI Jakarta,2012
+COMP-1595,PT Surya Karya No. 1595,Infrastruktur,Jawa Timur,2016
+COMP-1596,PT Surya Tbk No. 1596,Kesehatan,Kalimantan Timur,2016
+COMP-1597,PT Citra Karya No. 1597,Infrastruktur,Jawa Timur,2021
+COMP-1598,PT Bumi Jaya No. 1598,Konsumer Primer,Sulawesi Selatan,2018
+COMP-1599,PT Indo Energi No. 1599,Keuangan,Kalimantan Timur,2015
+COMP-1600,PT Surya Abadi No. 1600,Kesehatan,Kalimantan Timur,2010
+COMP-1601,PT Utama Karya No. 1601,Konsumer Primer,DKI Jakarta,2017
+COMP-1602,PT Nusantara Sentosa No. 1602,Energi & Pertambangan,Jawa Barat,2010
+COMP-1603,PT Bina Sejahtera No. 1603,Energi & Pertambangan,Sulawesi Selatan,2012
+COMP-1604,PT Nusantara Sejahtera No. 1604,Keuangan,Sulawesi Selatan,2020
+COMP-1605,PT Surya Jaya No. 1605,Kesehatan,Kalimantan Timur,2014
+COMP-1606,PT Mega Tbk No. 1606,Kesehatan,Kalimantan Timur,2017
+COMP-1607,PT Nusantara Sentosa No. 1607,Kesehatan,DKI Jakarta,2018
+COMP-1608,PT Citra Makmur No. 1608,Infrastruktur,Jawa Barat,2024
+COMP-1609,PT Surya Abadi No. 1609,Konsumer Primer,Sulawesi Selatan,2016
+COMP-1610,PT Bina Makmur No. 1610,Kesehatan,Sumatera Utara,2018
+COMP-1611,PT Artha Lestari No. 1611,Konsumer Primer,Sumatera Utara,2020
+COMP-1612,PT Citra Jaya No. 1612,Keuangan,Jawa Barat,2012
+COMP-1613,PT Citra Makmur No. 1613,Kesehatan,Jawa Timur,2022
+COMP-1614,PT Citra Lestari No. 1614,Keuangan,DKI Jakarta,2014
+COMP-1615,PT Bumi Jaya No. 1615,Kesehatan,Jawa Barat,2019
+COMP-1616,PT Nusantara Abadi No. 1616,Energi & Pertambangan,Sumatera Utara,2017
+COMP-1617,PT Bumi Persada No. 1617,Teknologi & Informasi,Kalimantan Timur,2021
+COMP-1618,PT Sumber Makmur No. 1618,Keuangan,Sumatera Utara,2010
+COMP-1619,PT Bumi Persada No. 1619,Kesehatan,Kalimantan Timur,2017
+COMP-1620,PT Surya Makmur No. 1620,Teknologi & Informasi,DKI Jakarta,2016
+COMP-1621,PT Utama Karya No. 1621,Keuangan,Kalimantan Timur,2010
+COMP-1622,PT Surya Abadi No. 1622,Infrastruktur,Jawa Barat,2022
+COMP-1623,PT Surya Abadi No. 1623,Kesehatan,Kalimantan Timur,2022
+COMP-1624,PT Sumber Abadi No. 1624,Infrastruktur,Jawa Timur,2019
+COMP-1625,PT Mega Abadi No. 1625,Energi & Pertambangan,Jawa Barat,2021
+COMP-1626,PT Nusantara Energi No. 1626,Kesehatan,DKI Jakarta,2019
+COMP-1627,PT Bina Sejahtera No. 1627,Energi & Pertambangan,Jawa Barat,2024
+COMP-1628,PT Mega Karya No. 1628,Teknologi & Informasi,Jawa Timur,2021
+COMP-1629,PT Mega Karya No. 1629,Keuangan,DKI Jakarta,2015
+COMP-1630,PT Bina Tbk No. 1630,Konsumer Primer,Sumatera Utara,2010
+COMP-1631,PT Sumber Energi No. 1631,Energi & Pertambangan,Jawa Timur,2011
+COMP-1632,PT Utama Abadi No. 1632,Konsumer Primer,DKI Jakarta,2014
+COMP-1633,PT Indo Persada No. 1633,Konsumer Primer,Kalimantan Timur,2011
+COMP-1634,PT Artha Jaya No. 1634,Keuangan,Jawa Barat,2023
+COMP-1635,PT Sumber Sentosa No. 1635,Teknologi & Informasi,DKI Jakarta,2019
+COMP-1636,PT Artha Makmur No. 1636,Keuangan,Jawa Barat,2010
+COMP-1637,PT Bumi Sentosa No. 1637,Kesehatan,Kalimantan Timur,2015
+COMP-1638,PT Mega Jaya No. 1638,Energi & Pertambangan,DKI Jakarta,2017
+COMP-1639,PT Sumber Sentosa No. 1639,Konsumer Primer,Sumatera Utara,2017
+COMP-1640,PT Utama Jaya No. 1640,Keuangan,Jawa Timur,2022
+COMP-1641,PT Bumi Abadi No. 1641,Keuangan,DKI Jakarta,2022
+COMP-1642,PT Bumi Makmur No. 1642,Keuangan,Kalimantan Timur,2017
+COMP-1643,PT Surya Makmur No. 1643,Energi & Pertambangan,DKI Jakarta,2020
+COMP-1644,PT Bina Energi No. 1644,Teknologi & Informasi,Jawa Barat,2015
+COMP-1645,PT Bina Energi No. 1645,Keuangan,Sulawesi Selatan,2020
+COMP-1646,PT Indo Persada No. 1646,Energi & Pertambangan,DKI Jakarta,2012
+COMP-1647,PT Bumi Lestari No. 1647,Konsumer Primer,Sumatera Utara,2010
+COMP-1648,PT Sumber Energi No. 1648,Kesehatan,DKI Jakarta,2011
+COMP-1649,PT Utama Jaya No. 1649,Infrastruktur,Jawa Timur,2014
+COMP-1650,PT Bumi Jaya No. 1650,Energi & Pertambangan,DKI Jakarta,2022
+COMP-1651,PT Bina Lestari No. 1651,Infrastruktur,Sulawesi Selatan,2019
+COMP-1652,PT Mega Tbk No. 1652,Keuangan,Jawa Barat,2014
+COMP-1653,PT Bina Energi No. 1653,Keuangan,DKI Jakarta,2019
+COMP-1654,PT Citra Tbk No. 1654,Energi & Pertambangan,Sumatera Utara,2023
+COMP-1655,PT Bumi Sentosa No. 1655,Infrastruktur,Kalimantan Timur,2010
+COMP-1656,PT Artha Makmur No. 1656,Keuangan,DKI Jakarta,2010
+COMP-1657,PT Citra Karya No. 1657,Konsumer Primer,DKI Jakarta,2024
+COMP-1658,PT Nusantara Lestari No. 1658,Teknologi & Informasi,Jawa Timur,2018
+COMP-1659,PT Surya Karya No. 1659,Teknologi & Informasi,Sumatera Utara,2011
+COMP-1660,PT Mega Energi No. 1660,Keuangan,Sulawesi Selatan,2016
+COMP-1661,PT Indo Abadi No. 1661,Infrastruktur,Kalimantan Timur,2019
+COMP-1662,PT Indo Energi No. 1662,Kesehatan,Jawa Barat,2013
+COMP-1663,PT Bina Jaya No. 1663,Keuangan,DKI Jakarta,2016
+COMP-1664,PT Utama Persada No. 1664,Kesehatan,Sulawesi Selatan,2017
+COMP-1665,PT Utama Sejahtera No. 1665,Kesehatan,Kalimantan Timur,2014
+COMP-1666,PT Mega Sejahtera No. 1666,Infrastruktur,Jawa Barat,2022
+COMP-1667,PT Nusantara Jaya No. 1667,Kesehatan,Sulawesi Selatan,2021
+COMP-1668,PT Nusantara Sentosa No. 1668,Konsumer Primer,Sumatera Utara,2021
+COMP-1669,PT Bina Tbk No. 1669,Infrastruktur,Sumatera Utara,2010
+COMP-1670,PT Mega Sentosa No. 1670,Keuangan,Kalimantan Timur,2013
+COMP-1671,PT Citra Karya No. 1671,Konsumer Primer,Jawa Barat,2019
+COMP-1672,PT Mega Persada No. 1672,Energi & Pertambangan,Sumatera Utara,2012
+COMP-1673,PT Nusantara Sejahtera No. 1673,Teknologi & Informasi,Kalimantan Timur,2019
+COMP-1674,PT Sumber Abadi No. 1674,Keuangan,Sumatera Utara,2024
+COMP-1675,PT Bina Karya No. 1675,Keuangan,Sumatera Utara,2021
+COMP-1676,PT Bumi Karya No. 1676,Keuangan,Sulawesi Selatan,2014
+COMP-1677,PT Bina Abadi No. 1677,Konsumer Primer,Sulawesi Selatan,2019
+COMP-1678,PT Bina Makmur No. 1678,Energi & Pertambangan,Sumatera Utara,2022
+COMP-1679,PT Mega Sentosa No. 1679,Infrastruktur,Jawa Timur,2019
+COMP-1680,PT Bumi Tbk No. 1680,Energi & Pertambangan,Sulawesi Selatan,2022
+COMP-1681,PT Bina Lestari No. 1681,Konsumer Primer,Jawa Barat,2015
+COMP-1682,PT Sumber Jaya No. 1682,Keuangan,Kalimantan Timur,2011
+COMP-1683,PT Sumber Energi No. 1683,Teknologi & Informasi,Kalimantan Timur,2016
+COMP-1684,PT Artha Abadi No. 1684,Keuangan,Jawa Barat,2022
+COMP-1685,PT Bumi Tbk No. 1685,Infrastruktur,Jawa Barat,2012
+COMP-1686,PT Surya Jaya No. 1686,Kesehatan,Jawa Barat,2024
+COMP-1687,PT Utama Sentosa No. 1687,Teknologi & Informasi,Jawa Barat,2010
+COMP-1688,PT Bumi Karya No. 1688,Keuangan,DKI Jakarta,2019
+COMP-1689,PT Sumber Sejahtera No. 1689,Teknologi & Informasi,Kalimantan Timur,2012
+COMP-1690,PT Surya Lestari No. 1690,Kesehatan,DKI Jakarta,2018
+COMP-1691,PT Sumber Energi No. 1691,Energi & Pertambangan,Sumatera Utara,2019
+COMP-1692,PT Artha Sejahtera No. 1692,Konsumer Primer,Sumatera Utara,2020
+COMP-1693,PT Citra Tbk No. 1693,Keuangan,Kalimantan Timur,2020
+COMP-1694,PT Nusantara Lestari No. 1694,Infrastruktur,Sumatera Utara,2024
+COMP-1695,PT Sumber Persada No. 1695,Energi & Pertambangan,Jawa Barat,2015
+COMP-1696,PT Mega Sejahtera No. 1696,Keuangan,DKI Jakarta,2020
+COMP-1697,PT Indo Sejahtera No. 1697,Energi & Pertambangan,Jawa Barat,2015
+COMP-1698,PT Sumber Jaya No. 1698,Infrastruktur,Sumatera Utara,2013
+COMP-1699,PT Bumi Lestari No. 1699,Keuangan,Sulawesi Selatan,2024
+COMP-1700,PT Nusantara Sentosa No. 1700,Kesehatan,DKI Jakarta,2017
+COMP-1701,PT Indo Karya No. 1701,Kesehatan,Jawa Barat,2014
+COMP-1702,PT Bina Karya No. 1702,Infrastruktur,Kalimantan Timur,2016
+COMP-1703,PT Sumber Energi No. 1703,Teknologi & Informasi,Jawa Barat,2018
+COMP-1704,PT Sumber Sentosa No. 1704,Infrastruktur,Sulawesi Selatan,2022
+COMP-1705,PT Surya Tbk No. 1705,Teknologi & Informasi,Sumatera Utara,2022
+COMP-1706,PT Artha Persada No. 1706,Keuangan,DKI Jakarta,2023
+COMP-1707,PT Indo Lestari No. 1707,Teknologi & Informasi,Kalimantan Timur,2014
+COMP-1708,PT Nusantara Sentosa No. 1708,Keuangan,DKI Jakarta,2020
+COMP-1709,PT Utama Energi No. 1709,Keuangan,Kalimantan Timur,2023
+COMP-1710,PT Surya Persada No. 1710,Konsumer Primer,DKI Jakarta,2014
+COMP-1711,PT Sumber Sejahtera No. 1711,Keuangan,Sumatera Utara,2023
+COMP-1712,PT Indo Tbk No. 1712,Teknologi & Informasi,Kalimantan Timur,2013
+COMP-1713,PT Bumi Sejahtera No. 1713,Konsumer Primer,Jawa Timur,2015
+COMP-1714,PT Sumber Abadi No. 1714,Konsumer Primer,DKI Jakarta,2011
+COMP-1715,PT Mega Tbk No. 1715,Keuangan,DKI Jakarta,2012
+COMP-1716,PT Nusantara Abadi No. 1716,Infrastruktur,Jawa Barat,2010
+COMP-1717,PT Indo Abadi No. 1717,Infrastruktur,Kalimantan Timur,2011
+COMP-1718,PT Artha Tbk No. 1718,Kesehatan,Sulawesi Selatan,2011
+COMP-1719,PT Mega Sentosa No. 1719,Konsumer Primer,Jawa Timur,2017
+COMP-1720,PT Utama Sentosa No. 1720,Keuangan,Sumatera Utara,2017
+COMP-1721,PT Citra Tbk No. 1721,Infrastruktur,Jawa Barat,2011
+COMP-1722,PT Surya Energi No. 1722,Keuangan,Jawa Timur,2022
+COMP-1723,PT Utama Tbk No. 1723,Keuangan,Kalimantan Timur,2023
+COMP-1724,PT Surya Jaya No. 1724,Konsumer Primer,Jawa Timur,2015
+COMP-1725,PT Sumber Sentosa No. 1725,Kesehatan,DKI Jakarta,2024
+COMP-1726,PT Surya Karya No. 1726,Konsumer Primer,DKI Jakarta,2014
+COMP-1727,PT Bina Makmur No. 1727,Energi & Pertambangan,Jawa Barat,2012
+COMP-1728,PT Bumi Abadi No. 1728,Infrastruktur,Kalimantan Timur,2014
+COMP-1729,PT Indo Sentosa No. 1729,Infrastruktur,Kalimantan Timur,2014
+COMP-1730,PT Indo Jaya No. 1730,Infrastruktur,Jawa Timur,2014
+COMP-1731,PT Bina Abadi No. 1731,Teknologi & Informasi,Jawa Barat,2012
+COMP-1732,PT Mega Jaya No. 1732,Keuangan,Kalimantan Timur,2024
+COMP-1733,PT Artha Makmur No. 1733,Konsumer Primer,Sulawesi Selatan,2012
+COMP-1734,PT Sumber Tbk No. 1734,Infrastruktur,Sulawesi Selatan,2013
+COMP-1735,PT Nusantara Persada No. 1735,Energi & Pertambangan,DKI Jakarta,2016
+COMP-1736,PT Utama Persada No. 1736,Infrastruktur,Jawa Timur,2021
+COMP-1737,PT Bina Persada No. 1737,Kesehatan,Sumatera Utara,2021
+COMP-1738,PT Bina Persada No. 1738,Keuangan,DKI Jakarta,2021
+COMP-1739,PT Citra Sejahtera No. 1739,Keuangan,Jawa Barat,2023
+COMP-1740,PT Surya Jaya No. 1740,Konsumer Primer,Kalimantan Timur,2011
+COMP-1741,PT Artha Energi No. 1741,Teknologi & Informasi,DKI Jakarta,2019
+COMP-1742,PT Nusantara Sentosa No. 1742,Konsumer Primer,Sumatera Utara,2013
+COMP-1743,PT Sumber Jaya No. 1743,Infrastruktur,Sumatera Utara,2013
+COMP-1744,PT Sumber Tbk No. 1744,Kesehatan,Sulawesi Selatan,2010
+COMP-1745,PT Bina Makmur No. 1745,Energi & Pertambangan,Jawa Barat,2019
+COMP-1746,PT Indo Energi No. 1746,Konsumer Primer,DKI Jakarta,2017
+COMP-1747,PT Bumi Sejahtera No. 1747,Teknologi & Informasi,Jawa Timur,2010
+COMP-1748,PT Artha Sentosa No. 1748,Konsumer Primer,DKI Jakarta,2017
+COMP-1749,PT Bina Jaya No. 1749,Keuangan,Sulawesi Selatan,2016
+COMP-1750,PT Sumber Energi No. 1750,Infrastruktur,Sumatera Utara,2018
+COMP-1751,PT Bumi Lestari No. 1751,Infrastruktur,Jawa Barat,2017
+COMP-1752,PT Bumi Persada No. 1752,Infrastruktur,Jawa Barat,2014
+COMP-1753,PT Mega Sejahtera No. 1753,Infrastruktur,Jawa Timur,2017
+COMP-1754,PT Sumber Lestari No. 1754,Infrastruktur,Jawa Barat,2023
+COMP-1755,PT Sumber Makmur No. 1755,Infrastruktur,Sulawesi Selatan,2024
+COMP-1756,PT Indo Karya No. 1756,Energi & Pertambangan,Sulawesi Selatan,2020
+COMP-1757,PT Sumber Jaya No. 1757,Teknologi & Informasi,Sulawesi Selatan,2019
+COMP-1758,PT Nusantara Energi No. 1758,Infrastruktur,Jawa Barat,2021
+COMP-1759,PT Bumi Lestari No. 1759,Teknologi & Informasi,Jawa Barat,2024
+COMP-1760,PT Bina Sentosa No. 1760,Kesehatan,Sulawesi Selatan,2021
+COMP-1761,PT Citra Jaya No. 1761,Infrastruktur,Jawa Barat,2012
+COMP-1762,PT Indo Tbk No. 1762,Konsumer Primer,Jawa Barat,2024
+COMP-1763,PT Mega Tbk No. 1763,Infrastruktur,Sumatera Utara,2019
+COMP-1764,PT Bumi Karya No. 1764,Keuangan,DKI Jakarta,2016
+COMP-1765,PT Utama Abadi No. 1765,Energi & Pertambangan,Kalimantan Timur,2021
+COMP-1766,PT Sumber Lestari No. 1766,Konsumer Primer,Jawa Barat,2013
+COMP-1767,PT Bumi Persada No. 1767,Konsumer Primer,Kalimantan Timur,2014
+COMP-1768,PT Sumber Sentosa No. 1768,Keuangan,Kalimantan Timur,2018
+COMP-1769,PT Citra Makmur No. 1769,Infrastruktur,Sumatera Utara,2016
+COMP-1770,PT Nusantara Sejahtera No. 1770,Energi & Pertambangan,Jawa Barat,2013
+COMP-1771,PT Bumi Makmur No. 1771,Konsumer Primer,Sulawesi Selatan,2015
+COMP-1772,PT Utama Jaya No. 1772,Energi & Pertambangan,Kalimantan Timur,2019
+COMP-1773,PT Indo Jaya No. 1773,Konsumer Primer,Jawa Barat,2023
+COMP-1774,PT Artha Energi No. 1774,Infrastruktur,Jawa Timur,2020
+COMP-1775,PT Utama Energi No. 1775,Kesehatan,Sulawesi Selatan,2016
+COMP-1776,PT Artha Jaya No. 1776,Konsumer Primer,Jawa Timur,2022
+COMP-1777,PT Bumi Lestari No. 1777,Kesehatan,Jawa Timur,2019
+COMP-1778,PT Sumber Tbk No. 1778,Konsumer Primer,Kalimantan Timur,2022
+COMP-1779,PT Mega Persada No. 1779,Teknologi & Informasi,Jawa Timur,2018
+COMP-1780,PT Artha Sejahtera No. 1780,Infrastruktur,Sumatera Utara,2013
+COMP-1781,PT Indo Sejahtera No. 1781,Keuangan,Sumatera Utara,2019
+COMP-1782,PT Surya Persada No. 1782,Kesehatan,Kalimantan Timur,2012
+COMP-1783,PT Surya Makmur No. 1783,Keuangan,Jawa Barat,2017
+COMP-1784,PT Utama Jaya No. 1784,Infrastruktur,DKI Jakarta,2024
+COMP-1785,PT Sumber Sejahtera No. 1785,Keuangan,Jawa Barat,2010
+COMP-1786,PT Bina Karya No. 1786,Infrastruktur,Jawa Barat,2018
+COMP-1787,PT Indo Sentosa No. 1787,Keuangan,Jawa Barat,2022
+COMP-1788,PT Bina Lestari No. 1788,Kesehatan,Jawa Barat,2010
+COMP-1789,PT Surya Abadi No. 1789,Teknologi & Informasi,Sulawesi Selatan,2011
+COMP-1790,PT Bumi Karya No. 1790,Keuangan,DKI Jakarta,2022
+COMP-1791,PT Nusantara Tbk No. 1791,Kesehatan,Sulawesi Selatan,2017
+COMP-1792,PT Utama Energi No. 1792,Konsumer Primer,Jawa Timur,2018
+COMP-1793,PT Citra Sentosa No. 1793,Infrastruktur,Jawa Barat,2016
+COMP-1794,PT Artha Sejahtera No. 1794,Energi & Pertambangan,Sumatera Utara,2012
+COMP-1795,PT Citra Karya No. 1795,Energi & Pertambangan,Kalimantan Timur,2016
+COMP-1796,PT Nusantara Abadi No. 1796,Infrastruktur,Kalimantan Timur,2015
+COMP-1797,PT Indo Energi No. 1797,Teknologi & Informasi,Sulawesi Selatan,2011
+COMP-1798,PT Bumi Sentosa No. 1798,Keuangan,Sulawesi Selatan,2012
+COMP-1799,PT Artha Sejahtera No. 1799,Teknologi & Informasi,Sumatera Utara,2020
+COMP-1800,PT Bumi Sentosa No. 1800,Energi & Pertambangan,Jawa Barat,2022
+COMP-1801,PT Nusantara Makmur No. 1801,Kesehatan,DKI Jakarta,2021
+COMP-1802,PT Nusantara Persada No. 1802,Infrastruktur,Jawa Timur,2022
+COMP-1803,PT Indo Sentosa No. 1803,Infrastruktur,Kalimantan Timur,2019
+COMP-1804,PT Artha Abadi No. 1804,Teknologi & Informasi,Jawa Timur,2019
+COMP-1805,PT Indo Tbk No. 1805,Kesehatan,DKI Jakarta,2022
+COMP-1806,PT Bina Sejahtera No. 1806,Teknologi & Informasi,Sulawesi Selatan,2021
+COMP-1807,PT Indo Energi No. 1807,Keuangan,Kalimantan Timur,2024
+COMP-1808,PT Nusantara Lestari No. 1808,Konsumer Primer,Jawa Timur,2014
+COMP-1809,PT Bumi Jaya No. 1809,Kesehatan,Sulawesi Selatan,2019
+COMP-1810,PT Bina Sentosa No. 1810,Konsumer Primer,DKI Jakarta,2013
+COMP-1811,PT Mega Jaya No. 1811,Keuangan,Jawa Timur,2011
+COMP-1812,PT Citra Sejahtera No. 1812,Konsumer Primer,Jawa Barat,2013
+COMP-1813,PT Citra Persada No. 1813,Energi & Pertambangan,Sulawesi Selatan,2021
+COMP-1814,PT Citra Karya No. 1814,Konsumer Primer,DKI Jakarta,2017
+COMP-1815,PT Utama Abadi No. 1815,Keuangan,Jawa Timur,2014
+COMP-1816,PT Utama Persada No. 1816,Konsumer Primer,Jawa Barat,2014
+COMP-1817,PT Surya Sejahtera No. 1817,Infrastruktur,Jawa Barat,2022
+COMP-1818,PT Mega Sentosa No. 1818,Teknologi & Informasi,DKI Jakarta,2021
+COMP-1819,PT Utama Persada No. 1819,Energi & Pertambangan,Sumatera Utara,2021
+COMP-1820,PT Artha Makmur No. 1820,Infrastruktur,Kalimantan Timur,2019
+COMP-1821,PT Artha Jaya No. 1821,Infrastruktur,DKI Jakarta,2012
+COMP-1822,PT Bina Karya No. 1822,Keuangan,Jawa Barat,2022
+COMP-1823,PT Utama Tbk No. 1823,Teknologi & Informasi,Jawa Barat,2017
+COMP-1824,PT Artha Persada No. 1824,Teknologi & Informasi,DKI Jakarta,2015
+COMP-1825,PT Citra Sejahtera No. 1825,Kesehatan,Sumatera Utara,2011
+COMP-1826,PT Nusantara Karya No. 1826,Energi & Pertambangan,Kalimantan Timur,2011
+COMP-1827,PT Surya Jaya No. 1827,Keuangan,Jawa Timur,2018
+COMP-1828,PT Artha Makmur No. 1828,Energi & Pertambangan,DKI Jakarta,2022
+COMP-1829,PT Surya Jaya No. 1829,Kesehatan,Kalimantan Timur,2016
+COMP-1830,PT Indo Sentosa No. 1830,Konsumer Primer,Kalimantan Timur,2019
+COMP-1831,PT Citra Makmur No. 1831,Infrastruktur,Sulawesi Selatan,2018
+COMP-1832,PT Bina Energi No. 1832,Energi & Pertambangan,Jawa Barat,2023
+COMP-1833,PT Utama Sejahtera No. 1833,Infrastruktur,Jawa Timur,2015
+COMP-1834,PT Surya Sentosa No. 1834,Keuangan,DKI Jakarta,2024
+COMP-1835,PT Utama Sejahtera No. 1835,Konsumer Primer,Jawa Barat,2014
+COMP-1836,PT Mega Tbk No. 1836,Keuangan,Sulawesi Selatan,2021
+COMP-1837,PT Bina Tbk No. 1837,Konsumer Primer,Sulawesi Selatan,2010
+COMP-1838,PT Sumber Lestari No. 1838,Konsumer Primer,Jawa Barat,2021
+COMP-1839,PT Mega Tbk No. 1839,Infrastruktur,Sumatera Utara,2015
+COMP-1840,PT Indo Jaya No. 1840,Keuangan,Kalimantan Timur,2015
+COMP-1841,PT Utama Abadi No. 1841,Keuangan,DKI Jakarta,2012
+COMP-1842,PT Sumber Sejahtera No. 1842,Energi & Pertambangan,DKI Jakarta,2012
+COMP-1843,PT Artha Karya No. 1843,Keuangan,DKI Jakarta,2024
+COMP-1844,PT Citra Lestari No. 1844,Energi & Pertambangan,Jawa Barat,2012
+COMP-1845,PT Artha Lestari No. 1845,Teknologi & Informasi,Sumatera Utara,2012
+COMP-1846,PT Citra Sentosa No. 1846,Teknologi & Informasi,Jawa Timur,2016
+COMP-1847,PT Bina Sejahtera No. 1847,Teknologi & Informasi,Sulawesi Selatan,2019
+COMP-1848,PT Utama Persada No. 1848,Kesehatan,Jawa Barat,2020
+COMP-1849,PT Bumi Sejahtera No. 1849,Keuangan,Jawa Timur,2011
+COMP-1850,PT Bina Karya No. 1850,Kesehatan,Sulawesi Selatan,2019
+COMP-1851,PT Bina Lestari No. 1851,Keuangan,Sulawesi Selatan,2022
+COMP-1852,PT Artha Abadi No. 1852,Energi & Pertambangan,Sumatera Utara,2019
+COMP-1853,PT Surya Lestari No. 1853,Kesehatan,Kalimantan Timur,2011
+COMP-1854,PT Mega Lestari No. 1854,Kesehatan,DKI Jakarta,2012
+COMP-1855,PT Mega Jaya No. 1855,Kesehatan,Jawa Timur,2019
+COMP-1856,PT Nusantara Abadi No. 1856,Konsumer Primer,Jawa Barat,2021
+COMP-1857,PT Indo Persada No. 1857,Energi & Pertambangan,Jawa Timur,2016
+COMP-1858,PT Bumi Tbk No. 1858,Teknologi & Informasi,Kalimantan Timur,2012
+COMP-1859,PT Nusantara Persada No. 1859,Energi & Pertambangan,DKI Jakarta,2016
+COMP-1860,PT Sumber Tbk No. 1860,Konsumer Primer,Jawa Timur,2018
+COMP-1861,PT Nusantara Sentosa No. 1861,Keuangan,Kalimantan Timur,2020
+COMP-1862,PT Artha Tbk No. 1862,Energi & Pertambangan,Jawa Barat,2019
+COMP-1863,PT Mega Sejahtera No. 1863,Kesehatan,Sumatera Utara,2021
+COMP-1864,PT Sumber Energi No. 1864,Teknologi & Informasi,Sulawesi Selatan,2024
+COMP-1865,PT Nusantara Tbk No. 1865,Teknologi & Informasi,Jawa Barat,2020
+COMP-1866,PT Citra Sentosa No. 1866,Keuangan,DKI Jakarta,2013
+COMP-1867,PT Nusantara Tbk No. 1867,Energi & Pertambangan,Sulawesi Selatan,2016
+COMP-1868,PT Surya Makmur No. 1868,Konsumer Primer,Jawa Barat,2018
+COMP-1869,PT Surya Abadi No. 1869,Keuangan,Jawa Barat,2023
+COMP-1870,PT Sumber Energi No. 1870,Energi & Pertambangan,Jawa Barat,2017
+COMP-1871,PT Utama Persada No. 1871,Infrastruktur,Jawa Barat,2017
+COMP-1872,PT Utama Tbk No. 1872,Teknologi & Informasi,Sulawesi Selatan,2018
+COMP-1873,PT Nusantara Makmur No. 1873,Konsumer Primer,DKI Jakarta,2023
+COMP-1874,PT Bina Tbk No. 1874,Kesehatan,Kalimantan Timur,2014
+COMP-1875,PT Sumber Lestari No. 1875,Konsumer Primer,Jawa Timur,2023
+COMP-1876,PT Artha Sentosa No. 1876,Kesehatan,Sumatera Utara,2014
+COMP-1877,PT Mega Karya No. 1877,Konsumer Primer,Jawa Timur,2012
+COMP-1878,PT Nusantara Energi No. 1878,Teknologi & Informasi,Jawa Timur,2014
+COMP-1879,PT Utama Energi No. 1879,Kesehatan,Sumatera Utara,2017
+COMP-1880,PT Nusantara Karya No. 1880,Energi & Pertambangan,Sulawesi Selatan,2021
+COMP-1881,PT Indo Sentosa No. 1881,Kesehatan,DKI Jakarta,2014
+COMP-1882,PT Artha Makmur No. 1882,Keuangan,Sumatera Utara,2013
+COMP-1883,PT Nusantara Karya No. 1883,Energi & Pertambangan,DKI Jakarta,2017
+COMP-1884,PT Artha Karya No. 1884,Keuangan,Sulawesi Selatan,2016
+COMP-1885,PT Surya Persada No. 1885,Konsumer Primer,Jawa Timur,2024
+COMP-1886,PT Nusantara Makmur No. 1886,Energi & Pertambangan,DKI Jakarta,2023
+COMP-1887,PT Utama Sentosa No. 1887,Konsumer Primer,Sulawesi Selatan,2023
+COMP-1888,PT Surya Karya No. 1888,Infrastruktur,Sulawesi Selatan,2015
+COMP-1889,PT Sumber Tbk No. 1889,Konsumer Primer,Kalimantan Timur,2014
+COMP-1890,PT Nusantara Energi No. 1890,Konsumer Primer,Sumatera Utara,2023
+COMP-1891,PT Surya Karya No. 1891,Keuangan,Kalimantan Timur,2014
+COMP-1892,PT Mega Energi No. 1892,Kesehatan,Jawa Timur,2022
+COMP-1893,PT Mega Lestari No. 1893,Infrastruktur,Sumatera Utara,2019
+COMP-1894,PT Surya Karya No. 1894,Konsumer Primer,Jawa Timur,2011
+COMP-1895,PT Citra Persada No. 1895,Konsumer Primer,Kalimantan Timur,2022
+COMP-1896,PT Bina Sentosa No. 1896,Infrastruktur,Sulawesi Selatan,2024
+COMP-1897,PT Artha Abadi No. 1897,Infrastruktur,Jawa Timur,2013
+COMP-1898,PT Bumi Jaya No. 1898,Energi & Pertambangan,Sumatera Utara,2017
+COMP-1899,PT Sumber Karya No. 1899,Keuangan,Sumatera Utara,2017
+COMP-1900,PT Bina Sejahtera No. 1900,Infrastruktur,Jawa Timur,2020
+COMP-1901,PT Surya Abadi No. 1901,Infrastruktur,Sumatera Utara,2010
+COMP-1902,PT Surya Abadi No. 1902,Teknologi & Informasi,Sulawesi Selatan,2011
+COMP-1903,PT Citra Makmur No. 1903,Kesehatan,Sulawesi Selatan,2014
+COMP-1904,PT Utama Karya No. 1904,Infrastruktur,Sumatera Utara,2018
+COMP-1905,PT Citra Makmur No. 1905,Keuangan,Jawa Timur,2019
+COMP-1906,PT Artha Jaya No. 1906,Kesehatan,Kalimantan Timur,2020
+COMP-1907,PT Nusantara Energi No. 1907,Kesehatan,Sumatera Utara,2021
+COMP-1908,PT Mega Sejahtera No. 1908,Konsumer Primer,Sumatera Utara,2022
+COMP-1909,PT Nusantara Lestari No. 1909,Konsumer Primer,Sumatera Utara,2020
+COMP-1910,PT Nusantara Sejahtera No. 1910,Konsumer Primer,Sumatera Utara,2016
+COMP-1911,PT Bina Sejahtera No. 1911,Konsumer Primer,Jawa Timur,2019
+COMP-1912,PT Sumber Jaya No. 1912,Teknologi & Informasi,Kalimantan Timur,2014
+COMP-1913,PT Nusantara Makmur No. 1913,Infrastruktur,Kalimantan Timur,2010
+COMP-1914,PT Bina Karya No. 1914,Konsumer Primer,DKI Jakarta,2024
+COMP-1915,PT Sumber Sejahtera No. 1915,Energi & Pertambangan,Sumatera Utara,2024
+COMP-1916,PT Bumi Abadi No. 1916,Konsumer Primer,Sumatera Utara,2015
+COMP-1917,PT Artha Energi No. 1917,Infrastruktur,DKI Jakarta,2021
+COMP-1918,PT Artha Lestari No. 1918,Konsumer Primer,Kalimantan Timur,2017
+COMP-1919,PT Utama Abadi No. 1919,Teknologi & Informasi,Jawa Barat,2016
+COMP-1920,PT Utama Karya No. 1920,Keuangan,Sulawesi Selatan,2011
+COMP-1921,PT Sumber Jaya No. 1921,Keuangan,Jawa Barat,2021
+COMP-1922,PT Artha Jaya No. 1922,Infrastruktur,Kalimantan Timur,2014
+COMP-1923,PT Bumi Persada No. 1923,Keuangan,Sumatera Utara,2023
+COMP-1924,PT Bina Tbk No. 1924,Keuangan,Jawa Barat,2020
+COMP-1925,PT Surya Persada No. 1925,Energi & Pertambangan,Jawa Timur,2013
+COMP-1926,PT Indo Energi No. 1926,Infrastruktur,Jawa Timur,2018
+COMP-1927,PT Bumi Lestari No. 1927,Infrastruktur,DKI Jakarta,2019
+COMP-1928,PT Indo Sejahtera No. 1928,Keuangan,Kalimantan Timur,2010
+COMP-1929,PT Bina Sejahtera No. 1929,Keuangan,Kalimantan Timur,2021
+COMP-1930,PT Bumi Persada No. 1930,Keuangan,Jawa Barat,2015
+COMP-1931,PT Artha Tbk No. 1931,Kesehatan,Sumatera Utara,2012
+COMP-1932,PT Nusantara Energi No. 1932,Teknologi & Informasi,Kalimantan Timur,2020
+COMP-1933,PT Utama Karya No. 1933,Konsumer Primer,Jawa Barat,2018
+COMP-1934,PT Indo Makmur No. 1934,Teknologi & Informasi,Jawa Barat,2014
+COMP-1935,PT Bina Karya No. 1935,Infrastruktur,Sulawesi Selatan,2022
+COMP-1936,PT Bumi Jaya No. 1936,Energi & Pertambangan,Sulawesi Selatan,2015
+COMP-1937,PT Indo Lestari No. 1937,Konsumer Primer,Kalimantan Timur,2020
+COMP-1938,PT Sumber Persada No. 1938,Energi & Pertambangan,Jawa Barat,2018
+COMP-1939,PT Utama Abadi No. 1939,Kesehatan,DKI Jakarta,2018
+COMP-1940,PT Sumber Sentosa No. 1940,Infrastruktur,DKI Jakarta,2017
+COMP-1941,PT Bina Lestari No. 1941,Kesehatan,Sulawesi Selatan,2018
+COMP-1942,PT Artha Karya No. 1942,Infrastruktur,Kalimantan Timur,2013
+COMP-1943,PT Artha Karya No. 1943,Energi & Pertambangan,Sumatera Utara,2015
+COMP-1944,PT Bumi Sejahtera No. 1944,Energi & Pertambangan,DKI Jakarta,2014
+COMP-1945,PT Bumi Lestari No. 1945,Energi & Pertambangan,DKI Jakarta,2014
+COMP-1946,PT Citra Lestari No. 1946,Infrastruktur,Sulawesi Selatan,2013
+COMP-1947,PT Indo Tbk No. 1947,Keuangan,Sulawesi Selatan,2011
+COMP-1948,PT Nusantara Lestari No. 1948,Energi & Pertambangan,Kalimantan Timur,2021
+COMP-1949,PT Bina Sentosa No. 1949,Kesehatan,Sulawesi Selatan,2015
+COMP-1950,PT Bumi Sentosa No. 1950,Konsumer Primer,Jawa Timur,2018
+COMP-1951,PT Nusantara Karya No. 1951,Infrastruktur,Jawa Barat,2021
+COMP-1952,PT Indo Tbk No. 1952,Kesehatan,DKI Jakarta,2010
+COMP-1953,PT Indo Sejahtera No. 1953,Teknologi & Informasi,Jawa Timur,2023
+COMP-1954,PT Sumber Karya No. 1954,Teknologi & Informasi,Sumatera Utara,2016
+COMP-1955,PT Mega Jaya No. 1955,Konsumer Primer,Jawa Timur,2015
+COMP-1956,PT Sumber Sentosa No. 1956,Keuangan,Kalimantan Timur,2012
+COMP-1957,PT Bumi Tbk No. 1957,Energi & Pertambangan,Sumatera Utara,2010
+COMP-1958,PT Nusantara Energi No. 1958,Infrastruktur,Sumatera Utara,2022
+COMP-1959,PT Artha Abadi No. 1959,Kesehatan,Sulawesi Selatan,2013
+COMP-1960,PT Nusantara Tbk No. 1960,Energi & Pertambangan,Jawa Timur,2024
+COMP-1961,PT Artha Karya No. 1961,Kesehatan,Kalimantan Timur,2023
+COMP-1962,PT Nusantara Persada No. 1962,Infrastruktur,DKI Jakarta,2018
+COMP-1963,PT Artha Tbk No. 1963,Teknologi & Informasi,Sulawesi Selatan,2024
+COMP-1964,PT Indo Lestari No. 1964,Energi & Pertambangan,Jawa Timur,2011
+COMP-1965,PT Sumber Energi No. 1965,Konsumer Primer,DKI Jakarta,2012
+COMP-1966,PT Indo Makmur No. 1966,Keuangan,Jawa Timur,2011
+COMP-1967,PT Sumber Makmur No. 1967,Konsumer Primer,Sulawesi Selatan,2023
+COMP-1968,PT Citra Sentosa No. 1968,Keuangan,DKI Jakarta,2011
+COMP-1969,PT Mega Tbk No. 1969,Kesehatan,Sulawesi Selatan,2019
+COMP-1970,PT Artha Tbk No. 1970,Energi & Pertambangan,Jawa Timur,2020
+COMP-1971,PT Indo Karya No. 1971,Energi & Pertambangan,Sumatera Utara,2020
+COMP-1972,PT Surya Energi No. 1972,Keuangan,Jawa Barat,2017
+COMP-1973,PT Bina Tbk No. 1973,Teknologi & Informasi,Sumatera Utara,2012
+COMP-1974,PT Indo Makmur No. 1974,Infrastruktur,Sulawesi Selatan,2016
+COMP-1975,PT Artha Jaya No. 1975,Konsumer Primer,Sulawesi Selatan,2017
+COMP-1976,PT Utama Energi No. 1976,Kesehatan,Sulawesi Selatan,2012
+COMP-1977,PT Mega Abadi No. 1977,Konsumer Primer,DKI Jakarta,2011
+COMP-1978,PT Artha Energi No. 1978,Konsumer Primer,Kalimantan Timur,2022
+COMP-1979,PT Bina Sejahtera No. 1979,Kesehatan,Sulawesi Selatan,2022
+COMP-1980,PT Bumi Jaya No. 1980,Kesehatan,Sumatera Utara,2017
+COMP-1981,PT Bumi Karya No. 1981,Energi & Pertambangan,Jawa Barat,2012
+COMP-1982,PT Indo Energi No. 1982,Konsumer Primer,Sulawesi Selatan,2016
+COMP-1983,PT Bumi Abadi No. 1983,Infrastruktur,Sulawesi Selatan,2021
+COMP-1984,PT Indo Makmur No. 1984,Infrastruktur,Sulawesi Selatan,2010
+COMP-1985,PT Sumber Karya No. 1985,Keuangan,DKI Jakarta,2023
+COMP-1986,PT Artha Jaya No. 1986,Kesehatan,Sulawesi Selatan,2024
+COMP-1987,PT Citra Persada No. 1987,Energi & Pertambangan,Sumatera Utara,2021
+COMP-1988,PT Sumber Energi No. 1988,Infrastruktur,Jawa Timur,2015
+COMP-1989,PT Utama Jaya No. 1989,Teknologi & Informasi,Kalimantan Timur,2021
+COMP-1990,PT Surya Karya No. 1990,Energi & Pertambangan,Sulawesi Selatan,2021
+COMP-1991,PT Indo Energi No. 1991,Energi & Pertambangan,DKI Jakarta,2022
+COMP-1992,PT Bina Lestari No. 1992,Infrastruktur,Sumatera Utara,2018
+COMP-1993,PT Bina Abadi No. 1993,Teknologi & Informasi,Sulawesi Selatan,2021
+COMP-1994,PT Nusantara Energi No. 1994,Keuangan,DKI Jakarta,2012
+COMP-1995,PT Sumber Sejahtera No. 1995,Infrastruktur,Jawa Timur,2023
+COMP-1996,PT Bina Makmur No. 1996,Teknologi & Informasi,Jawa Barat,2016
+COMP-1997,PT Surya Sejahtera No. 1997,Energi & Pertambangan,Sulawesi Selatan,2022
+COMP-1998,PT Bumi Persada No. 1998,Teknologi & Informasi,Sumatera Utara,2015
+COMP-1999,PT Sumber Persada No. 1999,Energi & Pertambangan,DKI Jakarta,2017
+COMP-2000,PT Surya Sentosa No. 2000,Infrastruktur,DKI Jakarta,2012
+COMP-2001,PT Bumi Sejahtera No. 2001,Kesehatan,Sulawesi Selatan,2012
+COMP-2002,PT Bumi Makmur No. 2002,Infrastruktur,DKI Jakarta,2013
+COMP-2003,PT Sumber Persada No. 2003,Konsumer Primer,Jawa Barat,2012
+COMP-2004,PT Bina Sentosa No. 2004,Konsumer Primer,DKI Jakarta,2018
+COMP-2005,PT Sumber Abadi No. 2005,Konsumer Primer,Kalimantan Timur,2020
+COMP-2006,PT Sumber Jaya No. 2006,Infrastruktur,Kalimantan Timur,2013
+COMP-2007,PT Artha Energi No. 2007,Keuangan,DKI Jakarta,2015
+COMP-2008,PT Utama Karya No. 2008,Infrastruktur,Sulawesi Selatan,2017
+COMP-2009,PT Sumber Makmur No. 2009,Kesehatan,Kalimantan Timur,2020
+COMP-2010,PT Bina Energi No. 2010,Teknologi & Informasi,Sumatera Utara,2022
+COMP-2011,PT Sumber Lestari No. 2011,Infrastruktur,Kalimantan Timur,2017
+COMP-2012,PT Mega Sejahtera No. 2012,Infrastruktur,DKI Jakarta,2024
+COMP-2013,PT Nusantara Persada No. 2013,Energi & Pertambangan,Sulawesi Selatan,2014
+COMP-2014,PT Mega Makmur No. 2014,Energi & Pertambangan,Jawa Timur,2014
+COMP-2015,PT Utama Karya No. 2015,Energi & Pertambangan,Sulawesi Selatan,2015
+COMP-2016,PT Artha Karya No. 2016,Infrastruktur,Sulawesi Selatan,2019
+COMP-2017,PT Citra Sentosa No. 2017,Keuangan,Sulawesi Selatan,2016
+COMP-2018,PT Mega Energi No. 2018,Teknologi & Informasi,Sumatera Utara,2022
+COMP-2019,PT Artha Jaya No. 2019,Teknologi & Informasi,Jawa Barat,2022
+COMP-2020,PT Indo Abadi No. 2020,Kesehatan,DKI Jakarta,2019
+COMP-2021,PT Bina Sejahtera No. 2021,Keuangan,Jawa Barat,2023
+COMP-2022,PT Indo Sentosa No. 2022,Keuangan,Jawa Timur,2016
+COMP-2023,PT Surya Tbk No. 2023,Teknologi & Informasi,Jawa Barat,2022
+COMP-2024,PT Utama Abadi No. 2024,Konsumer Primer,DKI Jakarta,2013
+COMP-2025,PT Mega Sentosa No. 2025,Energi & Pertambangan,DKI Jakarta,2015
+COMP-2026,PT Indo Energi No. 2026,Energi & Pertambangan,Jawa Timur,2016
+COMP-2027,PT Indo Persada No. 2027,Teknologi & Informasi,DKI Jakarta,2014
+COMP-2028,PT Utama Energi No. 2028,Keuangan,Jawa Timur,2014
+COMP-2029,PT Nusantara Sejahtera No. 2029,Kesehatan,Jawa Timur,2011
+COMP-2030,PT Bina Lestari No. 2030,Konsumer Primer,DKI Jakarta,2016
+COMP-2031,PT Citra Karya No. 2031,Teknologi & Informasi,Kalimantan Timur,2021
+COMP-2032,PT Utama Lestari No. 2032,Energi & Pertambangan,Jawa Timur,2015
+COMP-2033,PT Bina Lestari No. 2033,Infrastruktur,DKI Jakarta,2020
+COMP-2034,PT Mega Persada No. 2034,Keuangan,Kalimantan Timur,2010
+COMP-2035,PT Utama Energi No. 2035,Infrastruktur,Jawa Timur,2013
+COMP-2036,PT Utama Karya No. 2036,Kesehatan,Kalimantan Timur,2012
+COMP-2037,PT Bina Lestari No. 2037,Teknologi & Informasi,Sumatera Utara,2021
+COMP-2038,PT Bina Sejahtera No. 2038,Energi & Pertambangan,Sulawesi Selatan,2024
+COMP-2039,PT Utama Sentosa No. 2039,Konsumer Primer,Sumatera Utara,2012
+COMP-2040,PT Utama Energi No. 2040,Infrastruktur,Kalimantan Timur,2016
+COMP-2041,PT Utama Jaya No. 2041,Konsumer Primer,Jawa Timur,2020
+COMP-2042,PT Mega Makmur No. 2042,Kesehatan,DKI Jakarta,2021
+COMP-2043,PT Mega Lestari No. 2043,Energi & Pertambangan,Jawa Barat,2019
+COMP-2044,PT Bumi Lestari No. 2044,Infrastruktur,DKI Jakarta,2013
+COMP-2045,PT Sumber Energi No. 2045,Kesehatan,Jawa Barat,2024
+COMP-2046,PT Nusantara Persada No. 2046,Konsumer Primer,Jawa Barat,2021
+COMP-2047,PT Citra Persada No. 2047,Konsumer Primer,Jawa Timur,2017
+COMP-2048,PT Indo Karya No. 2048,Infrastruktur,Kalimantan Timur,2020
+COMP-2049,PT Artha Makmur No. 2049,Energi & Pertambangan,DKI Jakarta,2018
+COMP-2050,PT Bina Persada No. 2050,Konsumer Primer,Kalimantan Timur,2012
+COMP-2051,PT Utama Abadi No. 2051,Teknologi & Informasi,Sumatera Utara,2014
+COMP-2052,PT Sumber Karya No. 2052,Kesehatan,Jawa Timur,2013
+COMP-2053,PT Sumber Jaya No. 2053,Infrastruktur,Jawa Timur,2023
+COMP-2054,PT Surya Tbk No. 2054,Keuangan,Sumatera Utara,2021
+COMP-2055,PT Nusantara Energi No. 2055,Keuangan,DKI Jakarta,2019
+COMP-2056,PT Citra Karya No. 2056,Energi & Pertambangan,Sulawesi Selatan,2024
+COMP-2057,PT Indo Jaya No. 2057,Teknologi & Informasi,Sumatera Utara,2015
+COMP-2058,PT Indo Energi No. 2058,Konsumer Primer,DKI Jakarta,2020
+COMP-2059,PT Bumi Makmur No. 2059,Keuangan,Jawa Barat,2019
+COMP-2060,PT Citra Lestari No. 2060,Energi & Pertambangan,Jawa Timur,2013
+COMP-2061,PT Nusantara Makmur No. 2061,Kesehatan,DKI Jakarta,2017
+COMP-2062,PT Nusantara Sejahtera No. 2062,Teknologi & Informasi,Kalimantan Timur,2012
+COMP-2063,PT Utama Jaya No. 2063,Teknologi & Informasi,Kalimantan Timur,2020
+COMP-2064,PT Indo Energi No. 2064,Energi & Pertambangan,Jawa Timur,2014
+COMP-2065,PT Utama Sejahtera No. 2065,Energi & Pertambangan,Sumatera Utara,2022
+COMP-2066,PT Indo Energi No. 2066,Konsumer Primer,Sulawesi Selatan,2010
+COMP-2067,PT Citra Abadi No. 2067,Energi & Pertambangan,Sumatera Utara,2022
+COMP-2068,PT Indo Energi No. 2068,Konsumer Primer,DKI Jakarta,2024
+COMP-2069,PT Utama Sejahtera No. 2069,Konsumer Primer,Sumatera Utara,2015
+COMP-2070,PT Nusantara Energi No. 2070,Infrastruktur,Jawa Timur,2020
+COMP-2071,PT Nusantara Tbk No. 2071,Teknologi & Informasi,DKI Jakarta,2014
+COMP-2072,PT Citra Sejahtera No. 2072,Kesehatan,Jawa Barat,2017
+COMP-2073,PT Indo Tbk No. 2073,Teknologi & Informasi,Sumatera Utara,2018
+COMP-2074,PT Sumber Tbk No. 2074,Teknologi & Informasi,Sumatera Utara,2017
+COMP-2075,PT Surya Jaya No. 2075,Infrastruktur,Sulawesi Selatan,2017
+COMP-2076,PT Nusantara Tbk No. 2076,Konsumer Primer,DKI Jakarta,2021
+COMP-2077,PT Sumber Tbk No. 2077,Konsumer Primer,Kalimantan Timur,2023
+COMP-2078,PT Citra Karya No. 2078,Energi & Pertambangan,Sumatera Utara,2022
+COMP-2079,PT Sumber Tbk No. 2079,Infrastruktur,Jawa Timur,2012
+COMP-2080,PT Utama Karya No. 2080,Energi & Pertambangan,Sumatera Utara,2013
+COMP-2081,PT Citra Makmur No. 2081,Infrastruktur,Sulawesi Selatan,2024
+COMP-2082,PT Bina Karya No. 2082,Energi & Pertambangan,Jawa Barat,2020
+COMP-2083,PT Mega Tbk No. 2083,Keuangan,Sulawesi Selatan,2013
+COMP-2084,PT Surya Makmur No. 2084,Teknologi & Informasi,Sumatera Utara,2024
+COMP-2085,PT Citra Makmur No. 2085,Teknologi & Informasi,Kalimantan Timur,2024
+COMP-2086,PT Surya Lestari No. 2086,Kesehatan,Sumatera Utara,2023
+COMP-2087,PT Sumber Tbk No. 2087,Konsumer Primer,DKI Jakarta,2020
+COMP-2088,PT Surya Sentosa No. 2088,Kesehatan,Sumatera Utara,2014
+COMP-2089,PT Artha Tbk No. 2089,Keuangan,Kalimantan Timur,2022
+COMP-2090,PT Nusantara Makmur No. 2090,Kesehatan,DKI Jakarta,2018
+COMP-2091,PT Bumi Lestari No. 2091,Teknologi & Informasi,Jawa Timur,2021
+COMP-2092,PT Artha Persada No. 2092,Konsumer Primer,DKI Jakarta,2018
+COMP-2093,PT Citra Karya No. 2093,Keuangan,Sulawesi Selatan,2019
+COMP-2094,PT Citra Lestari No. 2094,Teknologi & Informasi,Jawa Barat,2022
+COMP-2095,PT Surya Abadi No. 2095,Energi & Pertambangan,Sulawesi Selatan,2021
+COMP-2096,PT Artha Sentosa No. 2096,Infrastruktur,DKI Jakarta,2023
+COMP-2097,PT Indo Makmur No. 2097,Keuangan,Jawa Timur,2010
+COMP-2098,PT Nusantara Tbk No. 2098,Konsumer Primer,Sumatera Utara,2023
+COMP-2099,PT Bumi Jaya No. 2099,Kesehatan,DKI Jakarta,2023
+COMP-2100,PT Bina Sentosa No. 2100,Kesehatan,Sulawesi Selatan,2017
+COMP-2101,PT Surya Tbk No. 2101,Keuangan,DKI Jakarta,2023
+COMP-2102,PT Indo Persada No. 2102,Konsumer Primer,DKI Jakarta,2010
+COMP-2103,PT Mega Abadi No. 2103,Keuangan,DKI Jakarta,2011
+COMP-2104,PT Indo Sentosa No. 2104,Konsumer Primer,Jawa Timur,2016
+COMP-2105,PT Nusantara Karya No. 2105,Kesehatan,Kalimantan Timur,2024
+COMP-2106,PT Mega Karya No. 2106,Teknologi & Informasi,Kalimantan Timur,2017
+COMP-2107,PT Utama Tbk No. 2107,Energi & Pertambangan,DKI Jakarta,2010
+COMP-2108,PT Sumber Persada No. 2108,Teknologi & Informasi,Jawa Timur,2024
+COMP-2109,PT Nusantara Abadi No. 2109,Energi & Pertambangan,Jawa Timur,2012
+COMP-2110,PT Citra Sejahtera No. 2110,Kesehatan,DKI Jakarta,2016
+COMP-2111,PT Indo Sentosa No. 2111,Teknologi & Informasi,Sulawesi Selatan,2022
+COMP-2112,PT Indo Sejahtera No. 2112,Teknologi & Informasi,Sulawesi Selatan,2018
+COMP-2113,PT Mega Lestari No. 2113,Keuangan,Jawa Barat,2017
+COMP-2114,PT Indo Persada No. 2114,Infrastruktur,DKI Jakarta,2017
+COMP-2115,PT Sumber Jaya No. 2115,Kesehatan,Jawa Barat,2024
+COMP-2116,PT Surya Tbk No. 2116,Konsumer Primer,Sulawesi Selatan,2018
+COMP-2117,PT Surya Makmur No. 2117,Kesehatan,Sulawesi Selatan,2019
+COMP-2118,PT Indo Energi No. 2118,Konsumer Primer,DKI Jakarta,2012
+COMP-2119,PT Indo Makmur No. 2119,Konsumer Primer,Jawa Barat,2017
+COMP-2120,PT Bumi Karya No. 2120,Energi & Pertambangan,Jawa Barat,2010
+COMP-2121,PT Indo Abadi No. 2121,Konsumer Primer,DKI Jakarta,2017
+COMP-2122,PT Bumi Energi No. 2122,Konsumer Primer,Jawa Barat,2022
+COMP-2123,PT Sumber Tbk No. 2123,Keuangan,Sumatera Utara,2016
+COMP-2124,PT Citra Lestari No. 2124,Teknologi & Informasi,Sulawesi Selatan,2022
+COMP-2125,PT Citra Energi No. 2125,Kesehatan,Kalimantan Timur,2024
+COMP-2126,PT Mega Persada No. 2126,Kesehatan,Jawa Timur,2017
+COMP-2127,PT Artha Abadi No. 2127,Konsumer Primer,Jawa Barat,2010
+COMP-2128,PT Sumber Persada No. 2128,Infrastruktur,Jawa Barat,2015
+COMP-2129,PT Utama Sejahtera No. 2129,Kesehatan,Jawa Timur,2016
+COMP-2130,PT Artha Abadi No. 2130,Konsumer Primer,Jawa Barat,2023
+COMP-2131,PT Utama Lestari No. 2131,Energi & Pertambangan,Jawa Timur,2020
+COMP-2132,PT Surya Sentosa No. 2132,Energi & Pertambangan,DKI Jakarta,2014
+COMP-2133,PT Indo Sejahtera No. 2133,Energi & Pertambangan,Sumatera Utara,2023
+COMP-2134,PT Artha Energi No. 2134,Konsumer Primer,Sumatera Utara,2014
+COMP-2135,PT Surya Energi No. 2135,Keuangan,Sulawesi Selatan,2016
+COMP-2136,PT Mega Lestari No. 2136,Infrastruktur,Kalimantan Timur,2024
+COMP-2137,PT Sumber Sejahtera No. 2137,Konsumer Primer,Jawa Barat,2020
+COMP-2138,PT Citra Sejahtera No. 2138,Keuangan,Kalimantan Timur,2024
+COMP-2139,PT Surya Makmur No. 2139,Keuangan,DKI Jakarta,2012
+COMP-2140,PT Sumber Tbk No. 2140,Kesehatan,Sumatera Utara,2015
+COMP-2141,PT Surya Jaya No. 2141,Konsumer Primer,DKI Jakarta,2016
+COMP-2142,PT Surya Abadi No. 2142,Konsumer Primer,DKI Jakarta,2010
+COMP-2143,PT Surya Lestari No. 2143,Keuangan,Jawa Barat,2021
+COMP-2144,PT Bumi Makmur No. 2144,Keuangan,DKI Jakarta,2011
+COMP-2145,PT Surya Energi No. 2145,Keuangan,Sumatera Utara,2021
+COMP-2146,PT Sumber Lestari No. 2146,Kesehatan,Kalimantan Timur,2013
+COMP-2147,PT Artha Persada No. 2147,Konsumer Primer,Sumatera Utara,2022
+COMP-2148,PT Citra Karya No. 2148,Keuangan,Jawa Barat,2017
+COMP-2149,PT Nusantara Karya No. 2149,Energi & Pertambangan,Sumatera Utara,2020
+COMP-2150,PT Artha Sejahtera No. 2150,Konsumer Primer,Jawa Timur,2022
+COMP-2151,PT Citra Lestari No. 2151,Kesehatan,Kalimantan Timur,2023
+COMP-2152,PT Mega Karya No. 2152,Energi & Pertambangan,Jawa Timur,2019
+COMP-2153,PT Sumber Lestari No. 2153,Teknologi & Informasi,Jawa Timur,2015
+COMP-2154,PT Surya Makmur No. 2154,Konsumer Primer,Sulawesi Selatan,2010
+COMP-2155,PT Nusantara Sentosa No. 2155,Teknologi & Informasi,Jawa Barat,2019
+COMP-2156,PT Utama Persada No. 2156,Keuangan,DKI Jakarta,2014
+COMP-2157,PT Citra Karya No. 2157,Kesehatan,Jawa Timur,2016
+COMP-2158,PT Mega Sejahtera No. 2158,Keuangan,Sumatera Utara,2024
+COMP-2159,PT Indo Karya No. 2159,Kesehatan,DKI Jakarta,2022
+COMP-2160,PT Bina Sentosa No. 2160,Infrastruktur,Sumatera Utara,2015
+COMP-2161,PT Citra Makmur No. 2161,Keuangan,Sumatera Utara,2022
+COMP-2162,PT Indo Tbk No. 2162,Teknologi & Informasi,DKI Jakarta,2022
+COMP-2163,PT Artha Karya No. 2163,Kesehatan,DKI Jakarta,2021
+COMP-2164,PT Utama Jaya No. 2164,Keuangan,Sumatera Utara,2018
+COMP-2165,PT Bumi Abadi No. 2165,Konsumer Primer,Jawa Barat,2017
+COMP-2166,PT Mega Sejahtera No. 2166,Kesehatan,Kalimantan Timur,2024
+COMP-2167,PT Citra Sejahtera No. 2167,Kesehatan,Sulawesi Selatan,2013
+COMP-2168,PT Bumi Sentosa No. 2168,Keuangan,Kalimantan Timur,2022
+COMP-2169,PT Sumber Energi No. 2169,Infrastruktur,Jawa Barat,2020
+COMP-2170,PT Indo Sentosa No. 2170,Keuangan,Sulawesi Selatan,2021
+COMP-2171,PT Sumber Tbk No. 2171,Teknologi & Informasi,DKI Jakarta,2014
+COMP-2172,PT Bumi Abadi No. 2172,Teknologi & Informasi,Sulawesi Selatan,2016
+COMP-2173,PT Sumber Makmur No. 2173,Kesehatan,Sumatera Utara,2017
+COMP-2174,PT Surya Abadi No. 2174,Kesehatan,Kalimantan Timur,2014
+COMP-2175,PT Mega Sejahtera No. 2175,Keuangan,Sulawesi Selatan,2018
+COMP-2176,PT Utama Tbk No. 2176,Teknologi & Informasi,Sumatera Utara,2023
+COMP-2177,PT Bina Tbk No. 2177,Teknologi & Informasi,Jawa Barat,2019
+COMP-2178,PT Sumber Persada No. 2178,Infrastruktur,Sulawesi Selatan,2021
+COMP-2179,PT Sumber Karya No. 2179,Konsumer Primer,Sumatera Utara,2013
+COMP-2180,PT Nusantara Abadi No. 2180,Infrastruktur,Jawa Barat,2013
+COMP-2181,PT Artha Energi No. 2181,Energi & Pertambangan,DKI Jakarta,2022
+COMP-2182,PT Surya Lestari No. 2182,Infrastruktur,Jawa Barat,2017
+COMP-2183,PT Sumber Makmur No. 2183,Keuangan,Jawa Barat,2010
+COMP-2184,PT Nusantara Makmur No. 2184,Konsumer Primer,Kalimantan Timur,2017
+COMP-2185,PT Artha Makmur No. 2185,Keuangan,Sumatera Utara,2014
+COMP-2186,PT Nusantara Abadi No. 2186,Energi & Pertambangan,Sulawesi Selatan,2022
+COMP-2187,PT Surya Lestari No. 2187,Konsumer Primer,Kalimantan Timur,2023
+COMP-2188,PT Artha Lestari No. 2188,Kesehatan,Jawa Timur,2020
+COMP-2189,PT Citra Jaya No. 2189,Teknologi & Informasi,Jawa Barat,2010
+COMP-2190,PT Indo Makmur No. 2190,Infrastruktur,Jawa Timur,2013
+COMP-2191,PT Mega Energi No. 2191,Keuangan,Kalimantan Timur,2011
+COMP-2192,PT Sumber Makmur No. 2192,Energi & Pertambangan,Sumatera Utara,2013
+COMP-2193,PT Artha Lestari No. 2193,Teknologi & Informasi,Kalimantan Timur,2017
+COMP-2194,PT Indo Jaya No. 2194,Infrastruktur,Sumatera Utara,2014
+COMP-2195,PT Surya Lestari No. 2195,Teknologi & Informasi,Sumatera Utara,2010
+COMP-2196,PT Artha Jaya No. 2196,Infrastruktur,DKI Jakarta,2016
+COMP-2197,PT Surya Persada No. 2197,Kesehatan,Jawa Barat,2010
+COMP-2198,PT Nusantara Sentosa No. 2198,Konsumer Primer,Kalimantan Timur,2018
+COMP-2199,PT Artha Abadi No. 2199,Teknologi & Informasi,Sumatera Utara,2012
+COMP-2200,PT Utama Jaya No. 2200,Teknologi & Informasi,Kalimantan Timur,2021
+COMP-2201,PT Mega Abadi No. 2201,Teknologi & Informasi,Kalimantan Timur,2012
+COMP-2202,PT Surya Tbk No. 2202,Konsumer Primer,Sumatera Utara,2024
+COMP-2203,PT Citra Karya No. 2203,Energi & Pertambangan,Sulawesi Selatan,2024
+COMP-2204,PT Artha Sejahtera No. 2204,Infrastruktur,Jawa Timur,2015
+COMP-2205,PT Indo Energi No. 2205,Kesehatan,Jawa Barat,2019
+COMP-2206,PT Utama Tbk No. 2206,Teknologi & Informasi,Jawa Barat,2015
+COMP-2207,PT Surya Sejahtera No. 2207,Konsumer Primer,Sulawesi Selatan,2022
+COMP-2208,PT Artha Abadi No. 2208,Energi & Pertambangan,DKI Jakarta,2020
+COMP-2209,PT Mega Abadi No. 2209,Infrastruktur,Sulawesi Selatan,2020
+COMP-2210,PT Nusantara Energi No. 2210,Konsumer Primer,DKI Jakarta,2015
+COMP-2211,PT Indo Karya No. 2211,Kesehatan,DKI Jakarta,2022
+COMP-2212,PT Bumi Makmur No. 2212,Kesehatan,Sulawesi Selatan,2010
+COMP-2213,PT Utama Persada No. 2213,Infrastruktur,Jawa Barat,2014
+COMP-2214,PT Bumi Sentosa No. 2214,Teknologi & Informasi,Jawa Timur,2021
+COMP-2215,PT Bumi Lestari No. 2215,Kesehatan,Jawa Barat,2015
+COMP-2216,PT Surya Persada No. 2216,Energi & Pertambangan,Jawa Barat,2017
+COMP-2217,PT Artha Sejahtera No. 2217,Konsumer Primer,Jawa Barat,2022
+COMP-2218,PT Artha Karya No. 2218,Energi & Pertambangan,Sulawesi Selatan,2010
+COMP-2219,PT Mega Tbk No. 2219,Teknologi & Informasi,Sulawesi Selatan,2014
+COMP-2220,PT Surya Jaya No. 2220,Energi & Pertambangan,Sulawesi Selatan,2012
+COMP-2221,PT Surya Jaya No. 2221,Energi & Pertambangan,Jawa Barat,2011
+COMP-2222,PT Utama Jaya No. 2222,Keuangan,Jawa Timur,2020
+COMP-2223,PT Surya Jaya No. 2223,Energi & Pertambangan,DKI Jakarta,2017
+COMP-2224,PT Indo Abadi No. 2224,Infrastruktur,Kalimantan Timur,2016
+COMP-2225,PT Nusantara Sentosa No. 2225,Konsumer Primer,DKI Jakarta,2019
+COMP-2226,PT Artha Sejahtera No. 2226,Keuangan,DKI Jakarta,2016
+COMP-2227,PT Indo Lestari No. 2227,Konsumer Primer,Kalimantan Timur,2014
+COMP-2228,PT Artha Makmur No. 2228,Konsumer Primer,Jawa Barat,2021
+COMP-2229,PT Sumber Jaya No. 2229,Teknologi & Informasi,Jawa Timur,2022
+COMP-2230,PT Surya Abadi No. 2230,Teknologi & Informasi,Jawa Timur,2018
+COMP-2231,PT Sumber Makmur No. 2231,Keuangan,DKI Jakarta,2014
+COMP-2232,PT Utama Sejahtera No. 2232,Kesehatan,Kalimantan Timur,2011
+COMP-2233,PT Sumber Persada No. 2233,Teknologi & Informasi,Sumatera Utara,2012
+COMP-2234,PT Surya Jaya No. 2234,Teknologi & Informasi,Jawa Barat,2013
+COMP-2235,PT Citra Abadi No. 2235,Teknologi & Informasi,DKI Jakarta,2024
+COMP-2236,PT Nusantara Energi No. 2236,Konsumer Primer,Jawa Timur,2014
+COMP-2237,PT Utama Persada No. 2237,Keuangan,Sulawesi Selatan,2022
+COMP-2238,PT Bina Abadi No. 2238,Konsumer Primer,Sulawesi Selatan,2012
+COMP-2239,PT Indo Sejahtera No. 2239,Infrastruktur,Kalimantan Timur,2021
+COMP-2240,PT Surya Makmur No. 2240,Konsumer Primer,Kalimantan Timur,2023
+COMP-2241,PT Bina Lestari No. 2241,Infrastruktur,DKI Jakarta,2016
+COMP-2242,PT Bina Makmur No. 2242,Energi & Pertambangan,Sumatera Utara,2014
+COMP-2243,PT Citra Jaya No. 2243,Energi & Pertambangan,Jawa Timur,2014
+COMP-2244,PT Nusantara Persada No. 2244,Infrastruktur,DKI Jakarta,2015
+COMP-2245,PT Utama Abadi No. 2245,Infrastruktur,Sumatera Utara,2016
+COMP-2246,PT Nusantara Tbk No. 2246,Konsumer Primer,Kalimantan Timur,2019
+COMP-2247,PT Surya Sentosa No. 2247,Infrastruktur,Sulawesi Selatan,2019
+COMP-2248,PT Indo Sejahtera No. 2248,Keuangan,Jawa Barat,2017
+COMP-2249,PT Bumi Tbk No. 2249,Energi & Pertambangan,Sulawesi Selatan,2018
+COMP-2250,PT Sumber Karya No. 2250,Energi & Pertambangan,Jawa Timur,2020
+COMP-2251,PT Utama Tbk No. 2251,Kesehatan,Jawa Timur,2013
+COMP-2252,PT Citra Makmur No. 2252,Infrastruktur,Sulawesi Selatan,2014
+COMP-2253,PT Utama Abadi No. 2253,Teknologi & Informasi,Sulawesi Selatan,2024
+COMP-2254,PT Artha Tbk No. 2254,Teknologi & Informasi,Sumatera Utara,2014
+COMP-2255,PT Surya Energi No. 2255,Infrastruktur,DKI Jakarta,2017
+COMP-2256,PT Nusantara Sejahtera No. 2256,Keuangan,Kalimantan Timur,2018
+COMP-2257,PT Sumber Karya No. 2257,Teknologi & Informasi,Sumatera Utara,2016
+COMP-2258,PT Bina Persada No. 2258,Kesehatan,Jawa Barat,2024
+COMP-2259,PT Sumber Sentosa No. 2259,Infrastruktur,Sulawesi Selatan,2014
+COMP-2260,PT Utama Jaya No. 2260,Keuangan,Jawa Barat,2012
+COMP-2261,PT Bina Lestari No. 2261,Keuangan,Jawa Barat,2010
+COMP-2262,PT Sumber Jaya No. 2262,Konsumer Primer,Sumatera Utara,2020
+COMP-2263,PT Mega Karya No. 2263,Keuangan,Kalimantan Timur,2018
+COMP-2264,PT Citra Lestari No. 2264,Teknologi & Informasi,Jawa Timur,2014
+COMP-2265,PT Bumi Lestari No. 2265,Teknologi & Informasi,DKI Jakarta,2018
+COMP-2266,PT Sumber Jaya No. 2266,Infrastruktur,Jawa Timur,2019
+COMP-2267,PT Utama Jaya No. 2267,Infrastruktur,Kalimantan Timur,2024
+COMP-2268,PT Bina Lestari No. 2268,Keuangan,Jawa Timur,2021
+COMP-2269,PT Citra Persada No. 2269,Kesehatan,Sulawesi Selatan,2022
+COMP-2270,PT Citra Energi No. 2270,Energi & Pertambangan,Sulawesi Selatan,2023
+COMP-2271,PT Mega Sentosa No. 2271,Konsumer Primer,Sumatera Utara,2013
+COMP-2272,PT Bina Tbk No. 2272,Energi & Pertambangan,Jawa Barat,2014
+COMP-2273,PT Mega Persada No. 2273,Keuangan,Kalimantan Timur,2013
+COMP-2274,PT Artha Abadi No. 2274,Keuangan,Kalimantan Timur,2011
+COMP-2275,PT Sumber Sentosa No. 2275,Energi & Pertambangan,Jawa Timur,2021
+COMP-2276,PT Indo Makmur No. 2276,Konsumer Primer,Sumatera Utara,2010
+COMP-2277,PT Nusantara Sentosa No. 2277,Energi & Pertambangan,Jawa Timur,2017
+COMP-2278,PT Artha Energi No. 2278,Infrastruktur,Jawa Timur,2013
+COMP-2279,PT Sumber Sentosa No. 2279,Teknologi & Informasi,Kalimantan Timur,2014
+COMP-2280,PT Nusantara Energi No. 2280,Kesehatan,Jawa Timur,2015
+COMP-2281,PT Nusantara Jaya No. 2281,Infrastruktur,Jawa Barat,2023
+COMP-2282,PT Indo Jaya No. 2282,Teknologi & Informasi,Jawa Timur,2017
+COMP-2283,PT Bumi Abadi No. 2283,Kesehatan,Jawa Barat,2020
+COMP-2284,PT Surya Jaya No. 2284,Kesehatan,Kalimantan Timur,2017
+COMP-2285,PT Indo Abadi No. 2285,Kesehatan,Sumatera Utara,2016
+COMP-2286,PT Mega Energi No. 2286,Keuangan,Sulawesi Selatan,2013
+COMP-2287,PT Bina Abadi No. 2287,Kesehatan,Jawa Barat,2015
+COMP-2288,PT Bumi Lestari No. 2288,Konsumer Primer,Sumatera Utara,2013
+COMP-2289,PT Bumi Energi No. 2289,Energi & Pertambangan,Sumatera Utara,2024
+COMP-2290,PT Utama Makmur No. 2290,Konsumer Primer,Jawa Barat,2023
+COMP-2291,PT Bumi Sejahtera No. 2291,Energi & Pertambangan,Kalimantan Timur,2016
+COMP-2292,PT Mega Abadi No. 2292,Infrastruktur,DKI Jakarta,2021
+COMP-2293,PT Nusantara Jaya No. 2293,Infrastruktur,Sumatera Utara,2022
+COMP-2294,PT Citra Sentosa No. 2294,Energi & Pertambangan,Sumatera Utara,2021
+COMP-2295,PT Bina Sentosa No. 2295,Konsumer Primer,Kalimantan Timur,2024
+COMP-2296,PT Indo Sejahtera No. 2296,Energi & Pertambangan,Kalimantan Timur,2022
+COMP-2297,PT Utama Sentosa No. 2297,Kesehatan,Jawa Timur,2022
+COMP-2298,PT Nusantara Tbk No. 2298,Keuangan,Kalimantan Timur,2020
+COMP-2299,PT Artha Tbk No. 2299,Infrastruktur,Sumatera Utara,2023
+COMP-2300,PT Sumber Energi No. 2300,Keuangan,Jawa Barat,2010
+COMP-2301,PT Citra Makmur No. 2301,Kesehatan,DKI Jakarta,2014
+COMP-2302,PT Bina Energi No. 2302,Kesehatan,Jawa Timur,2024
+COMP-2303,PT Bina Tbk No. 2303,Infrastruktur,Jawa Barat,2023
+COMP-2304,PT Surya Jaya No. 2304,Infrastruktur,DKI Jakarta,2019
+COMP-2305,PT Nusantara Jaya No. 2305,Kesehatan,DKI Jakarta,2021
+COMP-2306,PT Indo Karya No. 2306,Teknologi & Informasi,DKI Jakarta,2024
+COMP-2307,PT Utama Energi No. 2307,Keuangan,Sulawesi Selatan,2019
+COMP-2308,PT Nusantara Persada No. 2308,Keuangan,Jawa Barat,2024
+COMP-2309,PT Mega Sejahtera No. 2309,Teknologi & Informasi,Jawa Timur,2013
+COMP-2310,PT Surya Abadi No. 2310,Konsumer Primer,Jawa Timur,2020
+COMP-2311,PT Surya Lestari No. 2311,Keuangan,DKI Jakarta,2016
+COMP-2312,PT Sumber Makmur No. 2312,Energi & Pertambangan,Jawa Barat,2022
+COMP-2313,PT Sumber Sejahtera No. 2313,Kesehatan,Sulawesi Selatan,2018
+COMP-2314,PT Citra Lestari No. 2314,Kesehatan,DKI Jakarta,2014
+COMP-2315,PT Surya Tbk No. 2315,Teknologi & Informasi,Kalimantan Timur,2013
+COMP-2316,PT Nusantara Karya No. 2316,Keuangan,Jawa Timur,2024
+COMP-2317,PT Citra Jaya No. 2317,Konsumer Primer,Sumatera Utara,2018
+COMP-2318,PT Nusantara Sejahtera No. 2318,Keuangan,DKI Jakarta,2014
+COMP-2319,PT Citra Makmur No. 2319,Kesehatan,Kalimantan Timur,2018
+COMP-2320,PT Surya Karya No. 2320,Infrastruktur,Jawa Timur,2017
+COMP-2321,PT Utama Energi No. 2321,Energi & Pertambangan,Sulawesi Selatan,2013
+COMP-2322,PT Sumber Karya No. 2322,Teknologi & Informasi,Jawa Barat,2020
+COMP-2323,PT Surya Lestari No. 2323,Infrastruktur,Jawa Timur,2020
+COMP-2324,PT Bumi Lestari No. 2324,Konsumer Primer,Jawa Barat,2016
+COMP-2325,PT Utama Sejahtera No. 2325,Infrastruktur,Jawa Barat,2014
+COMP-2326,PT Citra Sentosa No. 2326,Infrastruktur,Sulawesi Selatan,2019
+COMP-2327,PT Artha Lestari No. 2327,Konsumer Primer,Sulawesi Selatan,2013
+COMP-2328,PT Indo Energi No. 2328,Infrastruktur,DKI Jakarta,2014
+COMP-2329,PT Artha Persada No. 2329,Teknologi & Informasi,DKI Jakarta,2014
+COMP-2330,PT Artha Persada No. 2330,Kesehatan,Jawa Timur,2020
+COMP-2331,PT Nusantara Tbk No. 2331,Keuangan,Sulawesi Selatan,2024
+COMP-2332,PT Artha Abadi No. 2332,Infrastruktur,Kalimantan Timur,2018
+COMP-2333,PT Citra Persada No. 2333,Teknologi & Informasi,Jawa Timur,2021
+COMP-2334,PT Citra Jaya No. 2334,Keuangan,Sumatera Utara,2018
+COMP-2335,PT Surya Energi No. 2335,Keuangan,Jawa Barat,2015
+COMP-2336,PT Indo Makmur No. 2336,Infrastruktur,Jawa Barat,2023
+COMP-2337,PT Surya Energi No. 2337,Teknologi & Informasi,DKI Jakarta,2013
+COMP-2338,PT Surya Jaya No. 2338,Kesehatan,Kalimantan Timur,2024
+COMP-2339,PT Bumi Sentosa No. 2339,Infrastruktur,Sulawesi Selatan,2011
+COMP-2340,PT Sumber Tbk No. 2340,Konsumer Primer,Sulawesi Selatan,2023
+COMP-2341,PT Surya Jaya No. 2341,Keuangan,DKI Jakarta,2012
+COMP-2342,PT Utama Tbk No. 2342,Infrastruktur,Sumatera Utara,2011
+COMP-2343,PT Bumi Karya No. 2343,Keuangan,Jawa Timur,2014
+COMP-2344,PT Indo Jaya No. 2344,Teknologi & Informasi,Jawa Timur,2015
+COMP-2345,PT Sumber Persada No. 2345,Energi & Pertambangan,Kalimantan Timur,2020
+COMP-2346,PT Bina Persada No. 2346,Infrastruktur,DKI Jakarta,2014
+COMP-2347,PT Artha Jaya No. 2347,Kesehatan,DKI Jakarta,2011
+COMP-2348,PT Indo Karya No. 2348,Infrastruktur,Sumatera Utara,2021
+COMP-2349,PT Citra Jaya No. 2349,Keuangan,Jawa Timur,2014
+COMP-2350,PT Mega Karya No. 2350,Teknologi & Informasi,DKI Jakarta,2018
+COMP-2351,PT Indo Energi No. 2351,Konsumer Primer,Sulawesi Selatan,2013
+COMP-2352,PT Citra Tbk No. 2352,Kesehatan,Kalimantan Timur,2021
+COMP-2353,PT Mega Persada No. 2353,Teknologi & Informasi,Jawa Timur,2019
+COMP-2354,PT Bumi Abadi No. 2354,Infrastruktur,Sumatera Utara,2011
+COMP-2355,PT Bumi Sentosa No. 2355,Konsumer Primer,Kalimantan Timur,2012
+COMP-2356,PT Utama Sentosa No. 2356,Teknologi & Informasi,Jawa Barat,2012
+COMP-2357,PT Utama Abadi No. 2357,Energi & Pertambangan,Sulawesi Selatan,2018
+COMP-2358,PT Nusantara Lestari No. 2358,Kesehatan,Sumatera Utara,2013
+COMP-2359,PT Bina Makmur No. 2359,Keuangan,Kalimantan Timur,2024
+COMP-2360,PT Citra Persada No. 2360,Teknologi & Informasi,DKI Jakarta,2010
+COMP-2361,PT Mega Tbk No. 2361,Teknologi & Informasi,Jawa Barat,2010
+COMP-2362,PT Artha Energi No. 2362,Energi & Pertambangan,Sumatera Utara,2024
+COMP-2363,PT Artha Lestari No. 2363,Infrastruktur,DKI Jakarta,2016
+COMP-2364,PT Mega Energi No. 2364,Kesehatan,Sulawesi Selatan,2016
+COMP-2365,PT Artha Lestari No. 2365,Kesehatan,Jawa Barat,2011
+COMP-2366,PT Indo Persada No. 2366,Keuangan,Jawa Timur,2018
+COMP-2367,PT Artha Tbk No. 2367,Teknologi & Informasi,DKI Jakarta,2018
+COMP-2368,PT Mega Jaya No. 2368,Konsumer Primer,Kalimantan Timur,2014
+COMP-2369,PT Bina Persada No. 2369,Teknologi & Informasi,Sumatera Utara,2024
+COMP-2370,PT Mega Lestari No. 2370,Keuangan,Jawa Barat,2024
+COMP-2371,PT Nusantara Abadi No. 2371,Teknologi & Informasi,DKI Jakarta,2012
+COMP-2372,PT Artha Makmur No. 2372,Energi & Pertambangan,Jawa Timur,2012
+COMP-2373,PT Mega Karya No. 2373,Teknologi & Informasi,Sumatera Utara,2021
+COMP-2374,PT Sumber Jaya No. 2374,Teknologi & Informasi,Sumatera Utara,2012
+COMP-2375,PT Utama Karya No. 2375,Konsumer Primer,DKI Jakarta,2015
+COMP-2376,PT Surya Makmur No. 2376,Energi & Pertambangan,Jawa Timur,2013
+COMP-2377,PT Indo Tbk No. 2377,Energi & Pertambangan,Sulawesi Selatan,2017
+COMP-2378,PT Artha Energi No. 2378,Teknologi & Informasi,Sulawesi Selatan,2024
+COMP-2379,PT Surya Abadi No. 2379,Kesehatan,Jawa Barat,2022
+COMP-2380,PT Mega Persada No. 2380,Konsumer Primer,DKI Jakarta,2020
+COMP-2381,PT Mega Abadi No. 2381,Teknologi & Informasi,Jawa Barat,2022
+COMP-2382,PT Mega Jaya No. 2382,Teknologi & Informasi,Sulawesi Selatan,2020
+COMP-2383,PT Sumber Sejahtera No. 2383,Keuangan,Sumatera Utara,2020
+COMP-2384,PT Bina Makmur No. 2384,Keuangan,Jawa Barat,2014
+COMP-2385,PT Nusantara Jaya No. 2385,Kesehatan,Jawa Timur,2010
+COMP-2386,PT Citra Abadi No. 2386,Konsumer Primer,Kalimantan Timur,2018
+COMP-2387,PT Indo Jaya No. 2387,Infrastruktur,Sulawesi Selatan,2010
+COMP-2388,PT Sumber Persada No. 2388,Keuangan,Sulawesi Selatan,2015
+COMP-2389,PT Bina Abadi No. 2389,Infrastruktur,Jawa Timur,2010
+COMP-2390,PT Indo Sejahtera No. 2390,Energi & Pertambangan,Jawa Barat,2012
+COMP-2391,PT Surya Makmur No. 2391,Keuangan,DKI Jakarta,2024
+COMP-2392,PT Utama Sentosa No. 2392,Keuangan,Sumatera Utara,2019
+COMP-2393,PT Bina Energi No. 2393,Konsumer Primer,Kalimantan Timur,2014
+COMP-2394,PT Utama Lestari No. 2394,Kesehatan,DKI Jakarta,2024
+COMP-2395,PT Surya Sejahtera No. 2395,Infrastruktur,DKI Jakarta,2019
+COMP-2396,PT Nusantara Energi No. 2396,Keuangan,Jawa Timur,2016
+COMP-2397,PT Bina Persada No. 2397,Keuangan,Jawa Barat,2023
+COMP-2398,PT Sumber Persada No. 2398,Konsumer Primer,Sulawesi Selatan,2019
+COMP-2399,PT Mega Energi No. 2399,Konsumer Primer,Sulawesi Selatan,2017
+COMP-2400,PT Sumber Lestari No. 2400,Kesehatan,Jawa Timur,2021
+COMP-2401,PT Citra Jaya No. 2401,Infrastruktur,Jawa Barat,2018
+COMP-2402,PT Nusantara Energi No. 2402,Energi & Pertambangan,Jawa Timur,2015
+COMP-2403,PT Sumber Persada No. 2403,Kesehatan,Sulawesi Selatan,2024
+COMP-2404,PT Nusantara Lestari No. 2404,Energi & Pertambangan,DKI Jakarta,2020
+COMP-2405,PT Nusantara Lestari No. 2405,Teknologi & Informasi,Sumatera Utara,2018
+COMP-2406,PT Citra Jaya No. 2406,Keuangan,Jawa Barat,2017
+COMP-2407,PT Sumber Energi No. 2407,Infrastruktur,Kalimantan Timur,2018
+COMP-2408,PT Mega Jaya No. 2408,Kesehatan,Kalimantan Timur,2019
+COMP-2409,PT Citra Lestari No. 2409,Keuangan,DKI Jakarta,2013
+COMP-2410,PT Mega Lestari No. 2410,Infrastruktur,Jawa Timur,2018
+COMP-2411,PT Indo Energi No. 2411,Infrastruktur,Jawa Timur,2024
+COMP-2412,PT Utama Tbk No. 2412,Infrastruktur,Sulawesi Selatan,2016
+COMP-2413,PT Bumi Persada No. 2413,Keuangan,DKI Jakarta,2014
+COMP-2414,PT Mega Persada No. 2414,Kesehatan,Sulawesi Selatan,2014
+COMP-2415,PT Artha Lestari No. 2415,Konsumer Primer,Sulawesi Selatan,2010
+COMP-2416,PT Sumber Makmur No. 2416,Keuangan,Kalimantan Timur,2011
+COMP-2417,PT Bumi Sentosa No. 2417,Infrastruktur,Sulawesi Selatan,2019
+COMP-2418,PT Nusantara Tbk No. 2418,Kesehatan,Sulawesi Selatan,2012
+COMP-2419,PT Utama Abadi No. 2419,Teknologi & Informasi,Kalimantan Timur,2023
+COMP-2420,PT Citra Karya No. 2420,Energi & Pertambangan,Jawa Timur,2023
+COMP-2421,PT Nusantara Karya No. 2421,Infrastruktur,Jawa Barat,2017
+COMP-2422,PT Citra Sentosa No. 2422,Teknologi & Informasi,Sumatera Utara,2015
+COMP-2423,PT Artha Karya No. 2423,Konsumer Primer,Sulawesi Selatan,2021
+COMP-2424,PT Indo Jaya No. 2424,Infrastruktur,Jawa Barat,2019
+COMP-2425,PT Surya Energi No. 2425,Teknologi & Informasi,Kalimantan Timur,2020
+COMP-2426,PT Utama Makmur No. 2426,Infrastruktur,Jawa Barat,2022
+COMP-2427,PT Nusantara Karya No. 2427,Keuangan,Sumatera Utara,2024
+COMP-2428,PT Artha Lestari No. 2428,Kesehatan,Jawa Barat,2023
+COMP-2429,PT Indo Sejahtera No. 2429,Teknologi & Informasi,Jawa Barat,2014
+COMP-2430,PT Artha Jaya No. 2430,Kesehatan,Jawa Barat,2022
+COMP-2431,PT Artha Persada No. 2431,Keuangan,Jawa Barat,2010
+COMP-2432,PT Bumi Karya No. 2432,Keuangan,DKI Jakarta,2021
+COMP-2433,PT Sumber Jaya No. 2433,Kesehatan,Sulawesi Selatan,2020
+COMP-2434,PT Surya Tbk No. 2434,Teknologi & Informasi,Kalimantan Timur,2021
+COMP-2435,PT Utama Makmur No. 2435,Kesehatan,Sumatera Utara,2018
+COMP-2436,PT Surya Abadi No. 2436,Kesehatan,Kalimantan Timur,2012
+COMP-2437,PT Surya Karya No. 2437,Energi & Pertambangan,DKI Jakarta,2012
+COMP-2438,PT Utama Persada No. 2438,Teknologi & Informasi,DKI Jakarta,2011
+COMP-2439,PT Bina Karya No. 2439,Energi & Pertambangan,DKI Jakarta,2013
+COMP-2440,PT Indo Lestari No. 2440,Infrastruktur,Sulawesi Selatan,2021
+COMP-2441,PT Bumi Makmur No. 2441,Kesehatan,DKI Jakarta,2011
+COMP-2442,PT Mega Sejahtera No. 2442,Infrastruktur,Jawa Barat,2022
+COMP-2443,PT Utama Makmur No. 2443,Teknologi & Informasi,Kalimantan Timur,2018
+COMP-2444,PT Utama Sejahtera No. 2444,Kesehatan,Jawa Timur,2021
+COMP-2445,PT Sumber Jaya No. 2445,Infrastruktur,Sumatera Utara,2019
+COMP-2446,PT Indo Sentosa No. 2446,Konsumer Primer,DKI Jakarta,2016
+COMP-2447,PT Utama Lestari No. 2447,Keuangan,Kalimantan Timur,2017
+COMP-2448,PT Indo Makmur No. 2448,Kesehatan,DKI Jakarta,2012
+COMP-2449,PT Surya Persada No. 2449,Keuangan,Sulawesi Selatan,2015
+COMP-2450,PT Bina Sejahtera No. 2450,Energi & Pertambangan,DKI Jakarta,2024
+COMP-2451,PT Indo Sentosa No. 2451,Infrastruktur,DKI Jakarta,2019
+COMP-2452,PT Sumber Jaya No. 2452,Energi & Pertambangan,DKI Jakarta,2015
+COMP-2453,PT Citra Persada No. 2453,Kesehatan,DKI Jakarta,2022
+COMP-2454,PT Nusantara Sentosa No. 2454,Keuangan,Sumatera Utara,2010
+COMP-2455,PT Artha Energi No. 2455,Keuangan,Kalimantan Timur,2015
+COMP-2456,PT Bina Karya No. 2456,Infrastruktur,Sulawesi Selatan,2022
+COMP-2457,PT Mega Lestari No. 2457,Kesehatan,DKI Jakarta,2023
+COMP-2458,PT Surya Lestari No. 2458,Konsumer Primer,DKI Jakarta,2012
+COMP-2459,PT Citra Lestari No. 2459,Konsumer Primer,DKI Jakarta,2020
+COMP-2460,PT Nusantara Sentosa No. 2460,Infrastruktur,DKI Jakarta,2012
+COMP-2461,PT Sumber Abadi No. 2461,Kesehatan,Jawa Barat,2012
+COMP-2462,PT Indo Karya No. 2462,Infrastruktur,Jawa Barat,2019
+COMP-2463,PT Bina Abadi No. 2463,Kesehatan,Jawa Timur,2020
+COMP-2464,PT Nusantara Makmur No. 2464,Energi & Pertambangan,DKI Jakarta,2024
+COMP-2465,PT Nusantara Tbk No. 2465,Infrastruktur,Jawa Timur,2020
+COMP-2466,PT Bina Abadi No. 2466,Kesehatan,Sumatera Utara,2024
+COMP-2467,PT Indo Karya No. 2467,Konsumer Primer,Jawa Timur,2019
+COMP-2468,PT Mega Sentosa No. 2468,Kesehatan,Kalimantan Timur,2020
+COMP-2469,PT Utama Tbk No. 2469,Kesehatan,Jawa Barat,2017
+COMP-2470,PT Bumi Jaya No. 2470,Infrastruktur,Jawa Barat,2022
+COMP-2471,PT Bina Persada No. 2471,Energi & Pertambangan,DKI Jakarta,2014
+COMP-2472,PT Indo Tbk No. 2472,Energi & Pertambangan,DKI Jakarta,2013
+COMP-2473,PT Indo Abadi No. 2473,Energi & Pertambangan,Sumatera Utara,2022
+COMP-2474,PT Bina Tbk No. 2474,Energi & Pertambangan,Sulawesi Selatan,2018
+COMP-2475,PT Citra Sentosa No. 2475,Teknologi & Informasi,Sumatera Utara,2018
+COMP-2476,PT Bumi Persada No. 2476,Infrastruktur,Kalimantan Timur,2010
+COMP-2477,PT Citra Sejahtera No. 2477,Keuangan,DKI Jakarta,2011
+COMP-2478,PT Mega Lestari No. 2478,Infrastruktur,DKI Jakarta,2017
+COMP-2479,PT Utama Abadi No. 2479,Teknologi & Informasi,Sumatera Utara,2014
+COMP-2480,PT Nusantara Makmur No. 2480,Energi & Pertambangan,Sumatera Utara,2016
+COMP-2481,PT Bina Persada No. 2481,Teknologi & Informasi,Sumatera Utara,2010
+COMP-2482,PT Bumi Lestari No. 2482,Konsumer Primer,Jawa Barat,2021
+COMP-2483,PT Nusantara Karya No. 2483,Konsumer Primer,Jawa Timur,2019
+COMP-2484,PT Bumi Karya No. 2484,Infrastruktur,Jawa Timur,2021
+COMP-2485,PT Mega Persada No. 2485,Infrastruktur,DKI Jakarta,2014
+COMP-2486,PT Sumber Tbk No. 2486,Keuangan,Jawa Barat,2020
+COMP-2487,PT Indo Sentosa No. 2487,Keuangan,Sumatera Utara,2021
+COMP-2488,PT Utama Lestari No. 2488,Konsumer Primer,DKI Jakarta,2012
+COMP-2489,PT Bumi Persada No. 2489,Energi & Pertambangan,Jawa Barat,2019
+COMP-2490,PT Surya Abadi No. 2490,Teknologi & Informasi,Kalimantan Timur,2021
+COMP-2491,PT Utama Jaya No. 2491,Keuangan,Sulawesi Selatan,2021
+COMP-2492,PT Nusantara Energi No. 2492,Kesehatan,Jawa Barat,2023
+COMP-2493,PT Surya Sentosa No. 2493,Keuangan,DKI Jakarta,2011
+COMP-2494,PT Mega Jaya No. 2494,Energi & Pertambangan,Jawa Timur,2011
+COMP-2495,PT Mega Persada No. 2495,Energi & Pertambangan,Sumatera Utara,2018
+COMP-2496,PT Artha Lestari No. 2496,Infrastruktur,Sulawesi Selatan,2022
+COMP-2497,PT Mega Abadi No. 2497,Teknologi & Informasi,Kalimantan Timur,2013
+COMP-2498,PT Indo Abadi No. 2498,Energi & Pertambangan,Sulawesi Selatan,2013
+COMP-2499,PT Artha Sejahtera No. 2499,Keuangan,Sulawesi Selatan,2016
+COMP-2500,PT Citra Sentosa No. 2500,Keuangan,Jawa Barat,2019

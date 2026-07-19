@@ -1,0 +1,922 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ESG Data Mart — Dashboard Pelaporan</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.3/chart.umd.min.js"></script>
+<style>
+  :root{
+    --bg:            #0E1A16;
+    --bg-alt:        #0B1512;
+    --surface:       #16241F;
+    --surface-hi:    #1D2F28;
+    --line:          #26382F;
+    --text:          #EDF2EF;
+    --text-muted:    #8FA39A;
+    --text-faint:    #5C7268;
+    --env:           #4F9D6E;
+    --env-soft:      rgba(79,157,110,0.16);
+    --soc:           #4A85B8;
+    --soc-soft:      rgba(74,133,184,0.16);
+    --gov:           #C9A036;
+    --gov-soft:      rgba(201,160,54,0.16);
+    --danger:        #C1554A;
+    --danger-soft:   rgba(193,85,74,0.16);
+    --radius:        14px;
+  }
+  *{ box-sizing:border-box; }
+  html{ scroll-behavior:smooth; }
+  body{
+    margin:0;
+    background:
+      radial-gradient(1100px 500px at 85% -10%, rgba(79,157,110,0.10), transparent 60%),
+      radial-gradient(900px 500px at -5% 10%, rgba(74,133,184,0.08), transparent 55%),
+      var(--bg);
+    color:var(--text);
+    font-family:'Inter', system-ui, sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{ max-width:1180px; margin:0 auto; padding:0 28px 90px; }
+
+  /* ---------- HERO ---------- */
+  .hero{ padding:64px 0 40px; border-bottom:1px solid var(--line); margin-bottom:40px; }
+  .eyebrow{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12.5px; letter-spacing:0.12em; text-transform:uppercase;
+    color:var(--text-muted); display:flex; align-items:center; gap:10px; margin-bottom:18px;
+  }
+  .eyebrow .dot{ width:7px; height:7px; border-radius:50%; background:var(--env); box-shadow:0 0 0 3px var(--env-soft); }
+  h1{
+    font-family:'Fraunces', serif; font-weight:600; font-size:44px; line-height:1.12;
+    margin:0 0 16px; letter-spacing:-0.01em; max-width:800px;
+  }
+  h1 em{ font-style:italic; font-weight:400; color:var(--text-muted); }
+  .hero p.lede{
+    font-size:16.5px; line-height:1.65; color:var(--text-muted); max-width:620px; margin:0 0 36px;
+  }
+  .pillars{ display:flex; gap:10px; flex-wrap:wrap; margin-bottom:8px; }
+  .pillar-tag{
+    font-family:'IBM Plex Mono', monospace; font-size:11.5px; letter-spacing:0.04em;
+    padding:6px 12px; border-radius:100px; display:flex; align-items:center; gap:7px;
+    border:1px solid var(--line);
+  }
+  .pillar-tag .sw{ width:8px; height:8px; border-radius:2px; }
+  .pillar-tag.e .sw{ background:var(--env); } .pillar-tag.e{ color:var(--env); }
+  .pillar-tag.s .sw{ background:var(--soc); } .pillar-tag.s{ color:var(--soc); }
+  .pillar-tag.g .sw{ background:var(--gov); } .pillar-tag.g{ color:var(--gov); }
+
+  /* ---------- KPI STRIP ---------- */
+  .kpi-grid{
+    display:grid; grid-template-columns:repeat(4, 1fr); gap:1px;
+    background:var(--line); border:1px solid var(--line); border-radius:var(--radius);
+    overflow:hidden; margin-bottom:56px;
+  }
+  .kpi{ background:var(--surface); padding:24px 22px; }
+  .kpi .label{ font-size:12px; color:var(--text-muted); margin-bottom:10px; letter-spacing:0.02em; }
+  .kpi .value{
+    font-family:'IBM Plex Mono', monospace; font-weight:600; font-size:28px; color:var(--text);
+    letter-spacing:-0.01em;
+  }
+  .kpi .value .unit{ font-size:14px; color:var(--text-faint); margin-left:3px; font-weight:400; }
+  .kpi .sub{ font-size:12px; color:var(--text-faint); margin-top:6px; }
+
+  /* ---------- SECTION SCAFFOLDING ---------- */
+  section{ margin-bottom:58px; }
+  .section-head{ display:flex; justify-content:space-between; align-items:flex-end; margin-bottom:22px; gap:20px; flex-wrap:wrap; }
+  .section-head h2{
+    font-family:'Fraunces', serif; font-weight:600; font-size:23px; margin:0 0 6px; letter-spacing:-0.005em;
+  }
+  .section-head .num{ color:var(--text-faint); font-family:'IBM Plex Mono',monospace; font-weight:400; margin-right:10px; font-size:19px; }
+  .section-head p{ margin:0; color:var(--text-muted); font-size:13.5px; max-width:480px; }
+
+  .card{
+    background:var(--surface); border:1px solid var(--line); border-radius:var(--radius);
+    padding:24px;
+  }
+  .grid-2{ display:grid; grid-template-columns:1.3fr 1fr; gap:20px; }
+  .grid-3{ display:grid; grid-template-columns:repeat(3,1fr); gap:20px; }
+  @media (max-width:860px){
+    .grid-2, .grid-3{ grid-template-columns:1fr; }
+    .kpi-grid{ grid-template-columns:repeat(2,1fr); }
+    h1{ font-size:32px; }
+  }
+
+  canvas{ max-width:100%; }
+
+  /* ---------- LEADERBOARD TABLES ---------- */
+  table{ width:100%; border-collapse:collapse; font-size:13.5px; }
+  thead th{
+    text-align:left; font-family:'IBM Plex Mono', monospace; font-size:10.5px; letter-spacing:0.06em;
+    text-transform:uppercase; color:var(--text-faint); font-weight:500; padding:0 10px 10px; border-bottom:1px solid var(--line);
+  }
+  tbody td{ padding:10px 10px; border-bottom:1px solid var(--line); }
+  tbody tr:last-child td{ border-bottom:none; }
+  .rank{ font-family:'IBM Plex Mono', monospace; color:var(--text-faint); width:26px; }
+  .company{ font-weight:500; }
+  .sector-tag{ color:var(--text-muted); font-size:12px; }
+  .score{ font-family:'IBM Plex Mono', monospace; text-align:right; font-weight:600; }
+  .rating-chip{
+    font-family:'IBM Plex Mono', monospace; font-size:11px; padding:2px 8px; border-radius:5px; font-weight:600;
+  }
+  .rating-AAA, .rating-AA{ background:var(--env-soft); color:var(--env); }
+  .rating-A{ background:var(--soc-soft); color:var(--soc); }
+  .rating-BBB{ background:var(--gov-soft); color:var(--gov); }
+  .rating-BB{ background:var(--danger-soft); color:var(--danger); }
+
+  footer{
+    border-top:1px solid var(--line); margin-top:60px; padding-top:26px;
+    display:flex; justify-content:space-between; flex-wrap:wrap; gap:12px;
+    font-size:12.5px; color:var(--text-faint); font-family:'IBM Plex Mono', monospace;
+  }
+  footer a{ color:var(--text-muted); }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="hero">
+    <div class="eyebrow"><span class="dot"></span> ESG DATA MART · LAPORAN RINGKASAN PORTOFOLIO</div>
+    <h1>Kondisi kepatuhan &amp; kinerja ESG <em>2.500 perusahaan</em>, dalam satu pandangan.</h1>
+    <p class="lede">Dashboard ini dibangun langsung dari star schema data mart — menampilkan skor ESG, distribusi peringkat, tren tahunan, dan biaya mitigasi lintas sektor &amp; wilayah operasional.</p>
+    <div class="pillars">
+      <span class="pillar-tag e"><span class="sw"></span>Environmental</span>
+      <span class="pillar-tag s"><span class="sw"></span>Social</span>
+      <span class="pillar-tag g"><span class="sw"></span>Governance</span>
+    </div>
+  </div>
+
+  <div class="kpi-grid" id="kpiGrid"></div>
+
+  <section>
+    <div class="section-head">
+      <div><h2><span class="num">01</span>Tren Rata-rata Skor ESG per Sektor</h2>
+      <p>Rata-rata total skor ESG (0–100) tiap sektor pada setiap tahun evaluasi, 2022–2026.</p></div>
+    </div>
+    <div class="card"><canvas id="chartTren" height="90"></canvas></div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <div><h2><span class="num">02</span>Peringkat Terbaik &amp; Terendah</h2>
+      <p>10 perusahaan dengan skor ESG tertinggi dan terendah pada tahun evaluasi terakhir.</p></div>
+    </div>
+    <div class="grid-2">
+      <div class="card">
+        <table>
+          <thead><tr><th></th><th>Perusahaan</th><th style="text-align:right">Skor</th><th style="text-align:right">Peringkat</th></tr></thead>
+          <tbody id="tblTop"></tbody>
+        </table>
+      </div>
+      <div class="card">
+        <table>
+          <thead><tr><th></th><th>Perusahaan</th><th style="text-align:right">Skor</th><th style="text-align:right">Peringkat</th></tr></thead>
+          <tbody id="tblBottom"></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <div><h2><span class="num">03</span>Kepatuhan per Pilar ESG</h2>
+      <p>Persentase catatan aktivitas berstatus "Patuh" pada masing-masing pilar Environmental, Social, dan Governance.</p></div>
+    </div>
+    <div class="grid-3" id="pillarCards"></div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <div><h2><span class="num">04</span>Kepatuhan Bulanan &amp; Rata-rata Skor per Wilayah</h2>
+      <p>Pola musiman tingkat kepatuhan sepanjang tahun, serta perbandingan rata-rata skor ESG antar wilayah operasional.</p></div>
+    </div>
+    <div class="grid-2">
+      <div class="card"><canvas id="chartBulanan" height="130"></canvas></div>
+      <div class="card"><canvas id="chartWilayah" height="130"></canvas></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <div><h2><span class="num">05</span>Total Biaya Mitigasi per Sektor</h2>
+      <p>Akumulasi biaya mitigasi (IDR) yang dikeluarkan tiap sektor sepanjang periode data.</p></div>
+    </div>
+    <div class="card"><canvas id="chartBiaya" height="90"></canvas></div>
+  </section>
+
+  <footer>
+    <span>ESG Data Mart Project · Dibangun dengan SQLite, Python ETL &amp; SQL analitis</span>
+    <span>Disusun oleh Muhammad Zidane Alhalita</span>
+  </footer>
+</div>
+
+<script>
+/* ============ DATA (embedded — hasil query dari esg_data_mart.db) ============ */
+const DASHBOARD_DATA = {
+  "kpi": {
+    "total_perusahaan": 2500,
+    "total_sektor": 6,
+    "total_wilayah": 6,
+    "avg_skor": 77.0,
+    "persen_patuh": 63.8,
+    "total_biaya": 637612549715
+  },
+  "top10": [
+    {
+      "nama_perusahaan": "PT Bumi Persada No. 2476",
+      "sektor": "Infrastruktur",
+      "total_skor_esg": 97.0,
+      "peringkat_esg": "AAA"
+    },
+    {
+      "nama_perusahaan": "PT Surya Makmur No. 729",
+      "sektor": "Teknologi & Informasi",
+      "total_skor_esg": 96.33,
+      "peringkat_esg": "AAA"
+    },
+    {
+      "nama_perusahaan": "PT Artha Lestari No. 186",
+      "sektor": "Kesehatan",
+      "total_skor_esg": 94.67,
+      "peringkat_esg": "AAA"
+    },
+    {
+      "nama_perusahaan": "PT Nusantara Persada No. 981",
+      "sektor": "Teknologi & Informasi",
+      "total_skor_esg": 94.67,
+      "peringkat_esg": "AAA"
+    },
+    {
+      "nama_perusahaan": "PT Utama Sentosa No. 679",
+      "sektor": "Infrastruktur",
+      "total_skor_esg": 94.67,
+      "peringkat_esg": "AAA"
+    },
+    {
+      "nama_perusahaan": "PT Surya Lestari No. 425",
+      "sektor": "Energi & Pertambangan",
+      "total_skor_esg": 94.33,
+      "peringkat_esg": "AAA"
+    },
+    {
+      "nama_perusahaan": "PT Indo Sejahtera No. 485",
+      "sektor": "Infrastruktur",
+      "total_skor_esg": 94.0,
+      "peringkat_esg": "AAA"
+    },
+    {
+      "nama_perusahaan": "PT Bina Karya No. 1400",
+      "sektor": "Energi & Pertambangan",
+      "total_skor_esg": 94.0,
+      "peringkat_esg": "AAA"
+    },
+    {
+      "nama_perusahaan": "PT Bina Karya No. 1388",
+      "sektor": "Teknologi & Informasi",
+      "total_skor_esg": 93.67,
+      "peringkat_esg": "AAA"
+    },
+    {
+      "nama_perusahaan": "PT Bumi Sejahtera No. 2001",
+      "sektor": "Kesehatan",
+      "total_skor_esg": 93.33,
+      "peringkat_esg": "AAA"
+    }
+  ],
+  "bottom10": [
+    {
+      "nama_perusahaan": "PT Citra Makmur No. 957",
+      "sektor": "Kesehatan",
+      "total_skor_esg": 59.33,
+      "peringkat_esg": "BB"
+    },
+    {
+      "nama_perusahaan": "PT Bina Energi No. 1048",
+      "sektor": "Kesehatan",
+      "total_skor_esg": 59.67,
+      "peringkat_esg": "BB"
+    },
+    {
+      "nama_perusahaan": "PT Citra Sentosa No. 705",
+      "sektor": "Keuangan",
+      "total_skor_esg": 60.33,
+      "peringkat_esg": "BBB"
+    },
+    {
+      "nama_perusahaan": "PT Bumi Lestari No. 1078",
+      "sektor": "Energi & Pertambangan",
+      "total_skor_esg": 60.33,
+      "peringkat_esg": "BBB"
+    },
+    {
+      "nama_perusahaan": "PT Artha Makmur No. 1479",
+      "sektor": "Konsumer Primer",
+      "total_skor_esg": 60.33,
+      "peringkat_esg": "BBB"
+    },
+    {
+      "nama_perusahaan": "PT Sumber Jaya No. 1308",
+      "sektor": "Kesehatan",
+      "total_skor_esg": 60.33,
+      "peringkat_esg": "BBB"
+    },
+    {
+      "nama_perusahaan": "PT Bumi Sejahtera No. 750",
+      "sektor": "Infrastruktur",
+      "total_skor_esg": 61.0,
+      "peringkat_esg": "BBB"
+    },
+    {
+      "nama_perusahaan": "PT Artha Abadi No. 1326",
+      "sektor": "Keuangan",
+      "total_skor_esg": 61.33,
+      "peringkat_esg": "BBB"
+    },
+    {
+      "nama_perusahaan": "PT Sumber Tbk No. 2123",
+      "sektor": "Keuangan",
+      "total_skor_esg": 61.67,
+      "peringkat_esg": "BBB"
+    },
+    {
+      "nama_perusahaan": "PT Indo Karya No. 2159",
+      "sektor": "Kesehatan",
+      "total_skor_esg": 61.67,
+      "peringkat_esg": "BBB"
+    }
+  ],
+  "tren_sektor": [
+    {
+      "sektor": "Energi & Pertambangan",
+      "tahun_evaluasi": 2022,
+      "avg_total_skor_esg": 76.77
+    },
+    {
+      "sektor": "Energi & Pertambangan",
+      "tahun_evaluasi": 2023,
+      "avg_total_skor_esg": 74.89
+    },
+    {
+      "sektor": "Energi & Pertambangan",
+      "tahun_evaluasi": 2024,
+      "avg_total_skor_esg": 76.52
+    },
+    {
+      "sektor": "Energi & Pertambangan",
+      "tahun_evaluasi": 2025,
+      "avg_total_skor_esg": 77.48
+    },
+    {
+      "sektor": "Energi & Pertambangan",
+      "tahun_evaluasi": 2026,
+      "avg_total_skor_esg": 77.92
+    },
+    {
+      "sektor": "Infrastruktur",
+      "tahun_evaluasi": 2022,
+      "avg_total_skor_esg": 77.13
+    },
+    {
+      "sektor": "Infrastruktur",
+      "tahun_evaluasi": 2023,
+      "avg_total_skor_esg": 76.94
+    },
+    {
+      "sektor": "Infrastruktur",
+      "tahun_evaluasi": 2024,
+      "avg_total_skor_esg": 76.72
+    },
+    {
+      "sektor": "Infrastruktur",
+      "tahun_evaluasi": 2025,
+      "avg_total_skor_esg": 76.45
+    },
+    {
+      "sektor": "Infrastruktur",
+      "tahun_evaluasi": 2026,
+      "avg_total_skor_esg": 77.63
+    },
+    {
+      "sektor": "Kesehatan",
+      "tahun_evaluasi": 2022,
+      "avg_total_skor_esg": 75.76
+    },
+    {
+      "sektor": "Kesehatan",
+      "tahun_evaluasi": 2023,
+      "avg_total_skor_esg": 78.02
+    },
+    {
+      "sektor": "Kesehatan",
+      "tahun_evaluasi": 2024,
+      "avg_total_skor_esg": 76.33
+    },
+    {
+      "sektor": "Kesehatan",
+      "tahun_evaluasi": 2025,
+      "avg_total_skor_esg": 77.63
+    },
+    {
+      "sektor": "Kesehatan",
+      "tahun_evaluasi": 2026,
+      "avg_total_skor_esg": 76.13
+    },
+    {
+      "sektor": "Keuangan",
+      "tahun_evaluasi": 2022,
+      "avg_total_skor_esg": 78.05
+    },
+    {
+      "sektor": "Keuangan",
+      "tahun_evaluasi": 2023,
+      "avg_total_skor_esg": 75.89
+    },
+    {
+      "sektor": "Keuangan",
+      "tahun_evaluasi": 2024,
+      "avg_total_skor_esg": 76.56
+    },
+    {
+      "sektor": "Keuangan",
+      "tahun_evaluasi": 2025,
+      "avg_total_skor_esg": 77.37
+    },
+    {
+      "sektor": "Keuangan",
+      "tahun_evaluasi": 2026,
+      "avg_total_skor_esg": 76.02
+    },
+    {
+      "sektor": "Konsumer Primer",
+      "tahun_evaluasi": 2022,
+      "avg_total_skor_esg": 77.87
+    },
+    {
+      "sektor": "Konsumer Primer",
+      "tahun_evaluasi": 2023,
+      "avg_total_skor_esg": 77.81
+    },
+    {
+      "sektor": "Konsumer Primer",
+      "tahun_evaluasi": 2024,
+      "avg_total_skor_esg": 77.44
+    },
+    {
+      "sektor": "Konsumer Primer",
+      "tahun_evaluasi": 2025,
+      "avg_total_skor_esg": 76.32
+    },
+    {
+      "sektor": "Konsumer Primer",
+      "tahun_evaluasi": 2026,
+      "avg_total_skor_esg": 77.46
+    },
+    {
+      "sektor": "Teknologi & Informasi",
+      "tahun_evaluasi": 2022,
+      "avg_total_skor_esg": 77.19
+    },
+    {
+      "sektor": "Teknologi & Informasi",
+      "tahun_evaluasi": 2023,
+      "avg_total_skor_esg": 77.04
+    },
+    {
+      "sektor": "Teknologi & Informasi",
+      "tahun_evaluasi": 2024,
+      "avg_total_skor_esg": 77.51
+    },
+    {
+      "sektor": "Teknologi & Informasi",
+      "tahun_evaluasi": 2025,
+      "avg_total_skor_esg": 76.41
+    },
+    {
+      "sektor": "Teknologi & Informasi",
+      "tahun_evaluasi": 2026,
+      "avg_total_skor_esg": 79.22
+    }
+  ],
+  "rating_dist": [
+    {
+      "sektor": "Energi & Pertambangan",
+      "peringkat_esg": "A",
+      "jumlah_penilaian": 195
+    },
+    {
+      "sektor": "Energi & Pertambangan",
+      "peringkat_esg": "AA",
+      "jumlah_penilaian": 113
+    },
+    {
+      "sektor": "Energi & Pertambangan",
+      "peringkat_esg": "AAA",
+      "jumlah_penilaian": 15
+    },
+    {
+      "sektor": "Energi & Pertambangan",
+      "peringkat_esg": "BBB",
+      "jumlah_penilaian": 69
+    },
+    {
+      "sektor": "Infrastruktur",
+      "peringkat_esg": "A",
+      "jumlah_penilaian": 202
+    },
+    {
+      "sektor": "Infrastruktur",
+      "peringkat_esg": "AA",
+      "jumlah_penilaian": 146
+    },
+    {
+      "sektor": "Infrastruktur",
+      "peringkat_esg": "AAA",
+      "jumlah_penilaian": 18
+    },
+    {
+      "sektor": "Infrastruktur",
+      "peringkat_esg": "BB",
+      "jumlah_penilaian": 3
+    },
+    {
+      "sektor": "Infrastruktur",
+      "peringkat_esg": "BBB",
+      "jumlah_penilaian": 73
+    },
+    {
+      "sektor": "Kesehatan",
+      "peringkat_esg": "A",
+      "jumlah_penilaian": 192
+    },
+    {
+      "sektor": "Kesehatan",
+      "peringkat_esg": "AA",
+      "jumlah_penilaian": 123
+    },
+    {
+      "sektor": "Kesehatan",
+      "peringkat_esg": "AAA",
+      "jumlah_penilaian": 20
+    },
+    {
+      "sektor": "Kesehatan",
+      "peringkat_esg": "BB",
+      "jumlah_penilaian": 5
+    },
+    {
+      "sektor": "Kesehatan",
+      "peringkat_esg": "BBB",
+      "jumlah_penilaian": 72
+    },
+    {
+      "sektor": "Keuangan",
+      "peringkat_esg": "A",
+      "jumlah_penilaian": 221
+    },
+    {
+      "sektor": "Keuangan",
+      "peringkat_esg": "AA",
+      "jumlah_penilaian": 123
+    },
+    {
+      "sektor": "Keuangan",
+      "peringkat_esg": "AAA",
+      "jumlah_penilaian": 20
+    },
+    {
+      "sektor": "Keuangan",
+      "peringkat_esg": "BB",
+      "jumlah_penilaian": 1
+    },
+    {
+      "sektor": "Keuangan",
+      "peringkat_esg": "BBB",
+      "jumlah_penilaian": 77
+    },
+    {
+      "sektor": "Konsumer Primer",
+      "peringkat_esg": "A",
+      "jumlah_penilaian": 195
+    },
+    {
+      "sektor": "Konsumer Primer",
+      "peringkat_esg": "AA",
+      "jumlah_penilaian": 146
+    },
+    {
+      "sektor": "Konsumer Primer",
+      "peringkat_esg": "AAA",
+      "jumlah_penilaian": 15
+    },
+    {
+      "sektor": "Konsumer Primer",
+      "peringkat_esg": "BB",
+      "jumlah_penilaian": 4
+    },
+    {
+      "sektor": "Konsumer Primer",
+      "peringkat_esg": "BBB",
+      "jumlah_penilaian": 64
+    },
+    {
+      "sektor": "Teknologi & Informasi",
+      "peringkat_esg": "A",
+      "jumlah_penilaian": 160
+    },
+    {
+      "sektor": "Teknologi & Informasi",
+      "peringkat_esg": "AA",
+      "jumlah_penilaian": 142
+    },
+    {
+      "sektor": "Teknologi & Informasi",
+      "peringkat_esg": "AAA",
+      "jumlah_penilaian": 16
+    },
+    {
+      "sektor": "Teknologi & Informasi",
+      "peringkat_esg": "BB",
+      "jumlah_penilaian": 1
+    },
+    {
+      "sektor": "Teknologi & Informasi",
+      "peringkat_esg": "BBB",
+      "jumlah_penilaian": 69
+    }
+  ],
+  "kepatuhan_bulanan": [
+    {
+      "bulan": 1,
+      "nama_bulan_singkat": "Jan",
+      "persen_patuh": 62.19
+    },
+    {
+      "bulan": 2,
+      "nama_bulan_singkat": "Feb",
+      "persen_patuh": 56.45
+    },
+    {
+      "bulan": 3,
+      "nama_bulan_singkat": "Mar",
+      "persen_patuh": 69.27
+    },
+    {
+      "bulan": 4,
+      "nama_bulan_singkat": "Apr",
+      "persen_patuh": 65.89
+    },
+    {
+      "bulan": 5,
+      "nama_bulan_singkat": "Mei",
+      "persen_patuh": 66.01
+    },
+    {
+      "bulan": 6,
+      "nama_bulan_singkat": "Jun",
+      "persen_patuh": 63.0
+    },
+    {
+      "bulan": 7,
+      "nama_bulan_singkat": "Jul",
+      "persen_patuh": 62.84
+    },
+    {
+      "bulan": 8,
+      "nama_bulan_singkat": "Agu",
+      "persen_patuh": 64.94
+    },
+    {
+      "bulan": 9,
+      "nama_bulan_singkat": "Sep",
+      "persen_patuh": 59.53
+    },
+    {
+      "bulan": 10,
+      "nama_bulan_singkat": "Okt",
+      "persen_patuh": 61.66
+    },
+    {
+      "bulan": 11,
+      "nama_bulan_singkat": "Nov",
+      "persen_patuh": 64.98
+    },
+    {
+      "bulan": 12,
+      "nama_bulan_singkat": "Des",
+      "persen_patuh": 68.47
+    }
+  ],
+  "pilar_compliance": [
+    {
+      "pilar": "Environmental",
+      "persen_patuh": 62.51,
+      "avg_realisasi": 84.97
+    },
+    {
+      "pilar": "Governance",
+      "persen_patuh": 65.7,
+      "avg_realisasi": 84.93
+    },
+    {
+      "pilar": "Social",
+      "persen_patuh": 63.4,
+      "avg_realisasi": 84.38
+    }
+  ],
+  "wilayah_skor": [
+    {
+      "wilayah_operasional": "Sulawesi Selatan",
+      "avg_skor": 77.59,
+      "jumlah_perusahaan": 253
+    },
+    {
+      "wilayah_operasional": "Jawa Barat",
+      "avg_skor": 77.42,
+      "jumlah_perusahaan": 294
+    },
+    {
+      "wilayah_operasional": "Sumatera Utara",
+      "avg_skor": 77.1,
+      "jumlah_perusahaan": 235
+    },
+    {
+      "wilayah_operasional": "DKI Jakarta",
+      "avg_skor": 77.0,
+      "jumlah_perusahaan": 269
+    },
+    {
+      "wilayah_operasional": "Jawa Timur",
+      "avg_skor": 76.61,
+      "jumlah_perusahaan": 270
+    },
+    {
+      "wilayah_operasional": "Kalimantan Timur",
+      "avg_skor": 76.31,
+      "jumlah_perusahaan": 248
+    }
+  ],
+  "biaya_sektor": [
+    {
+      "sektor": "Keuangan",
+      "total_biaya": 119741962318
+    },
+    {
+      "sektor": "Kesehatan",
+      "total_biaya": 115515552836
+    },
+    {
+      "sektor": "Energi & Pertambangan",
+      "total_biaya": 106642387893
+    },
+    {
+      "sektor": "Konsumer Primer",
+      "total_biaya": 102985350490
+    },
+    {
+      "sektor": "Infrastruktur",
+      "total_biaya": 99950913923
+    },
+    {
+      "sektor": "Teknologi & Informasi",
+      "total_biaya": 92776382255
+    }
+  ]
+};
+
+/* ============ HELPERS ============ */
+const fmtIDR = (n) => {
+  if (n >= 1e12) return (n/1e12).toFixed(2) + ' T';
+  if (n >= 1e9)  return (n/1e9).toFixed(2) + ' M';
+  if (n >= 1e6)  return (n/1e6).toFixed(1) + ' Jt';
+  return n.toLocaleString('id-ID');
+};
+const COLORS = {
+  env:'#4F9D6E', soc:'#4A85B8', gov:'#C9A036', danger:'#C1554A',
+  envSoft:'rgba(79,157,110,0.55)', socSoft:'rgba(74,133,184,0.55)', govSoft:'rgba(201,160,54,0.55)'
+};
+Chart.defaults.font.family = "'Inter', sans-serif";
+Chart.defaults.color = '#8FA39A';
+Chart.defaults.borderColor = '#26382F';
+
+/* ============ KPI STRIP ============ */
+const kpi = DASHBOARD_DATA.kpi;
+const kpiItems = [
+  { label:'Total Perusahaan Dinilai', value:kpi.total_perusahaan.toLocaleString('id-ID'), sub:`${kpi.total_sektor} sektor · ${kpi.total_wilayah} wilayah` },
+  { label:'Rata-rata Skor ESG', value:kpi.avg_skor.toFixed(2), unit:'/ 100', sub:'seluruh penilaian tahunan' },
+  { label:'Tingkat Kepatuhan Aktivitas', value:kpi.persen_patuh.toFixed(1), unit:'%', sub:'status "Patuh" dari seluruh catatan' },
+  { label:'Total Biaya Mitigasi', value:'Rp ' + fmtIDR(kpi.total_biaya), sub:'akumulasi seluruh sektor' },
+];
+document.getElementById('kpiGrid').innerHTML = kpiItems.map(k => `
+  <div class="kpi">
+    <div class="label">${k.label}</div>
+    <div class="value">${k.value}${k.unit ? `<span class="unit">${k.unit}</span>` : ''}</div>
+    <div class="sub">${k.sub}</div>
+  </div>`).join('');
+
+/* ============ LEADERBOARD TABLES ============ */
+function rowHtml(item, i){
+  return `<tr>
+    <td class="rank">${String(i+1).padStart(2,'0')}</td>
+    <td><div class="company">${item.nama_perusahaan}</div><div class="sector-tag">${item.sektor}</div></td>
+    <td class="score">${item.total_skor_esg.toFixed(2)}</td>
+    <td style="text-align:right"><span class="rating-chip rating-${item.peringkat_esg}">${item.peringkat_esg}</span></td>
+  </tr>`;
+}
+document.getElementById('tblTop').innerHTML = DASHBOARD_DATA.top10.map(rowHtml).join('');
+document.getElementById('tblBottom').innerHTML = DASHBOARD_DATA.bottom10.map(rowHtml).join('');
+
+/* ============ PILLAR COMPLIANCE CARDS ============ */
+const pillarMeta = {
+  Environmental: { color: COLORS.env, soft:'var(--env-soft)' },
+  Social:        { color: COLORS.soc, soft:'var(--soc-soft)' },
+  Governance:    { color: COLORS.gov, soft:'var(--gov-soft)' },
+};
+document.getElementById('pillarCards').innerHTML = DASHBOARD_DATA.pilar_compliance.map(p => `
+  <div class="card">
+    <div class="label" style="color:${pillarMeta[p.pilar].color}; font-family:'IBM Plex Mono',monospace; font-size:12px; letter-spacing:0.05em; text-transform:uppercase; margin-bottom:14px;">${p.pilar}</div>
+    <div style="font-family:'Fraunces',serif; font-size:38px; font-weight:600; color:var(--text);">${p.persen_patuh.toFixed(1)}<span style="font-size:18px;color:var(--text-faint)">%</span></div>
+    <div style="font-size:12.5px; color:var(--text-muted); margin-top:4px;">tingkat kepatuhan &middot; rata-rata realisasi ${p.avg_realisasi.toFixed(1)}</div>
+    <div style="height:6px; border-radius:4px; background:var(--line); margin-top:16px; overflow:hidden;">
+      <div style="height:100%; width:${p.persen_patuh}%; background:${pillarMeta[p.pilar].color};"></div>
+    </div>
+  </div>`).join('');
+
+/* ============ CHART: TREN SEKTOR (line) ============ */
+const tren = DASHBOARD_DATA.tren_sektor;
+const sektorList = [...new Set(tren.map(d => d.sektor))];
+const tahunList = [...new Set(tren.map(d => d.tahun_evaluasi))].sort();
+const sektorColors = ['#4F9D6E','#4A85B8','#C9A036','#C1554A','#8B7BC7','#3FB8AF'];
+new Chart(document.getElementById('chartTren'), {
+  type: 'line',
+  data: {
+    labels: tahunList,
+    datasets: sektorList.map((s, i) => ({
+      label: s,
+      data: tahunList.map(t => (tren.find(d => d.sektor===s && d.tahun_evaluasi===t) || {}).avg_total_skor_esg),
+      borderColor: sektorColors[i % sektorColors.length],
+      backgroundColor: sektorColors[i % sektorColors.length],
+      tension: 0.35, borderWidth: 2, pointRadius: 3, pointHoverRadius: 5, fill:false,
+    }))
+  },
+  options: {
+    plugins:{ legend:{ position:'bottom', labels:{ boxWidth:8, boxHeight:8, usePointStyle:true, padding:16, font:{size:11.5} } } },
+    scales:{
+      y:{ min:60, max:85, grid:{color:'#1D2F28'}, ticks:{font:{size:11}} },
+      x:{ grid:{display:false}, ticks:{font:{size:11}} }
+    }
+  }
+});
+
+/* ============ CHART: KEPATUHAN BULANAN ============ */
+const kb = DASHBOARD_DATA.kepatuhan_bulanan;
+new Chart(document.getElementById('chartBulanan'), {
+  type:'bar',
+  data:{
+    labels: kb.map(d=>d.nama_bulan_singkat),
+    datasets:[{ label:'% Patuh', data: kb.map(d=>d.persen_patuh), backgroundColor:'#4A85B8', borderRadius:4, maxBarThickness:34 }]
+  },
+  options:{
+    plugins:{ legend:{display:false}, title:{display:true, text:'Persentase Kepatuhan per Bulan', color:'#8FA39A', font:{size:12, family:"'IBM Plex Mono'"}, padding:{bottom:14}} },
+    scales:{ y:{ min:0, max:100, grid:{color:'#1D2F28'} }, x:{ grid:{display:false} } }
+  }
+});
+
+/* ============ CHART: WILAYAH ============ */
+const wl = DASHBOARD_DATA.wilayah_skor;
+new Chart(document.getElementById('chartWilayah'), {
+  type:'bar',
+  data:{
+    labels: wl.map(d=>d.wilayah_operasional),
+    datasets:[{ label:'Rata-rata Skor', data: wl.map(d=>d.avg_skor), backgroundColor:'#4F9D6E', borderRadius:4, maxBarThickness:26 }]
+  },
+  options:{
+    indexAxis:'y',
+    plugins:{ legend:{display:false}, title:{display:true, text:'Rata-rata Skor ESG per Wilayah', color:'#8FA39A', font:{size:12, family:"'IBM Plex Mono'"}, padding:{bottom:14}} },
+    scales:{ x:{ min:70, max:80, grid:{color:'#1D2F28'} }, y:{ grid:{display:false} } }
+  }
+});
+
+/* ============ CHART: BIAYA SEKTOR ============ */
+const bs = DASHBOARD_DATA.biaya_sektor;
+new Chart(document.getElementById('chartBiaya'), {
+  type:'bar',
+  data:{
+    labels: bs.map(d=>d.sektor),
+    datasets:[{ label:'Total Biaya Mitigasi', data: bs.map(d=>d.total_biaya), backgroundColor:'#C9A036', borderRadius:4, maxBarThickness:46 }]
+  },
+  options:{
+    plugins:{
+      legend:{display:false},
+      tooltip:{ callbacks:{ label: (ctx) => 'Rp ' + fmtIDR(ctx.parsed.y) } }
+    },
+    scales:{
+      y:{ grid:{color:'#1D2F28'}, ticks:{ callback: (v) => fmtIDR(v) } },
+      x:{ grid:{display:false}, ticks:{font:{size:10.5}} }
+    }
+  }
+});
+</script>
+</body>
+</html>

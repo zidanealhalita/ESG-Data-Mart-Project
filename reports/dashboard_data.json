@@ -1,0 +1,570 @@
+{
+  "kpi": {
+    "total_perusahaan": 2500,
+    "total_sektor": 6,
+    "total_wilayah": 6,
+    "avg_skor": 77.0,
+    "persen_patuh": 63.8,
+    "total_biaya": 637612549715
+  },
+  "top10": [
+    {
+      "nama_perusahaan": "PT Bumi Persada No. 2476",
+      "sektor": "Infrastruktur",
+      "total_skor_esg": 97.0,
+      "peringkat_esg": "AAA"
+    },
+    {
+      "nama_perusahaan": "PT Surya Makmur No. 729",
+      "sektor": "Teknologi & Informasi",
+      "total_skor_esg": 96.33,
+      "peringkat_esg": "AAA"
+    },
+    {
+      "nama_perusahaan": "PT Artha Lestari No. 186",
+      "sektor": "Kesehatan",
+      "total_skor_esg": 94.67,
+      "peringkat_esg": "AAA"
+    },
+    {
+      "nama_perusahaan": "PT Nusantara Persada No. 981",
+      "sektor": "Teknologi & Informasi",
+      "total_skor_esg": 94.67,
+      "peringkat_esg": "AAA"
+    },
+    {
+      "nama_perusahaan": "PT Utama Sentosa No. 679",
+      "sektor": "Infrastruktur",
+      "total_skor_esg": 94.67,
+      "peringkat_esg": "AAA"
+    },
+    {
+      "nama_perusahaan": "PT Surya Lestari No. 425",
+      "sektor": "Energi & Pertambangan",
+      "total_skor_esg": 94.33,
+      "peringkat_esg": "AAA"
+    },
+    {
+      "nama_perusahaan": "PT Indo Sejahtera No. 485",
+      "sektor": "Infrastruktur",
+      "total_skor_esg": 94.0,
+      "peringkat_esg": "AAA"
+    },
+    {
+      "nama_perusahaan": "PT Bina Karya No. 1400",
+      "sektor": "Energi & Pertambangan",
+      "total_skor_esg": 94.0,
+      "peringkat_esg": "AAA"
+    },
+    {
+      "nama_perusahaan": "PT Bina Karya No. 1388",
+      "sektor": "Teknologi & Informasi",
+      "total_skor_esg": 93.67,
+      "peringkat_esg": "AAA"
+    },
+    {
+      "nama_perusahaan": "PT Bumi Sejahtera No. 2001",
+      "sektor": "Kesehatan",
+      "total_skor_esg": 93.33,
+      "peringkat_esg": "AAA"
+    }
+  ],
+  "bottom10": [
+    {
+      "nama_perusahaan": "PT Citra Makmur No. 957",
+      "sektor": "Kesehatan",
+      "total_skor_esg": 59.33,
+      "peringkat_esg": "BB"
+    },
+    {
+      "nama_perusahaan": "PT Bina Energi No. 1048",
+      "sektor": "Kesehatan",
+      "total_skor_esg": 59.67,
+      "peringkat_esg": "BB"
+    },
+    {
+      "nama_perusahaan": "PT Citra Sentosa No. 705",
+      "sektor": "Keuangan",
+      "total_skor_esg": 60.33,
+      "peringkat_esg": "BBB"
+    },
+    {
+      "nama_perusahaan": "PT Bumi Lestari No. 1078",
+      "sektor": "Energi & Pertambangan",
+      "total_skor_esg": 60.33,
+      "peringkat_esg": "BBB"
+    },
+    {
+      "nama_perusahaan": "PT Artha Makmur No. 1479",
+      "sektor": "Konsumer Primer",
+      "total_skor_esg": 60.33,
+      "peringkat_esg": "BBB"
+    },
+    {
+      "nama_perusahaan": "PT Sumber Jaya No. 1308",
+      "sektor": "Kesehatan",
+      "total_skor_esg": 60.33,
+      "peringkat_esg": "BBB"
+    },
+    {
+      "nama_perusahaan": "PT Bumi Sejahtera No. 750",
+      "sektor": "Infrastruktur",
+      "total_skor_esg": 61.0,
+      "peringkat_esg": "BBB"
+    },
+    {
+      "nama_perusahaan": "PT Artha Abadi No. 1326",
+      "sektor": "Keuangan",
+      "total_skor_esg": 61.33,
+      "peringkat_esg": "BBB"
+    },
+    {
+      "nama_perusahaan": "PT Sumber Tbk No. 2123",
+      "sektor": "Keuangan",
+      "total_skor_esg": 61.67,
+      "peringkat_esg": "BBB"
+    },
+    {
+      "nama_perusahaan": "PT Indo Karya No. 2159",
+      "sektor": "Kesehatan",
+      "total_skor_esg": 61.67,
+      "peringkat_esg": "BBB"
+    }
+  ],
+  "tren_sektor": [
+    {
+      "sektor": "Energi & Pertambangan",
+      "tahun_evaluasi": 2022,
+      "avg_total_skor_esg": 76.77
+    },
+    {
+      "sektor": "Energi & Pertambangan",
+      "tahun_evaluasi": 2023,
+      "avg_total_skor_esg": 74.89
+    },
+    {
+      "sektor": "Energi & Pertambangan",
+      "tahun_evaluasi": 2024,
+      "avg_total_skor_esg": 76.52
+    },
+    {
+      "sektor": "Energi & Pertambangan",
+      "tahun_evaluasi": 2025,
+      "avg_total_skor_esg": 77.48
+    },
+    {
+      "sektor": "Energi & Pertambangan",
+      "tahun_evaluasi": 2026,
+      "avg_total_skor_esg": 77.92
+    },
+    {
+      "sektor": "Infrastruktur",
+      "tahun_evaluasi": 2022,
+      "avg_total_skor_esg": 77.13
+    },
+    {
+      "sektor": "Infrastruktur",
+      "tahun_evaluasi": 2023,
+      "avg_total_skor_esg": 76.94
+    },
+    {
+      "sektor": "Infrastruktur",
+      "tahun_evaluasi": 2024,
+      "avg_total_skor_esg": 76.72
+    },
+    {
+      "sektor": "Infrastruktur",
+      "tahun_evaluasi": 2025,
+      "avg_total_skor_esg": 76.45
+    },
+    {
+      "sektor": "Infrastruktur",
+      "tahun_evaluasi": 2026,
+      "avg_total_skor_esg": 77.63
+    },
+    {
+      "sektor": "Kesehatan",
+      "tahun_evaluasi": 2022,
+      "avg_total_skor_esg": 75.76
+    },
+    {
+      "sektor": "Kesehatan",
+      "tahun_evaluasi": 2023,
+      "avg_total_skor_esg": 78.02
+    },
+    {
+      "sektor": "Kesehatan",
+      "tahun_evaluasi": 2024,
+      "avg_total_skor_esg": 76.33
+    },
+    {
+      "sektor": "Kesehatan",
+      "tahun_evaluasi": 2025,
+      "avg_total_skor_esg": 77.63
+    },
+    {
+      "sektor": "Kesehatan",
+      "tahun_evaluasi": 2026,
+      "avg_total_skor_esg": 76.13
+    },
+    {
+      "sektor": "Keuangan",
+      "tahun_evaluasi": 2022,
+      "avg_total_skor_esg": 78.05
+    },
+    {
+      "sektor": "Keuangan",
+      "tahun_evaluasi": 2023,
+      "avg_total_skor_esg": 75.89
+    },
+    {
+      "sektor": "Keuangan",
+      "tahun_evaluasi": 2024,
+      "avg_total_skor_esg": 76.56
+    },
+    {
+      "sektor": "Keuangan",
+      "tahun_evaluasi": 2025,
+      "avg_total_skor_esg": 77.37
+    },
+    {
+      "sektor": "Keuangan",
+      "tahun_evaluasi": 2026,
+      "avg_total_skor_esg": 76.02
+    },
+    {
+      "sektor": "Konsumer Primer",
+      "tahun_evaluasi": 2022,
+      "avg_total_skor_esg": 77.87
+    },
+    {
+      "sektor": "Konsumer Primer",
+      "tahun_evaluasi": 2023,
+      "avg_total_skor_esg": 77.81
+    },
+    {
+      "sektor": "Konsumer Primer",
+      "tahun_evaluasi": 2024,
+      "avg_total_skor_esg": 77.44
+    },
+    {
+      "sektor": "Konsumer Primer",
+      "tahun_evaluasi": 2025,
+      "avg_total_skor_esg": 76.32
+    },
+    {
+      "sektor": "Konsumer Primer",
+      "tahun_evaluasi": 2026,
+      "avg_total_skor_esg": 77.46
+    },
+    {
+      "sektor": "Teknologi & Informasi",
+      "tahun_evaluasi": 2022,
+      "avg_total_skor_esg": 77.19
+    },
+    {
+      "sektor": "Teknologi & Informasi",
+      "tahun_evaluasi": 2023,
+      "avg_total_skor_esg": 77.04
+    },
+    {
+      "sektor": "Teknologi & Informasi",
+      "tahun_evaluasi": 2024,
+      "avg_total_skor_esg": 77.51
+    },
+    {
+      "sektor": "Teknologi & Informasi",
+      "tahun_evaluasi": 2025,
+      "avg_total_skor_esg": 76.41
+    },
+    {
+      "sektor": "Teknologi & Informasi",
+      "tahun_evaluasi": 2026,
+      "avg_total_skor_esg": 79.22
+    }
+  ],
+  "rating_dist": [
+    {
+      "sektor": "Energi & Pertambangan",
+      "peringkat_esg": "A",
+      "jumlah_penilaian": 195
+    },
+    {
+      "sektor": "Energi & Pertambangan",
+      "peringkat_esg": "AA",
+      "jumlah_penilaian": 113
+    },
+    {
+      "sektor": "Energi & Pertambangan",
+      "peringkat_esg": "AAA",
+      "jumlah_penilaian": 15
+    },
+    {
+      "sektor": "Energi & Pertambangan",
+      "peringkat_esg": "BBB",
+      "jumlah_penilaian": 69
+    },
+    {
+      "sektor": "Infrastruktur",
+      "peringkat_esg": "A",
+      "jumlah_penilaian": 202
+    },
+    {
+      "sektor": "Infrastruktur",
+      "peringkat_esg": "AA",
+      "jumlah_penilaian": 146
+    },
+    {
+      "sektor": "Infrastruktur",
+      "peringkat_esg": "AAA",
+      "jumlah_penilaian": 18
+    },
+    {
+      "sektor": "Infrastruktur",
+      "peringkat_esg": "BB",
+      "jumlah_penilaian": 3
+    },
+    {
+      "sektor": "Infrastruktur",
+      "peringkat_esg": "BBB",
+      "jumlah_penilaian": 73
+    },
+    {
+      "sektor": "Kesehatan",
+      "peringkat_esg": "A",
+      "jumlah_penilaian": 192
+    },
+    {
+      "sektor": "Kesehatan",
+      "peringkat_esg": "AA",
+      "jumlah_penilaian": 123
+    },
+    {
+      "sektor": "Kesehatan",
+      "peringkat_esg": "AAA",
+      "jumlah_penilaian": 20
+    },
+    {
+      "sektor": "Kesehatan",
+      "peringkat_esg": "BB",
+      "jumlah_penilaian": 5
+    },
+    {
+      "sektor": "Kesehatan",
+      "peringkat_esg": "BBB",
+      "jumlah_penilaian": 72
+    },
+    {
+      "sektor": "Keuangan",
+      "peringkat_esg": "A",
+      "jumlah_penilaian": 221
+    },
+    {
+      "sektor": "Keuangan",
+      "peringkat_esg": "AA",
+      "jumlah_penilaian": 123
+    },
+    {
+      "sektor": "Keuangan",
+      "peringkat_esg": "AAA",
+      "jumlah_penilaian": 20
+    },
+    {
+      "sektor": "Keuangan",
+      "peringkat_esg": "BB",
+      "jumlah_penilaian": 1
+    },
+    {
+      "sektor": "Keuangan",
+      "peringkat_esg": "BBB",
+      "jumlah_penilaian": 77
+    },
+    {
+      "sektor": "Konsumer Primer",
+      "peringkat_esg": "A",
+      "jumlah_penilaian": 195
+    },
+    {
+      "sektor": "Konsumer Primer",
+      "peringkat_esg": "AA",
+      "jumlah_penilaian": 146
+    },
+    {
+      "sektor": "Konsumer Primer",
+      "peringkat_esg": "AAA",
+      "jumlah_penilaian": 15
+    },
+    {
+      "sektor": "Konsumer Primer",
+      "peringkat_esg": "BB",
+      "jumlah_penilaian": 4
+    },
+    {
+      "sektor": "Konsumer Primer",
+      "peringkat_esg": "BBB",
+      "jumlah_penilaian": 64
+    },
+    {
+      "sektor": "Teknologi & Informasi",
+      "peringkat_esg": "A",
+      "jumlah_penilaian": 160
+    },
+    {
+      "sektor": "Teknologi & Informasi",
+      "peringkat_esg": "AA",
+      "jumlah_penilaian": 142
+    },
+    {
+      "sektor": "Teknologi & Informasi",
+      "peringkat_esg": "AAA",
+      "jumlah_penilaian": 16
+    },
+    {
+      "sektor": "Teknologi & Informasi",
+      "peringkat_esg": "BB",
+      "jumlah_penilaian": 1
+    },
+    {
+      "sektor": "Teknologi & Informasi",
+      "peringkat_esg": "BBB",
+      "jumlah_penilaian": 69
+    }
+  ],
+  "kepatuhan_bulanan": [
+    {
+      "bulan": 1,
+      "nama_bulan_singkat": "Jan",
+      "persen_patuh": 62.19
+    },
+    {
+      "bulan": 2,
+      "nama_bulan_singkat": "Feb",
+      "persen_patuh": 56.45
+    },
+    {
+      "bulan": 3,
+      "nama_bulan_singkat": "Mar",
+      "persen_patuh": 69.27
+    },
+    {
+      "bulan": 4,
+      "nama_bulan_singkat": "Apr",
+      "persen_patuh": 65.89
+    },
+    {
+      "bulan": 5,
+      "nama_bulan_singkat": "Mei",
+      "persen_patuh": 66.01
+    },
+    {
+      "bulan": 6,
+      "nama_bulan_singkat": "Jun",
+      "persen_patuh": 63.0
+    },
+    {
+      "bulan": 7,
+      "nama_bulan_singkat": "Jul",
+      "persen_patuh": 62.84
+    },
+    {
+      "bulan": 8,
+      "nama_bulan_singkat": "Agu",
+      "persen_patuh": 64.94
+    },
+    {
+      "bulan": 9,
+      "nama_bulan_singkat": "Sep",
+      "persen_patuh": 59.53
+    },
+    {
+      "bulan": 10,
+      "nama_bulan_singkat": "Okt",
+      "persen_patuh": 61.66
+    },
+    {
+      "bulan": 11,
+      "nama_bulan_singkat": "Nov",
+      "persen_patuh": 64.98
+    },
+    {
+      "bulan": 12,
+      "nama_bulan_singkat": "Des",
+      "persen_patuh": 68.47
+    }
+  ],
+  "pilar_compliance": [
+    {
+      "pilar": "Environmental",
+      "persen_patuh": 62.51,
+      "avg_realisasi": 84.97
+    },
+    {
+      "pilar": "Governance",
+      "persen_patuh": 65.7,
+      "avg_realisasi": 84.93
+    },
+    {
+      "pilar": "Social",
+      "persen_patuh": 63.4,
+      "avg_realisasi": 84.38
+    }
+  ],
+  "wilayah_skor": [
+    {
+      "wilayah_operasional": "Sulawesi Selatan",
+      "avg_skor": 77.59,
+      "jumlah_perusahaan": 253
+    },
+    {
+      "wilayah_operasional": "Jawa Barat",
+      "avg_skor": 77.42,
+      "jumlah_perusahaan": 294
+    },
+    {
+      "wilayah_operasional": "Sumatera Utara",
+      "avg_skor": 77.1,
+      "jumlah_perusahaan": 235
+    },
+    {
+      "wilayah_operasional": "DKI Jakarta",
+      "avg_skor": 77.0,
+      "jumlah_perusahaan": 269
+    },
+    {
+      "wilayah_operasional": "Jawa Timur",
+      "avg_skor": 76.61,
+      "jumlah_perusahaan": 270
+    },
+    {
+      "wilayah_operasional": "Kalimantan Timur",
+      "avg_skor": 76.31,
+      "jumlah_perusahaan": 248
+    }
+  ],
+  "biaya_sektor": [
+    {
+      "sektor": "Keuangan",
+      "total_biaya": 119741962318
+    },
+    {
+      "sektor": "Kesehatan",
+      "total_biaya": 115515552836
+    },
+    {
+      "sektor": "Energi & Pertambangan",
+      "total_biaya": 106642387893
+    },
+    {
+      "sektor": "Konsumer Primer",
+      "total_biaya": 102985350490
+    },
+    {
+      "sektor": "Infrastruktur",
+      "total_biaya": 99950913923
+    },
+    {
+      "sektor": "Teknologi & Informasi",
+      "total_biaya": 92776382255
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+# Database hasil ETL (dapat dibangun ulang kapan saja dari data/raw/ + etl/etl_pipeline.py)
+data/esg_data_mart.db
+
+# Log ETL
+etl/etl_log.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
