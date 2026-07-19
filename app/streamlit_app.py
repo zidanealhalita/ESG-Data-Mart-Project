@@ -70,6 +70,37 @@ st.markdown(
 )
 
 # =====================================================================
+# PASTIKAN DATABASE TERSEDIA (AUTO-BUILD JIKA BELUM ADA)
+# =====================================================================
+# Konteks: data/esg_data_mart.db sengaja TIDAK di-commit ke git (lihat
+# .gitignore) karena ia adalah build artifact, bukan sumber data asli.
+# Saat di-deploy ke lingkungan baru (mis. Streamlit Community Cloud),
+# file ini belum ada di clone repo tsb. Alih-alih menyuruh pengguna
+# menjalankan ETL secara manual, dashboard membangunnya sendiri di
+# awal sesi — cukup sekali per instance berkat @st.cache_resource,
+# dan bersumber dari data/raw/*.csv yang memang ikut ter-commit.
+@st.cache_resource
+def ensure_database():
+    if DB_PATH.exists():
+        return "sudah_ada"
+
+    import importlib.util
+
+    etl_script = PROJECT_ROOT / "etl" / "etl_pipeline.py"
+    spec = importlib.util.spec_from_file_location("etl_pipeline", etl_script)
+    etl_module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(etl_module)
+    etl_module.main()
+    return "baru_dibangun"
+
+
+with st.spinner("Menyiapkan database dari data sumber (hanya dijalankan sekali)..."):
+    db_status = ensure_database()
+
+if db_status == "baru_dibangun":
+    st.toast("Database berhasil dibangun dari data/raw/*.csv", icon="✅")
+
+# =====================================================================
 # KONEKSI DATABASE (READ-ONLY, DI-CACHE SELAMA SESI)
 # =====================================================================
 @st.cache_resource
@@ -85,8 +116,9 @@ conn = get_connection()
 
 if conn is None:
     st.error(
-        "Database tidak ditemukan di `data/esg_data_mart.db`.\n\n"
-        "Jalankan pipeline ETL terlebih dahulu dari root proyek:\n\n"
+        "Database tidak ditemukan dan gagal dibangun otomatis dari `data/raw/*.csv`.\n\n"
+        "Pastikan folder `data/raw/` berisi ke-4 file CSV sumber, lalu coba jalankan "
+        "manual dari root proyek:\n\n"
         "```bash\npython3 etl/etl_pipeline.py\n```"
     )
     st.stop()
